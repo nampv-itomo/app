@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.Home {
+  background-image: url('../photos/nền chính mở đầu_final.jpg');
+  background-size: cover; /* Làm hình nền phủ hết màn hình */
+  background-position: center center; /* Căn giữa hình nền */
+  background-repeat: no-repeat; /* Không lặp lại hình nền */
+  min-height: 100vh;
+}
+
+.Home .container {
+  display: flex;
+  flex-direction: row;
+  /* khoang cach giua cac phan tu */
+  justify-content: space-evenly;
+  /* justify-content: center; */
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  padding: 20px;
+  /* margin: 20px; */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 25%;
+  height: 100px;
+  background-color: aqua;
+  cursor: pointer;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

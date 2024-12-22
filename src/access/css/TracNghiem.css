@@ -1,0 +1,15 @@
+.TracNghiem {
+  background-image: url("../photos/nền trắc nghiệm_final.jpg");
+  background-size: cover; /* Làm hình nền phủ hết màn hình */
+  background-position: center center; /* Căn giữa hình nền */
+  background-repeat: no-repeat; /* Không lặp lại hình nền */
+  min-height: 100vh;
+}
+
+/* .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+} */
