@@ -4,12 +4,92 @@
   background-position: center center; /* Căn giữa hình nền */
   background-repeat: no-repeat; /* Không lặp lại hình nền */
   min-height: 100vh;
+  position: relative;
 }
 
-/* .container {
+.TracNghiem .btn-back {
+  padding: 10px;
+  position: relative;
+  top: 20px; /* Push the container down by 200px */
+  left: 20px;
+  cursor: pointer;
+}
+
+.TracNghiem .result {
+  width: 100px;
+  height: 100px;
+  background-color: rgba(0, 1, 1, 0.742);
+  border-radius: 50%;
+  padding: 20px;
+  position: absolute;
+  top: 50px; /* Push the container down by 200px */
+  right: 50px;
   display: flex;
-  flex-direction: column;
   justify-content: center;
-  align-items: center;
-  height: 100vh;
-} */
+}
+
+.TracNghiem .result h1 {
+  font-size: 32px;
+  color: #ffffff;
+  margin: 0;
+  align-self: center;
+}
+
+.TracNghiem .container {
+  width: 700px;
+  height: 300px;
+  margin: 0 auto;
+  background-color: rgba(225, 255, 255, 0.7);
+  border-radius: 10px;
+  padding: 20px;
+  position: relative;
+  top: 100px; /* Push the container down by 200px */
+}
+
+h1 {
+  text-align: left;
+  color: #333;
+}
+.question {
+  margin-bottom: 20px;
+}
+.question h2 {
+  font-size: 18px;
+  color: #333;
+}
+.options {
+  list-style-type: none;
+  padding: 0;
+}
+.options li {
+  margin-bottom: 20px;
+  
+}
+.options li label {
+  font-size: 16px;
+  color: #333;
+  cursor: pointer;
+}
+.options input {
+  margin-right: 10px;
+}
+
+.go-next {
+  display: flex;
+  justify-content: center;
+}
+
+.submit-btn {
+  width: 200px;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  position: absolute;
+  bottom: 20px;
+}
+.submit-btn:hover {
+  background-color: #45a049;
+}

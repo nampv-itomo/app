@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Home from "./Home";
-import TracNghiem from "./TracNghiem";
-import BaiHat from "./BaiHat";
+import Home from "./pages/Home";
+import TracNghiem from "./pages/TracNghiem";
+import BaiHat from "./pages/BaiHat";
 
 function App() {
   return (

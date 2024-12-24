@@ -1,5 +1,5 @@
 import React from "react";
-import "./access/css/Home.css";
+import "../access/css/Home.css";
 import { Navigate, useNavigate } from "react-router-dom";
 
 const Home = () => {
@@ -11,10 +11,14 @@ const Home = () => {
     <div className="Home">
       <div className="container">
         <div className="box" onClick={handleGo}>
-          Câu hỏi trắc nghiệm
+          <span>Trắc Nghiệm</span>
         </div>
-        <div className="box">Bài hát </div>
-        <div className="box">Box 3</div>
+        <div className="box" onClick={handleGo}>
+          <span>Bài Hát</span>
+        </div>
+        <div className="box" onClick={handleGo}>
+          <span>Điều Bác Dạy</span>
+        </div>
       </div>
     </div>
   );
