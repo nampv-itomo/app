@@ -17,8 +17,8 @@
 }
 
 .TracNghiem .result {
-  width: 80px;
-  height: 80px;
+  width: 120px;
+  height: 120px;
   background-color: rgba(0, 1, 1, 0.742);
   border-radius: 50%;
   padding: 20px;
@@ -30,7 +30,7 @@
 }
 
 .TracNghiem .result h2 {
-  font-size: 28px;
+  font-size: 24px;
   color: #ffffff;
   margin: 0;
   align-self: center;

@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, HashRouter } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";
 
 import Home from "./pages/Home";
@@ -8,7 +8,7 @@ import Demo from "./pages/Demo";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <Routes>
           <Route path="/" element={<Home />} />
@@ -18,7 +18,7 @@ function App() {
         </Routes>
         <ToastContainer />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

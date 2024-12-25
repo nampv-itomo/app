@@ -573,6 +573,7 @@ export const ListPlayer = ({
   const allowScrollIntoView = useRef(true);
 
   console.log("selectedTrack: ", selectedTrack);
+  console.log("isPlaying: ", isPlaying);
 
   const play = (resume = true) => {
     setIsPlaying(true);
