@@ -3,11 +3,14 @@ import ReactDOM from "react-dom/client";
 import "./access/css/index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
+import { DataProvider } from "./pages/ListPlayerContext";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   // <React.StrictMode>
-  <App />
+  <DataProvider>
+    <App />
+  </DataProvider>
   // </React.StrictMode>
 );
 

@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import "../access/css/TracNghiem.css";
 import { useNavigate } from "react-router-dom";
 import { questions } from "../data/data";
+import nextIcon from "../access/icons/icon-next.png";
+import { toast } from "react-toastify";
 
 // lay random 20 phan tu trong mang questions
 let randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 20);
@@ -16,25 +18,56 @@ const TracNghiem = () => {
   const [result, setResult] = useState("");
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [score, setScore] = useState(0);
+  const [explain, setExplain] = useState("");
+  const [correct, setCorrect] = useState("");
+
+  const showToast = (message) => {
+    toast.warning(message, {
+      position: "top-center",
+      autoClose: 3000,
+      hideProgressBar: false,
+      closeOnClick: false,
+      pauseOnHover: true,
+      draggable: true,
+      progress: undefined,
+      theme: "light",
+    });
+  };
 
   const handleResult = () => {
     if (result === "") {
-      alert("Vui lòng chọn đáp án");
+      showToast("Vui lòng chọn đáp án");
       return;
     }
 
-    const correct = randomQuestions[currentQuestion].result.split(")")[0];
-    if (result === correct) {
-      setScore(score + 1);
-    }
-
-    if (currentQuestion < randomQuestions.length - 1) {
-      setCurrentQuestion(currentQuestion + 1);
-      setResult("");
-    } else {
-      alert("Kết thúc bài thi");
+    if (correct === "") {
+      const correct = randomQuestions[currentQuestion].result.split(")")[0];
+      setExplain("Giải thích: " + randomQuestions[currentQuestion].explain);
+      setCorrect(correct);
+      if (result === correct) {
+        setScore(score + 1);
+      }
     }
   };
+
+  const nextQuestion = () => {
+    if (correct === "") {
+      showToast("Vui lòng nộp bài trước khi chuyển câu hỏi");
+      return;
+    } else {
+      setCorrect("");
+      setExplain("");
+      if (currentQuestion < randomQuestions.length - 1) {
+        setCurrentQuestion(currentQuestion + 1);
+        setResult("");
+      } else {
+        showToast("Đã hết câu hỏi");
+      }
+    }
+  };
+
+  console.log("result", result);
+  console.log("correct", correct);
 
   return (
     <div className="TracNghiem">
@@ -43,7 +76,7 @@ const TracNghiem = () => {
       </button>
 
       <div className="result">
-        <h1>{score} / 20</h1>
+        <h2>{score} / 20</h2>
       </div>
 
       <div className="container">
@@ -61,9 +94,19 @@ const TracNghiem = () => {
                   value="a"
                   checked={result === "a"}
                   onChange={(e) => setResult(e.target.value)}
+                  disabled={correct !== ""}
                 />
-                {"A: "}
-                <label htmlFor="qa">{randomQuestions[currentQuestion].answer_a}</label>
+
+                <label
+                  htmlFor="qa"
+                  style={{
+                    color: correct === "a" ? "green" : "black",
+                    fontWeight: correct === "a" ? "bold" : "normal",
+                  }}
+                >
+                  {"A: "}
+                  {randomQuestions[currentQuestion].answer_a}
+                </label>
               </li>
               <li>
                 <input
@@ -73,9 +116,19 @@ const TracNghiem = () => {
                   value="b"
                   checked={result === "b"}
                   onChange={(e) => setResult(e.target.value)}
+                  disabled={correct !== ""}
                 />
-                {"B: "}
-                <label htmlFor="qb">{randomQuestions[currentQuestion].answer_b}</label>
+
+                <label
+                  htmlFor="qb"
+                  style={{
+                    color: correct === "b" ? "green" : "black",
+                    fontWeight: correct === "b" ? "bold" : "normal",
+                  }}
+                >
+                  {"B: "}
+                  {randomQuestions[currentQuestion].answer_b}
+                </label>
               </li>
               <li>
                 <input
@@ -85,9 +138,19 @@ const TracNghiem = () => {
                   value="c"
                   checked={result === "c"}
                   onChange={(e) => setResult(e.target.value)}
+                  disabled={correct !== ""}
                 />
-                {"C: "}
-                <label htmlFor="qc">{randomQuestions[currentQuestion].answer_c}</label>
+
+                <label
+                  htmlFor="qc"
+                  style={{
+                    color: correct === "c" ? "green" : "black",
+                    fontWeight: correct === "c" ? "bold" : "normal",
+                  }}
+                >
+                  {"C: "}
+                  {randomQuestions[currentQuestion].answer_c}
+                </label>
               </li>
               <li>
                 <input
@@ -97,18 +160,37 @@ const TracNghiem = () => {
                   value="d"
                   checked={result === "d"}
                   onChange={(e) => setResult(e.target.value)}
+                  disabled={correct !== ""}
                 />
-                {"D: "}
-                <label htmlFor="qd">{randomQuestions[currentQuestion].answer_d}</label>
+
+                <label
+                  htmlFor="qd"
+                  style={{
+                    color: correct === "d" ? "green" : "black",
+                    fontWeight: correct === "d" ? "bold" : "normal",
+                  }}
+                >
+                  {"D: "}
+                  {randomQuestions[currentQuestion].answer_d}
+                </label>
               </li>
             </ul>
+            <div className="explain" style={{ display: correct === "" ? "none" : "block" }}>
+              <h3>{explain}</h3>
+            </div>
           </div>
 
-          <div className="go-next">
+          <div className="result-btn">
             <button type="button" className="submit-btn" onClick={handleResult}>
-              Nộp Bài
+              Gửi đáp án
             </button>
           </div>
+
+          {(currentQuestion !== 0 && currentQuestion !== randomQuestions.length - 1) || correct !== "" ? (
+            <div className="next">
+              <img className="next-btn" src={nextIcon} alt="next" onClick={nextQuestion} />
+            </div>
+          ) : null}
         </form>
       </div>
     </div>
