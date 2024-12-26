@@ -9,11 +9,16 @@
 }
 
 .TracNghiem .btn-back {
-  padding: 10px;
+  padding: 20px;
+  min-width: 80px;
   position: relative;
   top: 20px; /* Push the container down by 200px */
   left: 20px;
   cursor: pointer;
+  background-color: #45a049;
+  color: white;
+  border-radius: 4px;
+  font-weight: bold;
 }
 
 .TracNghiem .result {

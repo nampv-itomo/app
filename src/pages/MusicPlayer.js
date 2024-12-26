@@ -1,4 +1,5 @@
 import React, { useState, useRef } from "react";
+import { useNavigate } from "react-router-dom";
 import styled from "styled-components";
 import "../access/css/Music.css";
 
@@ -48,8 +49,16 @@ const MusicPlayer = () => {
     }
   };
 
+  const navigator = useNavigate();
+  const handleGo = () => {
+    navigator("/");
+  };
+
   return (
     <div className="Container">
+      <button className="back-btn" type="button" onClick={handleGo}>
+        Quay lại
+      </button>
       <h1>Music Player</h1>
       <input type="file" accept="audio/*" onChange={handleFileChange} />
       {fileName && <p>Now Playing: {fileName}</p>}
