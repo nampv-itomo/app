@@ -11,31 +11,48 @@
 }
 
 .Home {
-  background-image: url('../photos/nền chính mở đầu_final.jpg');
-  background-size: cover; /* Làm hình nền phủ hết màn hình */
-  background-position: center center; /* Căn giữa hình nền */
-  background-repeat: no-repeat; /* Không lặp lại hình nền */
+  /* background-image: url('../photos/nền chính mở đầu_final.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;  */
   min-height: 100vh;
+}
+
+.video-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1; /* Để video ở phía dưới nội dung */
 }
 
 .Home .container {
   display: flex;
-  flex-direction: row;
-  /* khoang cach giua cac phan tu */
-  justify-content: space-evenly;
-  /* justify-content: center; */
-  align-items: center;
+  align-items: end;
   height: 100vh;
+  width: 100vw;
 }
 
+.Home .container .menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100px;
+  width: 100%;
+}
+
+
 .Home .container .box {
-  background-color: #f8f9fadc;
+  background-color: #f8f9fab5;
   border-radius: 10px;
-  padding: 20px;
+  padding: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   width: 25%;
   min-width: 250px;
-  height: 100px;
+  height: 60px;
   max-width: 300px;
   cursor: pointer;
   display: flex;

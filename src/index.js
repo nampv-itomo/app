@@ -3,15 +3,15 @@ import ReactDOM from "react-dom/client";
 import "./access/css/index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import { DataProvider } from "./pages/ListPlayerContext";
+import reducers from "./component/reducers";
+import { createStore } from "redux";
+import { Provider } from "react-redux";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  // <React.StrictMode>
-  <DataProvider>
+  <Provider store={createStore(reducers, window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__())}>
     <App />
-  </DataProvider>
-  // </React.StrictMode>
+  </Provider>
 );
 
 // If you want to start measuring performance in your app, pass a function

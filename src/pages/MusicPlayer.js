@@ -51,7 +51,7 @@ const MusicPlayer = () => {
 
   const navigator = useNavigate();
   const handleGo = () => {
-    navigator("/");
+    navigator("/home");
   };
 
   return (

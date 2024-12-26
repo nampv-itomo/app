@@ -1,11 +1,21 @@
 .TracNghiem {
-  background-image: url("../photos/nền trắc nghiệm_final.jpg");
-  background-size: cover; /* Làm hình nền phủ hết màn hình */
-  background-position: center center; /* Căn giữa hình nền */
-  background-repeat: no-repeat; /* Không lặp lại hình nền */
+  /* background-image: url("../photos/anh_nen_chinh.gif");
+  background-size: cover; 
+  background-position: center center;
+  background-repeat: no-repeat;  */
   min-height: 100vh;
   min-width: 400px;
   position: relative;
+}
+
+.video-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1; /* Để video ở phía dưới nội dung */
 }
 
 .TracNghiem .btn-back {

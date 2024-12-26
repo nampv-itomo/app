@@ -1,20 +1,22 @@
-import { BrowserRouter, Routes, Route, HashRouter } from "react-router-dom";
-import { ToastContainer, toast } from "react-toastify";
+import { Routes, Route, HashRouter, BrowserRouter } from "react-router-dom";
+import { ToastContainer } from "react-toastify";
 
 import Home from "./pages/Home";
 import TracNghiem from "./pages/TracNghiem";
 import MusicPlayer from "./pages/MusicPlayer";
-import Demo from "./pages/Demo";
+import Intro from "./pages/Intro";
+import SongApp from "./component/components/App";
 
 function App() {
   return (
     <HashRouter>
       <div className="App">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Intro />} />
+          <Route path="/home" element={<Home />} />
           <Route path="/tracnghiem" element={<TracNghiem />} />
           <Route path="/baihat" element={<MusicPlayer />} />
-          <Route path="/music" element={<Demo />} />
+          <Route path="/song" element={<SongApp />} />
         </Routes>
         <ToastContainer />
       </div>
