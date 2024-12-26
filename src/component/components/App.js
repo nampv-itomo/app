@@ -17,12 +17,9 @@ const SongApp = () => {
     <React.Fragment>
       {/* <NavBar /> */}
       {/* <SongListHeader /> */}
-      <SongDetail />
+      {/* <SongDetail /> */}
       <SongList songs={songs} />
       <Player />
-      <a href="#focused" id="focus-link" hidden>
-        Go to playing element
-      </a>
     </React.Fragment>
   );
 };

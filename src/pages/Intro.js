@@ -25,7 +25,7 @@ const Intro = () => {
         <source src={videoBackground} type="video/mp4" />
         Trình duyệt của bạn không hỗ trợ video.
       </video>
-      <button onClick={unmuteVideo}>Unmute</button>
+      {/* <button onClick={unmuteVideo}>Unmute</button> */}
     </div>
   );
 };

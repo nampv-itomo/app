@@ -1,11 +1,13 @@
 .song-item {
     color: rgb(148, 163, 184);
-    width: 98%;
+    width: 100%;
     height: fit-content;
-    display: grid;
-    grid-template-columns: 10% 50% 30% 10%;
+    display: flex;
+    justify-content: space-between;
+    /* grid-template-columns: 10% 50% 30% 10%; */
     padding: 10px 5px;
     transition: all 0.1s ease-in-out;
+    /* box-sizing: border-box; */
 }
 
 .song-item:hover {
@@ -23,17 +25,21 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 .song-item > * {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    color: inherit;
+    color: white;
+    /* border-top: #eee 1px solid; */
 }
 
 .song-item > .name {
-    justify-content: flex-start !important;
+    /* justify-content: flex-start !important; */
+    color: white;
+    margin-right: 20px;
 }
 
 .item-control > svg,

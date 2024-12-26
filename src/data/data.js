@@ -7,6 +7,7 @@ export const questions = [
     answer_d: "Bị pháp luật nghiêm trị",
     result: "d) Bị pháp luật nghiêm trị",
     explain: "Tội phạm là hành vi nguy hiểm cho xã hội, bị pháp luật xử lý nghiêm khắc.",
+    chose: "",
   },
   {
     question: "Hình phạt chính là:",
@@ -16,6 +17,7 @@ export const questions = [
     answer_d: "Cả a, b và c",
     result: "d) Cả a, b và c",
     explain: "Hình phạt chính bao gồm nhiều hình thức như phạt tiền.",
+    chose: "",
   },
   {
     question: "Thời hạn để khởi tố vụ án hình sự là:",
@@ -25,6 +27,7 @@ export const questions = [
     answer_d: "20 năm",
     result: "d) 20 năm",
     explain: "Thời hạn này được quy định để đảm bảo quá trình điều tra và truy tố.",
+    chose: "",
   },
   {
     question: "Người chưa thành niên phạm tội sẽ:",
@@ -34,6 +37,7 @@ export const questions = [
     answer_d: "Chỉ bị cảnh cáo",
     result: "b) Được áp dụng các biện pháp giảm nhẹ",
     explain: "Pháp luật có chính sách khoan hồng, giảm nhẹ cho người chưa thành niên phạm tội.",
+    chose: "",
   },
   {
     question: "Tòa án có quyền:",
@@ -43,6 +47,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "d) Tất cả các lựa chọn trên",
     explain: "Tòa án có quyền quyết định xét xử, áp dụng biện pháp xử lý và tha bổng bị cáo nếu cần.",
+    chose: "",
   },
   {
     question: "Phạm tội trong trường hợp tự vệ chính đáng được xem là:",
@@ -52,6 +57,7 @@ export const questions = [
     answer_d: "Vi phạm hành chính",
     result: "a) Không phạm tội",
     explain: "Tự vệ chính đáng không bị coi là phạm tội.",
+    chose: "",
   },
   {
     question: "Tội lừa đảo chiếm đoạt tài sản có mức án tối đa là:",
@@ -61,6 +67,7 @@ export const questions = [
     answer_d: "Chung thân",
     result: "d) Chung thân",
     explain: "Tội lừa đảo chiếm đoạt tài sản có mức án tối đa là tù chung thân, tùy vào mức độ nghiêm trọng.",
+    chose: "",
   },
   {
     question: "Người đồng phạm là:",
@@ -70,6 +77,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "d) Tất cả các lựa chọn trên",
     explain: "Đồng phạm bao gồm tất cả các thành phần tham gia vào việc phạm tội.",
+    chose: "",
   },
   {
     question: "Vi phạm quyền tác giả sẽ bị xử lý:",
@@ -79,6 +87,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "d) Tất cả các lựa chọn trên",
     explain: "Vi phạm quyền tác giả có thể bị xử lý bằng nhiều hình thức khác nhau.",
+    chose: "",
   },
   {
     question: "Tội phạm ma túy bị xử lý như thế nào?",
@@ -88,6 +97,7 @@ export const questions = [
     answer_d: "Tù giam hoặc phạt tiền",
     result: "d) Tù giam hoặc phạt tiền",
     explain: "Tội phạm ma túy có thể bị xử lý bằng tù giam hoặc phạt tiền tùy theo mức độ vi phạm.",
+    chose: "",
   },
   {
     question: "Tội trộm cắp tài sản có mức án tối đa là:",
@@ -97,6 +107,7 @@ export const questions = [
     answer_d: "15 năm tù",
     result: "c) 10 năm tù",
     explain: "Tội trộm cắp tài sản có mức án tối đa tùy vào giá trị tài sản bị trộm cắp và tình tiết tăng nặng.",
+    chose: "",
   },
   {
     question: "Khi nào thì một hành vi được coi là phạm tội có tổ chức?",
@@ -106,6 +117,7 @@ export const questions = [
     answer_d: "Cả a, b và c",
     result: "d) Cả a, b và c",
     explain: "Phạm tội có tổ chức yêu cầu có sự tham gia của nhiều người, có kế hoạch và phân công nhiệm vụ cụ thể.",
+    chose: "",
   },
   {
     question: "Tội phạm môi trường bao gồm các hành vi:",
@@ -115,6 +127,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "d) Tất cả các lựa chọn trên",
     explain: "Tội phạm môi trường bao gồm nhiều hành vi vi phạm như ô nhiễm nước, không khí, phá rừng.",
+    chose: "",
   },
   {
     question: "Thời hạn truy cứu trách nhiệm hình sự đối với tội nhẹ là:",
@@ -124,6 +137,7 @@ export const questions = [
     answer_d: "20 năm",
     result: "a) 5 năm",
     explain: "Thời hạn truy cứu trách nhiệm hình sự đối với tội nhẹ thường ngắn hơn so với tội nặng.",
+    chose: "",
   },
   {
     question: "Tội giết người có mức án tối đa là:",
@@ -133,6 +147,7 @@ export const questions = [
     answer_d: "30 năm tù",
     result: "c) Tử hình",
     explain: "Tội giết người có mức án tối đa là tử hình trong các trường hợp nghiêm trọng.",
+    chose: "",
   },
   {
     question: "Phạm tội trong tình trạng say rượu có bị coi là tình tiết giảm nhẹ không?",
@@ -141,6 +156,7 @@ export const questions = [
     result: "b) Không",
     explain:
       "Tình trạng say rượu không được coi là tình tiết giảm nhẹ mà thậm chí có thể là tình tiết tăng nặng nếu phạm tội.",
+    chose: "",
   },
   {
     question: "Người phạm tội đã bị kết án, nhưng chưa thi hành án gọi là:",
@@ -150,6 +166,7 @@ export const questions = [
     answer_d: "Người bị khởi tố",
     result: "c) Người bị kết án",
     explain: "Người đã bị tòa án tuyên án nhưng chưa thi hành án gọi là người bị kết án.",
+    chose: "",
   },
   {
     question: "Tội phạm khủng bố bị xử lý như thế nào?",
@@ -159,6 +176,7 @@ export const questions = [
     answer_d: "Tù giam hoặc phạt tiền",
     result: "b) Tù giam",
     explain: "Tội phạm khủng bố thường bị xử lý bằng hình phạt tù giam nghiêm khắc.",
+    chose: "",
   },
   {
     question: "Hình phạt nhẹ nhất đối với tội phạm là:",
@@ -168,6 +186,7 @@ export const questions = [
     answer_d: "Tước quyền công dân",
     result: "b) Cảnh cáo",
     explain: "Hình phạt nhẹ nhất trong hệ thống hình sự là cảnh cáo.",
+    chose: "",
   },
   {
     question: "Tội phạm sử dụng vũ khí trái phép có mức án tối đa là:",
@@ -177,6 +196,7 @@ export const questions = [
     answer_d: "20 năm tù",
     result: "c) 15 năm tù",
     explain: "Tội phạm sử dụng vũ khí trái phép có mức án tối đa là 15 năm tù.",
+    chose: "",
   },
   {
     question: "Tội phạm công nghệ cao thường liên quan đến hành vi:",
@@ -186,6 +206,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "d) Tất cả các lựa chọn trên",
     explain: "Tội phạm công nghệ cao bao gồm các hành vi như trộm cắp dữ liệu, tấn công mạng và lừa đảo qua mạng.",
+    chose: "",
   },
   {
     question: "Tội bạo hành gia đình có mức án tối đa là:",
@@ -195,6 +216,7 @@ export const questions = [
     answer_d: "15 năm tù",
     result: "c) 10 năm tù",
     explain: "Tội bạo hành gia đình có thể bị xử phạt nặng tùy vào mức độ nghiêm trọng của hành vi.",
+    chose: "",
   },
   {
     question: "Người phạm tội đánh bạc trái phép có thể bị phạt:",
@@ -204,6 +226,7 @@ export const questions = [
     answer_d: "Cả a và c",
     result: "d) Cả a và c",
     explain: "Người phạm tội đánh bạc trái phép có thể bị xử lý bằng phạt tiền hoặc tù giam tùy vào mức độ vi phạm.",
+    chose: "",
   },
   {
     question: "Tội phạm kinh tế bao gồm các hành vi:",
@@ -213,6 +236,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "d) Tất cả các lựa chọn trên",
     explain: "Tội phạm kinh tế bao gồm nhiều hành vi như gian lận thuế, buôn lậu và rửa tiền.",
+    chose: "",
   },
   {
     question: "Thời hạn truy cứu trách nhiệm hình sự đối với tội phạm đặc biệt nghiêm trọng là:",
@@ -222,6 +246,7 @@ export const questions = [
     answer_d: "Không xác định thời hạn",
     result: "d) Không xác định thời hạn",
     explain: "Đối với tội phạm đặc biệt nghiêm trọng, thời hạn truy cứu trách nhiệm hình sự có thể không xác định.",
+    chose: "",
   },
   {
     question: "Hành vi phỉ báng người khác có thể bị xử lý:",
@@ -231,6 +256,7 @@ export const questions = [
     answer_d: "Cả a và c",
     result: "d) Cả a và c",
     explain: "Hành vi phỉ báng người khác có thể bị xử lý bằng phạt tiền hoặc tù giam tùy vào mức độ nghiêm trọng.",
+    chose: "",
   },
   {
     question: "Tội phạm về môi trường có thể bị phạt:",
@@ -240,6 +266,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "d) Tất cả các lựa chọn trên",
     explain: "Tội phạm về môi trường có thể bị xử lý bằng nhiều hình thức như phạt tiền, cấm hoạt động và tù giam.",
+    chose: "",
   },
   {
     question: "Tội phạm sử dụng vũ khí nguy hiểm có mức án tối đa là:",
@@ -250,6 +277,7 @@ export const questions = [
     result: "d) Chung thân",
     explain:
       "Tội phạm sử dụng vũ khí nguy hiểm có thể bị xử phạt nặng, đến mức chung thân tùy vào tính chất và mức độ vi phạm.",
+    chose: "",
   },
   {
     question: "Tội phạm bắt cóc con tin có mức án tối đa là:",
@@ -260,6 +288,7 @@ export const questions = [
     result: "d) Chung thân hoặc tử hình",
     explain:
       "Tội bắt cóc con tin có thể bị xử phạt nặng, đến mức chung thân hoặc tử hình trong những trường hợp nghiêm trọng.",
+    chose: "",
   },
   {
     question: "Tội phạm tấn công tình dục có thể bị xử lý:",
@@ -269,6 +298,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "d) Tất cả các lựa chọn trên",
     explain: "Tội tấn công tình dục có thể bị xử lý bằng cảnh cáo, phạt tiền hoặc tù giam tùy vào mức độ vi phạm.",
+    chose: "",
   },
   {
     question: "Tội phạm lừa đảo qua mạng thường bao gồm:",
@@ -279,6 +309,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Tội lừa đảo qua mạng thường bao gồm các hành vi như gửi email giả mạo, tạo trang web giả và chiếm đoạt thông tin cá nhân.",
+    chose: "",
   },
   {
     question: "Hành vi bạo lực học đường có thể bị xử lý:",
@@ -289,6 +320,7 @@ export const questions = [
     result: "d) Cả a, b và c",
     explain:
       "Hành vi bạo lực học đường có thể bị xử lý bằng cảnh cáo, phạt tiền hoặc tù giam tùy vào mức độ nghiêm trọng.",
+    chose: "",
   },
   {
     question: "Tội phạm kinh doanh trái phép có mức án tối đa là:",
@@ -298,6 +330,7 @@ export const questions = [
     answer_d: "20 năm tù",
     result: "b) 10 năm tù",
     explain: "Tội kinh doanh trái phép có thể bị xử phạt nặng đến mức 10 năm tù tùy vào mức độ nghiêm trọng.",
+    chose: "",
   },
   {
     question: "Tội phạm tàng trữ, vận chuyển vũ khí trái phép có thể bị phạt:",
@@ -308,6 +341,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Tội tàng trữ, vận chuyển vũ khí trái phép có thể bị xử lý bằng nhiều hình thức khác nhau tùy vào mức độ vi phạm.",
+    chose: "",
   },
   {
     question: "Hành vi quấy rối tình dục nơi công cộng có thể bị xử lý:",
@@ -318,6 +352,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Hành vi quấy rối tình dục nơi công cộng có thể bị xử lý bằng nhiều hình thức khác nhau tùy vào mức độ nghiêm trọng.",
+    chose: "",
   },
   {
     question: "Tội phạm chiếm đoạt tài sản có thể bị xử phạt:",
@@ -328,6 +363,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Tội chiếm đoạt tài sản có thể bị xử phạt bằng nhiều hình thức khác nhau tùy vào giá trị tài sản và mức độ vi phạm.",
+    chose: "",
   },
   {
     question: "Tội phạm về an ninh quốc gia có thể bị xử lý:",
@@ -338,6 +374,7 @@ export const questions = [
     result: "d) Tù giam hoặc tử hình",
     explain:
       "Tội phạm về an ninh quốc gia thường bị xử lý nghiêm khắc, có thể đến mức tù giam hoặc tử hình tùy vào mức độ nghiêm trọng.",
+    chose: "",
   },
   {
     question: "Hành vi gây rối trật tự công cộng có thể bị xử lý:",
@@ -348,6 +385,7 @@ export const questions = [
     result: "d) Cả a, b và c",
     explain:
       "Hành vi gây rối trật tự công cộng có thể bị xử lý bằng cảnh cáo, phạt tiền hoặc tù giam tùy vào mức độ nghiêm trọng.",
+    chose: "",
   },
   {
     question: "Tội phạm buôn bán người có mức án tối đa là:",
@@ -358,6 +396,7 @@ export const questions = [
     result: "d) Chung thân hoặc tử hình",
     explain:
       "Tội buôn bán người thường bị xử phạt nặng, có thể đến mức chung thân hoặc tử hình trong những trường hợp nghiêm trọng.",
+    chose: "",
   },
   {
     question: "Hành vi tham nhũng thường bao gồm:",
@@ -367,6 +406,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "d) Tất cả các lựa chọn trên",
     explain: "Tham nhũng bao gồm nhiều hành vi như lạm dụng quyền lực, hối lộ và tham ô.",
+    chose: "",
   },
   {
     question: "Tội phạm cố ý gây thương tích có mức án tối đa là:",
@@ -376,6 +416,7 @@ export const questions = [
     answer_d: "15 năm tù",
     result: "d) 15 năm tù",
     explain: "Tội cố ý gây thương tích có thể bị xử phạt nặng tùy vào mức độ nghiêm trọng của hành vi.",
+    chose: "",
   },
   {
     question: "Tội phạm vi phạm quy định về bảo vệ động vật hoang dã có thể bị phạt:",
@@ -385,6 +426,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "d) Tất cả các lựa chọn trên",
     explain: "Tội vi phạm quy định về bảo vệ động vật hoang dã có thể bị xử lý bằng nhiều hình thức khác nhau.",
+    chose: "",
   },
   {
     question: "Hành vi phá hoại tài sản công có mức án tối đa là:",
@@ -394,6 +436,7 @@ export const questions = [
     answer_d: "15 năm tù",
     result: "c) 10 năm tù",
     explain: "Tội phá hoại tài sản công có thể bị xử phạt nặng tùy vào mức độ nghiêm trọng của hành vi.",
+    chose: "",
   },
   {
     question: "Tội phạm về quyền sở hữu trí tuệ có thể bị xử lý:",
@@ -403,6 +446,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "d) Tất cả các lựa chọn trên",
     explain: "Tội vi phạm quyền sở hữu trí tuệ có thể bị xử lý bằng nhiều hình thức khác nhau.",
+    chose: "",
   },
   {
     question: "Hành vi phạm tội dưới sự ép buộc có thể được coi là:",
@@ -412,6 +456,7 @@ export const questions = [
     answer_d: "Được miễn trách nhiệm hình sự",
     result: "a) Tình tiết giảm nhẹ",
     explain: "Hành vi phạm tội dưới sự ép buộc thường được coi là tình tiết giảm nhẹ.",
+    chose: "",
   },
   {
     question: "Tội phạm cố ý gây tai nạn giao thông có mức án tối đa là:",
@@ -421,6 +466,7 @@ export const questions = [
     answer_d: "15 năm tù",
     result: "d) 15 năm tù",
     explain: "Tội cố ý gây tai nạn giao thông có thể bị xử phạt nặng tùy vào mức độ nghiêm trọng của hành vi.",
+    chose: "",
   },
   {
     question: "Hành vi cung cấp thông tin sai lệch để chiếm đoạt tài sản có mức án tối đa là:",
@@ -431,6 +477,7 @@ export const questions = [
     result: "d) 10 năm tù",
     explain:
       "Hành vi cung cấp thông tin sai lệch để chiếm đoạt tài sản có thể bị xử phạt nặng tùy vào mức độ nghiêm trọng.",
+    chose: "",
   },
   {
     question: "Tội phạm gây rối trật tự nơi công cộng có thể bị xử lý:",
@@ -440,6 +487,7 @@ export const questions = [
     answer_d: "Cả a, b và c",
     result: "d) Cả a, b và c",
     explain: "Tội gây rối trật tự nơi công cộng có thể bị xử lý bằng nhiều hình thức khác nhau.",
+    chose: "",
   },
   {
     question: "Tội phạm lạm dụng tín nhiệm chiếm đoạt tài sản có mức án tối đa là:",
@@ -449,6 +497,7 @@ export const questions = [
     answer_d: "15 năm tù",
     result: "c) 10 năm tù",
     explain: "Tội lạm dụng tín nhiệm chiếm đoạt tài sản có thể bị xử phạt nặng tùy vào mức độ nghiêm trọng.",
+    chose: "",
   },
   {
     question: "Hành vi gây cháy nổ gây hậu quả nghiêm trọng có thể bị phạt:",
@@ -459,6 +508,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Hành vi gây cháy nổ gây hậu quả nghiêm trọng có thể bị xử lý bằng nhiều hình thức khác nhau tùy vào mức độ nghiêm trọng của hậu quả.",
+    chose: "",
   },
   {
     question: "Tội phạm tham ô tài sản có mức án tối đa là:",
@@ -468,6 +518,7 @@ export const questions = [
     answer_d: "Chung thân",
     result: "d) Chung thân",
     explain: "Tội tham ô tài sản có thể bị xử phạt nặng, đến mức chung thân tùy vào mức độ nghiêm trọng của hành vi.",
+    chose: "",
   },
   {
     question: "Hành vi lợi dụng chức vụ, quyền hạn để trục lợi có thể bị phạt:",
@@ -478,6 +529,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Hành vi lợi dụng chức vụ, quyền hạn để trục lợi có thể bị xử lý bằng nhiều hình thức khác nhau tùy vào mức độ vi phạm.",
+    chose: "",
   },
   {
     question: "Tội phạm xâm hại tình dục trẻ em có mức án tối đa là:",
@@ -488,6 +540,7 @@ export const questions = [
     result: "d) Chung thân hoặc tử hình",
     explain:
       "Tội xâm hại tình dục trẻ em có thể bị xử phạt rất nặng, đến mức chung thân hoặc tử hình tùy vào mức độ nghiêm trọng của hành vi.",
+    chose: "",
   },
   {
     question: "Tội phạm gây thiệt hại về tài sản nhà nước có thể bị xử lý:",
@@ -498,6 +551,7 @@ export const questions = [
     result: "b) Tù giam",
     explain:
       "Tội gây thiệt hại về tài sản nhà nước thường bị xử phạt bằng tù giam tùy vào mức độ nghiêm trọng của hành vi.",
+    chose: "",
   },
   {
     question: "Hành vi xâm phạm quyền sở hữu công nghiệp có thể bị phạt:",
@@ -508,6 +562,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Hành vi xâm phạm quyền sở hữu công nghiệp có thể bị xử lý bằng nhiều hình thức khác nhau tùy vào mức độ vi phạm.",
+    chose: "",
   },
   {
     question: "Tội phạm cố ý hủy hoại tài sản có mức án tối đa là:",
@@ -517,6 +572,7 @@ export const questions = [
     answer_d: "15 năm tù",
     result: "d) 15 năm tù",
     explain: "Tội cố ý hủy hoại tài sản có thể bị xử phạt nặng tùy vào mức độ nghiêm trọng của hành vi.",
+    chose: "",
   },
   {
     question: "Tội phạm kinh doanh trái phép có mức án tối đa là:",
@@ -527,6 +583,7 @@ export const questions = [
     result: "b) 10 năm tù",
     explain:
       "Kinh doanh trái phép (Illegal business) là việc thực hiện hoạt động kinh doanh mà không có sự cho phép của cơ quan có thẩm quyền.",
+    chose: "",
   },
   {
     question: "Tội phạm tàng trữ, vận chuyển vũ khí trái phép có thể bị phạt:",
@@ -537,6 +594,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Tàng trữ, vận chuyển vũ khí trái phép (Illegal possession and transportation of weapons) là hành vi giữ hoặc vận chuyển vũ khí mà không có giấy phép hợp pháp.",
+    chose: "",
   },
   {
     question: "Hành vi quấy rối tình dục nơi công cộng có thể bị xử lý:",
@@ -547,6 +605,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Quấy rối tình dục nơi công cộng (Public sexual harassment) là hành vi xâm phạm quyền tự do tình dục của người khác ở nơi công cộng.",
+    chose: "",
   },
   {
     question: "Tội phạm chiếm đoạt tài sản có thể bị xử phạt:",
@@ -556,6 +615,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "d) Tất cả các lựa chọn trên",
     explain: "Chiếm đoạt tài sản (Property appropriation) là hành vi lấy tài sản của người khác một cách trái phép.",
+    chose: "",
   },
   {
     question: "Tội phạm về an ninh quốc gia có thể bị xử lý:",
@@ -566,6 +626,7 @@ export const questions = [
     result: "d) Tù giam hoặc tử hình",
     explain:
       "Vi phạm an ninh quốc gia (National security offense) là hành vi ảnh hưởng đến sự an toàn và bảo mật quốc gia, có thể bị xử phạt rất nặng.",
+    chose: "",
   },
   {
     question: "Nghĩa vụ quân sự là:",
@@ -575,6 +636,7 @@ export const questions = [
     answer_d: "Không bắt buộc",
     result: "a) Trách nhiệm của mọi công dân",
     explain: "Nghĩa vụ quân sự là trách nhiệm của mọi công dân, không phân biệt giới tính, nhằm bảo vệ Tổ quốc.",
+    chose: "",
   },
   {
     question: "Thời gian thực hiện nghĩa vụ quân sự là:",
@@ -585,6 +647,7 @@ export const questions = [
     result: "b) 24 tháng",
     explain:
       "Thời gian thực hiện nghĩa vụ quân sự theo quy định hiện hành là 24 tháng, giúp đào tạo và rèn luyện công dân thành các chiến sĩ.",
+    chose: "",
   },
   {
     question: "Độ tuổi tham gia nghĩa vụ quân sự là:",
@@ -595,6 +658,7 @@ export const questions = [
     result: "a) 18-25 tuổi",
     explain:
       "Độ tuổi tham gia nghĩa vụ quân sự thường là từ 18 đến 25 tuổi, thời điểm mà thanh niên có sức khỏe và tinh thần tốt nhất để phục vụ quân đội.",
+    chose: "",
   },
   {
     question: "Miễn giảm nghĩa vụ quân sự được áp dụng với:",
@@ -605,6 +669,7 @@ export const questions = [
     result: "d) Cả a, b và c",
     explain:
       "Những trường hợp đặc biệt như học sinh, sinh viên, người có hoàn cảnh khó khăn hoặc bệnh lý sẽ được xem xét miễn giảm nghĩa vụ quân sự.",
+    chose: "",
   },
   {
     question: "Tham gia nghĩa vụ quân sự mang lại:",
@@ -615,6 +680,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Tham gia nghĩa vụ quân sự không chỉ rèn luyện sức khỏe, mà còn mang lại kinh nghiệm sống và góp phần bảo vệ Tổ quốc.",
+    chose: "",
   },
   {
     question: "Những người làm việc trong lĩnh vực an ninh quốc phòng sẽ:",
@@ -625,6 +691,7 @@ export const questions = [
     result: "a) Không phải thực hiện nghĩa vụ quân sự",
     explain:
       "Những người làm việc trong lĩnh vực an ninh quốc phòng đã đóng góp công sức trong việc bảo vệ Tổ quốc, nên không phải thực hiện nghĩa vụ quân sự thêm nữa.",
+    chose: "",
   },
   {
     question: "Người có thành tích xuất sắc trong học tập có thể:",
@@ -635,6 +702,7 @@ export const questions = [
     result: "c) Được hoãn nghĩa vụ quân sự",
     explain:
       "Những người có thành tích học tập xuất sắc có thể được xem xét hoãn nghĩa vụ quân sự để tiếp tục cống hiến trong lĩnh vực học tập và nghiên cứu.",
+    chose: "",
   },
   {
     question: "Thời gian huấn luyện cho binh sĩ mới nhập ngũ là:",
@@ -645,6 +713,7 @@ export const questions = [
     result: "b) 6 tháng",
     explain:
       "Thời gian huấn luyện cơ bản cho binh sĩ mới nhập ngũ thường kéo dài 6 tháng, để họ nắm vững các kỹ năng cơ bản và sẵn sàng phục vụ trong quân đội.",
+    chose: "",
   },
   {
     question: "Người tự nguyện tham gia nghĩa vụ quân sự là:",
@@ -654,6 +723,7 @@ export const questions = [
     answer_d: "Không có trường hợp tự nguyện",
     result: "c) Cả nam và nữ",
     explain: "Cả nam và nữ đều có thể tự nguyện tham gia nghĩa vụ quân sự để cống hiến cho Tổ quốc.",
+    chose: "",
   },
   {
     question: "Lợi ích khi xuất ngũ gồm:",
@@ -664,6 +734,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Khi xuất ngũ, quân nhân sẽ được hỗ trợ học nghề, cấp giấy chứng nhận và ưu đãi về việc làm, giúp họ hòa nhập vào cuộc sống dân sự.",
+    chose: "",
   },
   {
     question: "Độ tuổi tối đa để được hoãn nghĩa vụ quân sự vì lý do học vấn là:",
@@ -674,6 +745,7 @@ export const questions = [
     result: "b) 27 tuổi",
     explain:
       "Những công dân đang học tập trong các trường đại học, cao đẳng có thể được hoãn nghĩa vụ quân sự đến khi đủ 27 tuổi.",
+    chose: "",
   },
   {
     question: "Quân nhân dự bị được triệu tập thực hiện nghĩa vụ quân sự trong trường hợp:",
@@ -684,6 +756,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Quân nhân dự bị có thể được triệu tập trong trường hợp chiến tranh, khẩn cấp quốc gia hoặc để tập trung huấn luyện.",
+    chose: "",
   },
   {
     question: "Thời gian phục vụ trong ngạch dự bị của công dân sau khi xuất ngũ là:",
@@ -694,6 +767,7 @@ export const questions = [
     result: "d) 10 năm",
     explain:
       "Sau khi xuất ngũ, công dân có nghĩa vụ phục vụ trong ngạch dự bị một thời gian nhất định, thường là 10 năm.",
+    chose: "",
   },
   {
     question: "Quyền lợi của quân nhân khi thực hiện nghĩa vụ quân sự bao gồm:",
@@ -704,6 +778,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Quân nhân khi thực hiện nghĩa vụ quân sự được bảo đảm đầy đủ quyền lợi về tài chính, vật chất, học tập và nghề nghiệp sau khi xuất ngũ.",
+    chose: "",
   },
   {
     question: "Lý do chính đáng để xin miễn nghĩa vụ quân sự bao gồm:",
@@ -714,6 +789,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Các lý do như bệnh nặng, là lao động chính trong gia đình có hoàn cảnh khó khăn, hoặc đang học tập ở nước ngoài đều được xem xét để miễn nghĩa vụ quân sự.",
+    chose: "",
   },
   {
     question: "Thời gian tập trung huấn luyện hàng năm đối với quân nhân dự bị là:",
@@ -724,6 +800,7 @@ export const questions = [
     result: "b) 2 tuần",
     explain:
       "Quân nhân dự bị thường được triệu tập tập trung huấn luyện hàng năm trong khoảng 2 tuần để duy trì kỹ năng và sẵn sàng khi cần.",
+    chose: "",
   },
   {
     question: "Công dân tự nguyện đăng ký nghĩa vụ quân sự sẽ được:",
@@ -733,6 +810,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "a) Hưởng các quyền lợi như quân nhân nhập ngũ bình thường",
     explain: "Công dân tự nguyện đăng ký nghĩa vụ quân sự sẽ hưởng các quyền lợi như quân nhân nhập ngũ bình thường.",
+    chose: "",
   },
   {
     question: "Người làm việc trong các lĩnh vực khoa học, công nghệ cao có thể:",
@@ -743,6 +821,7 @@ export const questions = [
     result: "b) Được hoãn nghĩa vụ quân sự",
     explain:
       "Người làm việc trong các lĩnh vực khoa học, công nghệ cao có thể được hoãn nghĩa vụ quân sự để tiếp tục cống hiến trong công việc chuyên môn.",
+    chose: "",
   },
   {
     question: "Việc đăng ký nghĩa vụ quân sự được thực hiện tại:",
@@ -752,6 +831,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "a) Ban chỉ huy quân sự địa phương",
     explain: "Việc đăng ký nghĩa vụ quân sự được thực hiện tại Ban chỉ huy quân sự địa phương nơi công dân cư trú.",
+    chose: "",
   },
   {
     question: "Người không tham gia nghĩa vụ quân sự theo quy định mà không có lý do chính đáng sẽ:",
@@ -762,6 +842,7 @@ export const questions = [
     result: "b) Bị truy cứu trách nhiệm hình sự",
     explain:
       "Người không tham gia nghĩa vụ quân sự theo quy định mà không có lý do chính đáng có thể bị truy cứu trách nhiệm hình sự.",
+    chose: "",
   },
   {
     question: "Hành vi không đăng ký nghĩa vụ quân sự đúng thời hạn sẽ bị xử lý:",
@@ -771,6 +852,7 @@ export const questions = [
     answer_d: "Tước quyền công dân",
     result: "b) Phạt tiền",
     explain: "Việc không đăng ký nghĩa vụ quân sự đúng thời hạn là vi phạm hành chính và có thể bị phạt tiền.",
+    chose: "",
   },
   {
     question: "Trốn tránh thực hiện nghĩa vụ quân sự có thể bị xử lý:",
@@ -781,6 +863,7 @@ export const questions = [
     result: "c) Tù giam",
     explain:
       "Hành vi trốn tránh thực hiện nghĩa vụ quân sự là vi phạm nghiêm trọng và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Người bị gọi nhập ngũ mà không chấp hành lệnh gọi có thể bị phạt:",
@@ -791,6 +874,7 @@ export const questions = [
     result: "c) Tù giam",
     explain:
       "Không chấp hành lệnh gọi nhập ngũ là hành vi vi phạm pháp luật và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Lợi dụng chức vụ, quyền hạn để trốn tránh nghĩa vụ quân sự sẽ bị xử lý:",
@@ -801,6 +885,7 @@ export const questions = [
     result: "c) Tù giam",
     explain:
       "Lợi dụng chức vụ, quyền hạn để trốn tránh nghĩa vụ quân sự là hành vi vi phạm nghiêm trọng và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Hành vi cung cấp thông tin sai lệch để được miễn nghĩa vụ quân sự có thể bị xử lý:",
@@ -811,6 +896,7 @@ export const questions = [
     result: "c) Tù giam",
     explain:
       "Cung cấp thông tin sai lệch để được miễn nghĩa vụ quân sự là hành vi gian dối và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Người tự ý rời khỏi đơn vị trong thời gian thực hiện nghĩa vụ quân sự sẽ bị xử lý:",
@@ -821,6 +907,7 @@ export const questions = [
     result: "c) Tù giam",
     explain:
       "Tự ý rời khỏi đơn vị trong thời gian thực hiện nghĩa vụ quân sự là hành vi vi phạm pháp luật và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Hành vi phá hoại tài sản của quân đội trong thời gian thực hiện nghĩa vụ quân sự có thể bị xử lý:",
@@ -830,6 +917,7 @@ export const questions = [
     answer_d: "Tước quyền công dân",
     result: "c) Tù giam",
     explain: "Phá hoại tài sản của quân đội là hành vi vi phạm nghiêm trọng và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Người có hành vi lôi kéo, xúi giục người khác trốn tránh nghĩa vụ quân sự sẽ bị xử lý:",
@@ -840,6 +928,7 @@ export const questions = [
     result: "c) Tù giam",
     explain:
       "Lôi kéo, xúi giục người khác trốn tránh nghĩa vụ quân sự là hành vi vi phạm nghiêm trọng và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Người không thực hiện đúng quy định về kiểm tra sức khỏe nghĩa vụ quân sự sẽ bị phạt:",
@@ -850,6 +939,7 @@ export const questions = [
     result: "b) Phạt tiền",
     explain:
       "Không thực hiện đúng quy định về kiểm tra sức khỏe nghĩa vụ quân sự là vi phạm hành chính và có thể bị phạt tiền.",
+    chose: "",
   },
   {
     question: "Hành vi làm giả giấy tờ để được miễn, hoãn nghĩa vụ quân sự sẽ bị xử lý:",
@@ -860,6 +950,7 @@ export const questions = [
     result: "c) Tù giam",
     explain:
       "Làm giả giấy tờ để được miễn, hoãn nghĩa vụ quân sự là hành vi gian dối và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Người tự ý bỏ trốn khỏi đơn vị khi đang thi hành nghĩa vụ quân sự có thể bị xử lý:",
@@ -870,6 +961,7 @@ export const questions = [
     result: "c) Tù giam",
     explain:
       "Bỏ trốn khỏi đơn vị khi đang thi hành nghĩa vụ quân sự là hành vi vi phạm nghiêm trọng và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Hành vi chống đối, cản trở người khác thực hiện nghĩa vụ quân sự sẽ bị xử lý:",
@@ -880,6 +972,7 @@ export const questions = [
     result: "c) Tù giam",
     explain:
       "Chống đối, cản trở người khác thực hiện nghĩa vụ quân sự là hành vi vi phạm nghiêm trọng và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Hành vi lạm dụng chức vụ để trốn tránh nghĩa vụ quân sự có thể bị xử lý:",
@@ -890,6 +983,7 @@ export const questions = [
     result: "c) Tù giam",
     explain:
       "Lạm dụng chức vụ để trốn tránh nghĩa vụ quân sự là hành vi vi phạm nghiêm trọng và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Người làm giả giấy tờ, tài liệu để trốn tránh nghĩa vụ quân sự sẽ bị xử lý:",
@@ -900,6 +994,7 @@ export const questions = [
     result: "c) Tù giam",
     explain:
       "Làm giả giấy tờ, tài liệu để trốn tránh nghĩa vụ quân sự là hành vi gian dối và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Hành vi không tuân thủ lệnh triệu tập tham gia huấn luyện của quân nhân dự bị sẽ bị xử lý:",
@@ -910,6 +1005,7 @@ export const questions = [
     result: "b) Phạt tiền",
     explain:
       "Không tuân thủ lệnh triệu tập tham gia huấn luyện của quân nhân dự bị là vi phạm hành chính và có thể bị phạt tiền.",
+    chose: "",
   },
   {
     question: "Người tổ chức, lôi kéo người khác trốn nghĩa vụ quân sự có thể bị xử lý:",
@@ -920,6 +1016,7 @@ export const questions = [
     result: "c) Tù giam",
     explain:
       "Tổ chức, lôi kéo người khác trốn nghĩa vụ quân sự là hành vi vi phạm nghiêm trọng và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Hành vi gian lận để được miễn nghĩa vụ quân sự có thể bị xử lý:",
@@ -929,6 +1026,7 @@ export const questions = [
     answer_d: "Tước quyền công dân",
     result: "c) Tù giam",
     explain: "Gian lận để được miễn nghĩa vụ quân sự là hành vi gian dối và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Nghĩa vụ quân sự là:",
@@ -938,6 +1036,7 @@ export const questions = [
     answer_d: "Không bắt buộc",
     result: "a) Trách nhiệm của mọi công dân",
     explain: "Nghĩa vụ quân sự là trách nhiệm của mọi công dân, không phân biệt giới tính, nhằm bảo vệ Tổ quốc.",
+    chose: "",
   },
   {
     question: "Thời gian thực hiện nghĩa vụ quân sự là:",
@@ -947,6 +1046,7 @@ export const questions = [
     answer_d: "Không xác định",
     result: "b) 24 tháng",
     explain: "Thời gian thực hiện nghĩa vụ quân sự theo quy định hiện hành là 24 tháng.",
+    chose: "",
   },
   {
     question: "Độ tuổi tham gia nghĩa vụ quân sự là:",
@@ -956,6 +1056,7 @@ export const questions = [
     answer_d: "18-40 tuổi",
     result: "a) 18-25 tuổi",
     explain: "Độ tuổi tham gia nghĩa vụ quân sự thường là từ 18 đến 25 tuổi.",
+    chose: "",
   },
   {
     question: "Miễn giảm nghĩa vụ quân sự được áp dụng với:",
@@ -966,6 +1067,7 @@ export const questions = [
     result: "d) Cả a, b và c",
     explain:
       "Những trường hợp đặc biệt như học sinh, sinh viên, người có hoàn cảnh khó khăn hoặc bệnh lý sẽ được xem xét miễn giảm nghĩa vụ quân sự.",
+    chose: "",
   },
   {
     question: "Tham gia nghĩa vụ quân sự mang lại:",
@@ -976,6 +1078,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Tham gia nghĩa vụ quân sự không chỉ rèn luyện sức khỏe, mà còn mang lại kinh nghiệm sống và góp phần bảo vệ Tổ quốc.",
+    chose: "",
   },
   {
     question: "Quyền lợi của quân nhân khi thực hiện nghĩa vụ quân sự bao gồm:",
@@ -986,6 +1089,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Quân nhân khi thực hiện nghĩa vụ quân sự được bảo đảm đầy đủ quyền lợi về tài chính, vật chất, học tập và nghề nghiệp sau khi xuất ngũ.",
+    chose: "",
   },
   {
     question: "Quân nhân dự bị được triệu tập thực hiện nghĩa vụ quân sự trong trường hợp:",
@@ -996,6 +1100,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Quân nhân dự bị có thể được triệu tập trong trường hợp chiến tranh, khẩn cấp quốc gia hoặc để tập trung huấn luyện.",
+    chose: "",
   },
   {
     question: "Lợi ích khi xuất ngũ gồm:",
@@ -1005,6 +1110,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "d) Tất cả các lựa chọn trên",
     explain: "Khi xuất ngũ, quân nhân sẽ được hỗ trợ học nghề, cấp giấy chứng nhận và ưu đãi về việc làm.",
+    chose: "",
   },
   {
     question: "Thời gian huấn luyện cho binh sĩ mới nhập ngũ là:",
@@ -1014,6 +1120,7 @@ export const questions = [
     answer_d: "18 tháng",
     result: "b) 6 tháng",
     explain: "Thời gian huấn luyện cơ bản cho binh sĩ mới nhập ngũ thường kéo dài 6 tháng.",
+    chose: "",
   },
   {
     question: "Người tự nguyện tham gia nghĩa vụ quân sự là:",
@@ -1023,6 +1130,7 @@ export const questions = [
     answer_d: "Không có trường hợp tự nguyện",
     result: "c) Cả nam và nữ",
     explain: "Cả nam và nữ đều có thể tự nguyện tham gia nghĩa vụ quân sự để cống hiến cho Tổ quốc.",
+    chose: "",
   },
   {
     question: "Ma túy là gì?",
@@ -1032,6 +1140,7 @@ export const questions = [
     answer_d: "Vitamin bổ sung",
     result: "a) Chất gây nghiện ảnh hưởng đến hệ thần kinh",
     explain: "Ma túy là các chất gây nghiện ảnh hưởng trực tiếp đến hệ thần kinh và tâm trí của con người.",
+    chose: "",
   },
   {
     question: "Mục đích của luật phòng, chống ma túy là:",
@@ -1041,6 +1150,7 @@ export const questions = [
     answer_d: "Bỏ qua việc kiểm soát ma túy",
     result: "a) Kiểm soát và ngăn chặn tình trạng sử dụng và buôn lậu ma túy",
     explain: "Luật phòng, chống ma túy nhằm kiểm soát và ngăn chặn việc sử dụng và buôn lậu ma túy trong xã hội.",
+    chose: "",
   },
   {
     question: "Ai có trách nhiệm chính trong việc phòng, chống ma túy?",
@@ -1051,6 +1161,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Chính phủ, các cơ quan chức năng, người dân và các tổ chức phi chính phủ đều có trách nhiệm trong việc phòng, chống ma túy.",
+    chose: "",
   },
   {
     question: "Cai nghiện ma túy bao gồm những biện pháp gì?",
@@ -1061,6 +1172,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Cai nghiện ma túy bao gồm các chương trình cai nghiện, hỗ trợ tâm lý, y tế và hỗ trợ xã hội để người nghiện tái hòa nhập cộng đồng.",
+    chose: "",
   },
   {
     question: "Hành vi sử dụng trái phép chất ma túy sẽ bị xử lý như thế nào?",
@@ -1071,6 +1183,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Tùy vào mức độ vi phạm, hành vi sử dụng trái phép chất ma túy có thể bị xử lý bằng cảnh cáo, phạt tiền hoặc cải tạo không giam giữ, và tù giam.",
+    chose: "",
   },
   {
     question: "Buôn bán ma túy có thể bị phạt tối đa là:",
@@ -1081,6 +1194,7 @@ export const questions = [
     result: "c) Chung thân hoặc tử hình",
     explain:
       "Buôn bán ma túy là hành vi vi phạm nghiêm trọng và có thể bị xử phạt rất nặng, lên đến mức tù chung thân hoặc tử hình.",
+    chose: "",
   },
   {
     question: "Các biện pháp hợp tác quốc tế trong phòng, chống ma túy bao gồm:",
@@ -1091,6 +1205,7 @@ export const questions = [
     result: "c) Cả a và b",
     explain:
       "Hợp tác quốc tế trong phòng, chống ma túy bao gồm việc chia sẻ thông tin và hỗ trợ, hợp tác với các quốc gia và tổ chức quốc tế liên quan.",
+    chose: "",
   },
   {
     question: "Việc vận chuyển trái phép chất ma túy qua biên giới sẽ bị xử lý:",
@@ -1101,6 +1216,7 @@ export const questions = [
     result: "c) Tù giam",
     explain:
       "Vận chuyển trái phép chất ma túy qua biên giới là hành vi vi phạm nghiêm trọng và có thể bị xử lý bằng hình phạt tù giam.",
+    chose: "",
   },
   {
     question: "Người nghiện ma túy có thể được tham gia chương trình cai nghiện tại:",
@@ -1111,6 +1227,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Người nghiện ma túy có thể tham gia chương trình cai nghiện tại gia đình, cơ sở cai nghiện hoặc cộng đồng, tùy vào tình hình cụ thể.",
+    chose: "",
   },
   {
     question: "Các biện pháp phòng ngừa ma túy trong trường học bao gồm:",
@@ -1121,6 +1238,7 @@ export const questions = [
     result: "d) Tất cả các lựa chọn trên",
     explain:
       "Các biện pháp phòng ngừa ma túy trong trường học bao gồm giáo dục, tuyên truyền về tác hại của ma túy, tăng cường quản lý và giám sát, cũng như hợp tác với gia đình và cộng đồng.",
+    chose: "",
   },
   {
     question: "Cocaine là một loại ma túy thuộc nhóm:",
@@ -1130,6 +1248,7 @@ export const questions = [
     answer_d: "Chất an thần",
     result: "a) Chất kích thích",
     explain: "Cocaine là một chất kích thích hệ thần kinh trung ương, làm tăng nhịp tim và tạo cảm giác hưng phấn.",
+    chose: "",
   },
   {
     question: "Heroin là một loại ma túy thuộc nhóm:",
@@ -1139,6 +1258,7 @@ export const questions = [
     answer_d: "Chất an thần",
     result: "c) Chất gây nghiện opioid",
     explain: "Heroin là một chất gây nghiện opioid, làm giảm đau và tạo cảm giác thư giãn.",
+    chose: "",
   },
   {
     question: "Methamphetamine thường được biết đến với tên gọi:",
@@ -1149,6 +1269,7 @@ export const questions = [
     result: "c) Crystal meth",
     explain:
       "Methamphetamine, hay còn gọi là 'crystal meth,' là một chất kích thích mạnh, làm tăng năng lượng và giảm cảm giác đói.",
+    chose: "",
   },
   {
     question: "MDMA, còn gọi là ecstasy, thuộc nhóm:",
@@ -1158,6 +1279,7 @@ export const questions = [
     answer_d: "Chất an thần",
     result: "a) Chất kích thích",
     explain: "MDMA, hay ecstasy, là một chất kích thích gây cảm giác hưng phấn và tăng cường giác quan.",
+    chose: "",
   },
   {
     question: "LSD là một loại ma túy thuộc nhóm:",
@@ -1167,6 +1289,7 @@ export const questions = [
     answer_d: "Chất an thần",
     result: "b) Chất gây ảo giác",
     explain: "LSD (Lysergic acid diethylamide) là một chất gây ảo giác mạnh, làm thay đổi nhận thức và tâm trạng.",
+    chose: "",
   },
   {
     question: "Cannabis (cần sa) thường được sử dụng để:",
@@ -1176,6 +1299,7 @@ export const questions = [
     answer_d: "Tất cả các lựa chọn trên",
     result: "d) Tất cả các lựa chọn trên",
     explain: "Cannabis (cần sa) có thể được sử dụng để giảm đau, tạo cảm giác thư giãn và tăng cảm giác ngon miệng.",
+    chose: "",
   },
   {
     question: "Ketamine là một loại ma túy thuộc nhóm:",
@@ -1185,6 +1309,7 @@ export const questions = [
     answer_d: "Chất an thần",
     result: "d) Chất an thần",
     explain: "Ketamine là một chất an thần thường được sử dụng trong y tế để gây mê và giảm đau.",
+    chose: "",
   },
   {
     question: "Fentanyl là một loại ma túy thuộc nhóm:",
@@ -1194,6 +1319,7 @@ export const questions = [
     answer_d: "Chất an thần",
     result: "c) Chất gây nghiện opioid",
     explain: "Fentanyl là một chất gây nghiện opioid mạnh, thường được sử dụng trong y tế để giảm đau nghiêm trọng.",
+    chose: "",
   },
   {
     question: "Mephedrone thường được biết đến với tên gọi:",
@@ -1204,6 +1330,7 @@ export const questions = [
     result: "a) Bath salts",
     explain:
       "Mephedrone, còn gọi là 'bath salts,' là một chất kích thích tổng hợp, làm tăng nhịp tim và tạo cảm giác hưng phấn.",
+    chose: "",
   },
   {
     question: "Spice là một loại ma túy tổng hợp thuộc nhóm:",
@@ -1213,5 +1340,6 @@ export const questions = [
     answer_d: "Chất an thần",
     result: "b) Chất gây ảo giác",
     explain: "Spice là một loại ma túy tổng hợp gây ảo giác, thường được sử dụng để thay thế cần sa.",
+    chose: "",
   },
 ];

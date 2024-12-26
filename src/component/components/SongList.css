@@ -4,7 +4,8 @@
     overflow-y: auto;
     overflow-x: hidden;
     padding-left: 2px;
-    max-height: 400px;
+    max-height: 550px;
+    background-color: rgba(15, 23, 42, 0.563);
 }
 
 #song-list::-webkit-scrollbar {

@@ -5,8 +5,8 @@ let mainWindow;
 
 app.on("ready", () => {
   mainWindow = new BrowserWindow({
-    width: 1024,
-    height: 800,
+    width: 1890,
+    height: 1100,
     webPreferences: {
       preload: path.join(__dirname, "app/preload.js"), // Tùy chọn
       nodeIntegration: true, // Để sử dụng các API của Node.js

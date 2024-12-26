@@ -4,7 +4,7 @@ import "./access/css/index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import reducers from "./component/reducers";
-import { createStore } from "redux";
+import { legacy_createStore as createStore } from "redux";
 import { Provider } from "react-redux";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));

@@ -1,10 +1,13 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import "../access/css/TracNghiem.css";
 import { useNavigate } from "react-router-dom";
 import { questions } from "../data/data";
 import nextIcon from "../access/icons/icon-next.png";
 import { toast } from "react-toastify";
 import videoBackground from "../access/photos/video_nen_trac_nghiem.mp4";
+import { AiFillAccountBook } from "react-icons/ai";
+import { AiFillCaretLeft } from "react-icons/ai";
+import { backSvg } from "../access/svg";
 
 // lay random 20 phan tu trong mang questions
 let randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 20);
@@ -21,6 +24,7 @@ const TracNghiem = () => {
   const [score, setScore] = useState(0);
   const [explain, setExplain] = useState("");
   const [correct, setCorrect] = useState("");
+  const [history, setHistory] = useState([]);
 
   const showToast = (message) => {
     toast.warning(message, {
@@ -48,8 +52,12 @@ const TracNghiem = () => {
       if (result === correct) {
         setScore(score + 1);
       }
+      setHistory([...history, result]);
+      randomQuestions[currentQuestion].chose = correct;
     }
   };
+  console.log(history);
+  console.log("currentQuestion", currentQuestion);
 
   const nextQuestion = () => {
     if (correct === "") {
@@ -67,8 +75,22 @@ const TracNghiem = () => {
     }
   };
 
-  console.log("result", result);
-  console.log("correct", correct);
+  const prevQuestion = () => {
+    if (currentQuestion > 0) {
+      setCurrentQuestion(currentQuestion - 1);
+      setResult("");
+    } else {
+      showToast("Đây là câu hỏi đầu tiên");
+    }
+  };
+
+  useEffect(() => {
+    if (currentQuestion < history.length) {
+      setResult(history[currentQuestion]);
+      setCorrect(randomQuestions[currentQuestion].result.split(")")[0]);
+      setExplain("Giải thích: " + randomQuestions[currentQuestion].explain);
+    }
+  }, [currentQuestion]);
 
   return (
     <React.Fragment>
@@ -78,14 +100,14 @@ const TracNghiem = () => {
       </video>
       <div className="TracNghiem">
         <button className="btn-back" onClick={handleGo}>
-          Back
+          Quay lại
         </button>
 
-        <div className="result">
-          <h2>{score} / 20</h2>
-        </div>
-
         <div className="container">
+          <div className="result">
+            <h2>{score} / 20</h2>
+          </div>
+
           <form id="quizForm">
             <div className="question">
               <h2>
@@ -181,22 +203,30 @@ const TracNghiem = () => {
                   </label>
                 </li>
               </ul>
-              <div className="explain" style={{ display: correct === "" ? "none" : "block" }}>
-                <h3>{explain}</h3>
+              <div style={{ minHeight: "120px" }}>
+                <div className="explain" style={{ display: correct === "" ? "none" : "block" }}>
+                  <h3>{explain}</h3>
+                </div>
               </div>
             </div>
 
             <div className="result-btn">
+              <button type="button" className="prev-btn" onClick={prevQuestion}>
+                {backSvg}
+              </button>
               <button type="button" className="submit-btn" onClick={handleResult}>
                 Gửi đáp án
               </button>
+              <button type="button" className="next-btn" onClick={nextQuestion}>
+                {backSvg}
+              </button>
             </div>
 
-            {(currentQuestion !== 0 && currentQuestion !== randomQuestions.length - 1) || correct !== "" ? (
+            {/* {(currentQuestion !== 0 && currentQuestion !== randomQuestions.length - 1) || correct !== "" ? (
               <div className="next">
                 <img className="next-btn" src={nextIcon} alt="next" onClick={nextQuestion} />
               </div>
-            ) : null}
+            ) : null} */}
           </form>
         </div>
       </div>

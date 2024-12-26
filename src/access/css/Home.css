@@ -46,7 +46,7 @@
 
 
 .Home .container .box {
-  background-color: #f8f9fab5;
+  background-color: #f8f9fae7;
   border-radius: 10px;
   padding: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -60,10 +60,20 @@
   align-items: center;
 }
 
+.Home .container .box:hover {
+  background-color: #cdcecfe7;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.37);
+  color: #1376f7;
+}
+
 .Home .container .box span {
-  font-size: 30px;
+  font-size: 20px;
   font-weight: bold;
-  color: #02469e;
+  color: #03469d;
+}
+
+.Home .container .box span:hover {
+  color: inherit;
 }
 
 .App-link {

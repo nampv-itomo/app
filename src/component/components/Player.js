@@ -1,7 +1,7 @@
 import "./Player.css";
 import { useEffect, useRef, useState } from "react";
 import { connect, useDispatch } from "react-redux";
-import { forwardsSvg, backwardsSvg, shuffleSvg } from "../svg";
+import { forwardsSvg, backwardsSvg, shuffleSvg, playSvg, pauseSvg } from "../svg";
 import { setPlayerState, selectSongById } from "../actions";
 import Progress from "./ProgressBar";
 import SongTime from "./SongTime";
@@ -10,6 +10,7 @@ const Player = ({ selectedSongId, defaultSong, playerState, songs, selectSongByI
   const dispatch = useDispatch();
   const [shuffled, setShuffled] = useState(false);
   const audioRef = useRef();
+  const intervalRef = useRef(null);
   let clicked = false;
 
   const spaceDownFunc = (event) => {
@@ -77,10 +78,25 @@ const Player = ({ selectedSongId, defaultSong, playerState, songs, selectSongByI
 
   useEffect(() => {
     dispatch({ type: "PLAYER_STATE_SELECTED", payload: 1 });
-    console.log(audioRef.current);
-    // audioRef.current.play();
-    // document.getElementById("focus-link").click();
-    // window.history.pushState({}, "", "/");
+
+    const audio = audioRef.current;
+
+    audio.oncanplaythrough = (event) => {
+      var playedPromise = audio.play();
+      if (playedPromise) {
+        playedPromise
+          .catch((e) => {
+            console.log(e);
+            if (e.name === "NotAllowedError" || e.name === "NotSupportedError") {
+              console.log(e.name);
+            }
+          })
+          .then(() => {
+            console.log("playing sound !!!");
+          });
+      }
+    };
+    // eslint-disable-next-line
   }, [selectedSongId, dispatch]);
 
   useEffect(() => {
@@ -110,7 +126,7 @@ const Player = ({ selectedSongId, defaultSong, playerState, songs, selectSongByI
         {backwardsSvg}
       </div>
       <div className="main-control control" onClick={onMusicPlay}>
-        <i className={`fas fa-${playerState ? "pause" : "play"}-circle`}></i>
+        {playerState ? playSvg : pauseSvg}
       </div>
       <div className="control" onClick={onForwardClick}>
         {forwardsSvg}
@@ -132,12 +148,19 @@ const Player = ({ selectedSongId, defaultSong, playerState, songs, selectSongByI
           });
 
           if (audioRef.current) {
-            setInterval(() => {
-              dispatch({
-                type: "SET_CURRENT_LOCATION",
-                payload: audioRef.current.currentTime,
-              });
+            intervalRef.current = setInterval(() => {
+              if (audioRef.current) {
+                dispatch({
+                  type: "SET_CURRENT_LOCATION",
+                  payload: audioRef.current.currentTime,
+                });
+              }
             }, 1000);
+
+            return () => {
+              clearInterval(intervalRef.current);
+              console.log("Interval cleared");
+            };
           }
         }}
         ref={audioRef}

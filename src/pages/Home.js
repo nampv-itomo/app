@@ -11,8 +11,8 @@ const Home = () => {
   const handleGoMusic = () => {
     navigator("/baihat");
   };
-  const handleGoOther = () => {
-    navigator("/song");
+  const handleGoLoiBacDay = () => {
+    navigator("/loibacday");
   };
   return (
     <div className="Home">
@@ -23,13 +23,13 @@ const Home = () => {
       <div className="container">
         <div className="menu">
           <div className="box" onClick={handleGoExam}>
-            <span>Trắc Nghiệm</span>
+            <span>Trắc nghiệm câu hỏi pháp luật</span>
           </div>
           <div className="box" onClick={handleGoMusic}>
-            <span>Bài Hát</span>
+            <span>Bài hát truyền thống</span>
           </div>
-          <div className="box" onClick={handleGoOther}>
-            <span>Điều Bác Dạy</span>
+          <div className="box" onClick={handleGoLoiBacDay}>
+            <span>Lời Bác dạy ngày này năm xưa</span>
           </div>
         </div>
       </div>
