@@ -53,7 +53,6 @@
   border-radius: 20px;
 }
 .LoiBac img {
-  max-width: 100%;
-  height: auto;
-  max-height: 1000px;
+  width: auto;
+  max-height: 95vh;
 }

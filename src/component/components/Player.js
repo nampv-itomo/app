@@ -25,6 +25,19 @@ const Player = ({ selectedSongId, defaultSong, playerState, songs, selectSongByI
     }
   };
 
+  // useEffect(() => {
+  //   const interval = setInterval(() => {
+  //     if (audioRef.current) {
+  //       dispatch({
+  //         type: "SET_CURRENT_LOCATION",
+  //         payload: audioRef.current.currentTime,
+  //       });
+  //     }
+  //   }, 1000);
+
+  //   return () => clearInterval(interval); // Cleanup
+  // }, []);
+
   useEffect(() => {
     document.addEventListener("keydown", spaceDownFunc);
     document.addEventListener("keyup", spaceUpFunc);
@@ -42,13 +55,12 @@ const Player = ({ selectedSongId, defaultSong, playerState, songs, selectSongByI
 
   const onMusicPlay = (e) => {
     e.preventDefault();
-
     if (!playerState) {
-      audioRef.current.play();
       dispatch({ type: "PLAYER_STATE_SELECTED", payload: 1 });
+      audioRef.current.play();
     } else {
-      audioRef.current.pause();
       dispatch({ type: "PLAYER_STATE_SELECTED", payload: 0 });
+      audioRef.current.pause();
     }
   };
 
@@ -64,51 +76,63 @@ const Player = ({ selectedSongId, defaultSong, playerState, songs, selectSongByI
     }
   };
 
-  const onTimeSeek = (e) => {
-    let target = document.getElementsByClassName("music-timer-wrapper")[0];
+  const timerWrapperRef = useRef(null);
 
-    let rect = target.getBoundingClientRect();
-    let skipToPercent = (e.clientX - rect.left) / rect.right;
-    audioRef.current.currentTime = audioRef.current.duration * skipToPercent;
-    dispatch({
-      type: "SET_CURRENT_LOCATION",
-      payload: audioRef.current.currentTime,
-    });
+  const onTimeSeek = (e) => {
+    if (timerWrapperRef.current) {
+      const rect = timerWrapperRef.current.getBoundingClientRect();
+      const skipToPercent = (e.clientX - rect.left) / rect.width;
+      audioRef.current.currentTime = audioRef.current.duration * skipToPercent;
+      dispatch({
+        type: "SET_CURRENT_LOCATION",
+        payload: audioRef.current.currentTime,
+      });
+    }
   };
 
+  console.log("selectedSongId", selectedSongId);
+  console.log("playerState", playerState);
+
   useEffect(() => {
-    dispatch({ type: "PLAYER_STATE_SELECTED", payload: 1 });
-
+    dispatch({ type: "PLAYER_STATE_SELECTED", payload: 1 }); // Đặt trạng thái ngừng phát
     const audio = audioRef.current;
-
-    audio.oncanplaythrough = (event) => {
-      var playedPromise = audio.play();
-      if (playedPromise) {
-        playedPromise
-          .catch((e) => {
-            console.log(e);
-            if (e.name === "NotAllowedError" || e.name === "NotSupportedError") {
-              console.log(e.name);
-            }
-          })
-          .then(() => {
-            console.log("playing sound !!!");
-          });
+    audio.oncanplaythrough = () => {
+      console.log("Audio is ready to play, but playback is paused.");
+      if (selectSongById !== null && playerState === 1) {
+        audio.play();
       }
     };
-    // eslint-disable-next-line
   }, [selectedSongId, dispatch]);
+
+  // useEffect(() => {
+  //   dispatch({ type: "PLAYER_STATE_SELECTED", payload: 1 });
+  //   const audio = audioRef.current;
+  //   audio.oncanplaythrough = (event) => {
+  //     var playedPromise = audio.play();
+  //     if (playedPromise) {
+  //       playedPromise
+  //         .catch((e) => {
+  //           console.log(e);
+  //           if (e.name === "NotAllowedError" || e.name === "NotSupportedError") {
+  //             console.log(e.name);
+  //           }
+  //         })
+  //         .then(() => {
+  //           console.log("playing sound !!!");
+  //         });
+  //     }
+  //   };
+  //   // eslint-disable-next-line
+  // }, [selectedSongId, dispatch]);
 
   useEffect(() => {
     dispatch({ type: "PLAYER_STATE_SELECTED", payload: 0 });
     audioRef.current.pause();
   }, [dispatch]);
 
-  console.log(audioRef.current);
-
   return (
     <div id="player">
-      <div className="music-timer-wrapper" onClick={onTimeSeek}>
+      <div className="music-timer-wrapper" ref={timerWrapperRef} onClick={onTimeSeek}>
         <SongTime />
       </div>
 
@@ -117,7 +141,6 @@ const Player = ({ selectedSongId, defaultSong, playerState, songs, selectSongByI
         id={shuffled ? `active` : null}
         onClick={() => {
           setShuffled(!shuffled);
-          // console.log("shuffle: " + !shuffled);
         }}
       >
         {shuffleSvg}
@@ -162,6 +185,9 @@ const Player = ({ selectedSongId, defaultSong, playerState, songs, selectSongByI
               console.log("Interval cleared");
             };
           }
+        }}
+        onError={() => {
+          alert("Error loading audio file.");
         }}
         ref={audioRef}
         hidden

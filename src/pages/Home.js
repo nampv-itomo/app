@@ -1,7 +1,9 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "../access/css/Home.css";
 import { useNavigate } from "react-router-dom";
 import videoBackground from "../access/photos/video_home.mp4";
+import { selectSongById, setPlayerState } from "../component/actions";
+import { connect, useDispatch } from "react-redux";
 
 const Home = () => {
   const navigator = useNavigate();
@@ -14,6 +16,14 @@ const Home = () => {
   const handleGoLoiBacDay = () => {
     navigator("/loibacday");
   };
+
+  const dispatch = useDispatch();
+
+  useEffect(() => {
+    dispatch(selectSongById(0));
+    dispatch(setPlayerState(0));
+  }, []);
+
   return (
     <div className="Home">
       <video className="video-background" autoPlay muted loop>
@@ -37,4 +47,12 @@ const Home = () => {
   );
 };
 
-export default Home;
+// export default Home;
+const mapStateToProps = (state) => {
+  return {
+    selectedSongId: state.selectedSongId,
+    playerState: state.playerState,
+  };
+};
+
+export default connect(mapStateToProps, { setPlayerState, selectSongById })(Home);

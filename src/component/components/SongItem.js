@@ -36,6 +36,7 @@ const SongItem = ({ song, index, selectSong, selectedSongId, playerState }) => {
       return <div className="index">{index + 1}</div>;
     }
   };
+
   return (
     <div
       className={`song-item`}

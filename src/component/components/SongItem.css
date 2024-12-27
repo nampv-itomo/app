@@ -1,70 +1,76 @@
 .song-item {
-    color: rgb(148, 163, 184);
-    width: 100%;
-    height: fit-content;
-    display: flex;
-    justify-content: space-between;
-    /* grid-template-columns: 10% 50% 30% 10%; */
-    padding: 10px 5px;
-    transition: all 0.1s ease-in-out;
-    /* box-sizing: border-box; */
+  color: rgb(148, 163, 184);
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-between;
+  /* grid-template-columns: 10% 50% 30% 10%; */
+  padding: 10px 5px;
+  transition: all 0.1s ease-in-out;
+  /* box-sizing: border-box; */
 }
 
 .song-item:hover {
-    background-color: #1e293b;
-    border-radius: 3px;
-    color: #cbd5e1;
-    cursor: default;
+  background-color: #1e293b;
+  border-radius: 3px;
+  color: #cbd5e1;
+  cursor: default;
+}
+
+#active {
+  background-color: #3d5c8e;
+  border-radius: 3px;
+  color: #cbd5e1;
 }
 
 .index {
-    width: 30px;
-    height: 30px;
-    text-align: center;
-    grid-column: 1/2;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  grid-column: 1/2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
 }
 .song-item > * {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    /* border-top: #eee 1px solid; */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  /* border-top: #eee 1px solid; */
 }
 
 .song-item > .name {
-    /* justify-content: flex-start !important; */
-    color: white;
-    margin-right: 20px;
+  /* justify-content: flex-start !important; */
+  color: white;
+  margin-right: 20px;
 }
 
 .item-control > svg,
 a {
-    color: inherit;
+  color: inherit;
 }
-a >svg {
-    color: inherit;
-    transition: all 0.1s ease-in-out;
+a > svg {
+  color: inherit;
+  transition: all 0.1s ease-in-out;
 }
 a > svg:hover {
-    color: #eee;
+  color: #eee;
 }
 
 .selector > svg:hover {
-    color: #38bdf8;
+  color: #38bdf8;
 }
 
 .small-icon {
-    width: 16px;
-    height: 16px;
-    color: inherit;
-    margin: 0px;
+  width: 16px;
+  height: 16px;
+  color: inherit;
+  margin: 0px;
 }
 
 .song-item.header > * > * {
-    color: inherit;
+  color: inherit;
 }
