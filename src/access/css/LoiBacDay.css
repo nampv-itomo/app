@@ -33,10 +33,10 @@
 }
 
 .LoiBac-Content {
-  height: calc(100vh - 180px);
+  height: calc(100vh - 250px);
   width: 100%;
   position: absolute;
-  top: 180px;
+  top: 250px;
 }
 
 .LoiBac-Item {

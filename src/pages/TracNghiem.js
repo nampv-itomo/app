@@ -10,12 +10,12 @@ import { AiFillCaretLeft } from "react-icons/ai";
 import { backSvg } from "../access/svg";
 
 // lay random 20 phan tu trong mang questions
-let randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 2);
+let randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 20);
 
 const TracNghiem = () => {
   const navigator = useNavigate();
   const handleGo = () => {
-    randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 2);
+    randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 20);
     navigator("/home");
   };
 

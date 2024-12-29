@@ -20,7 +20,7 @@ const Intro = () => {
 
   return (
     <div className="Intro">
-      <video className="video-background" ref={videoRef} loop autoPlay>
+      <video className="video-background" ref={videoRef} loop autoPlay muted>
         <source src={videoBackground} type="video/mp4" />
         Trình duyệt của bạn không hỗ trợ video.
       </video>
