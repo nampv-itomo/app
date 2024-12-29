@@ -48,8 +48,11 @@ const SongItem = ({ song, index, selectSong, selectedSongId, playerState }) => {
         dispatch({ type: "PLAYER_STATE_SELECTED", payload: 1 });
       }}
     >
-      {phaser()}
-      <div className="name">{song.name}</div>
+      <div className="name">
+        {phaser()}
+        {song.name}
+      </div>
+
       {/* <div className="author">{song.author}</div>
       <div className="selector">{selector()}</div> */}
     </div>

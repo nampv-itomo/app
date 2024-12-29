@@ -1,9 +1,33 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useRef } from "react";
 import "../access/css/Home.css";
 import { useNavigate } from "react-router-dom";
 import videoBackground from "../access/photos/video_home.mp4";
 import { selectSongById, setPlayerState } from "../component/actions";
 import { connect, useDispatch } from "react-redux";
+import { ReactComponent as FullScreenIcon } from "../access/icons/subway--fullscreen.svg";
+
+const FullScreenButton = () => {
+  const toggleFullScreen = () => {
+    window.electronAPI?.toggleFullScreen();
+  };
+
+  return (
+    <button
+      onClick={toggleFullScreen}
+      style={{
+        position: "absolute",
+        top: "10px",
+        right: "10px",
+        padding: "10px",
+        backgroundColor: "transparent",
+        border: "none",
+        cursor: "pointer",
+      }}
+    >
+      <FullScreenIcon />
+    </button>
+  );
+};
 
 const Home = () => {
   const navigator = useNavigate();
@@ -15,6 +39,9 @@ const Home = () => {
   };
   const handleGoLoiBacDay = () => {
     navigator("/loibacday");
+  };
+  const handleGoTruyenThong = () => {
+    navigator("/truyenthong");
   };
 
   const dispatch = useDispatch();
@@ -31,6 +58,7 @@ const Home = () => {
         Trình duyệt của bạn không hỗ trợ video.
       </video>
       <div className="container">
+        <FullScreenButton />
         <div className="menu">
           <div className="box" onClick={handleGoExam}>
             <span>Trắc nghiệm câu hỏi pháp luật</span>
@@ -41,13 +69,15 @@ const Home = () => {
           <div className="box" onClick={handleGoLoiBacDay}>
             <span>Lời Bác dạy ngày này năm xưa</span>
           </div>
+          <div className="box" onClick={handleGoTruyenThong}>
+            <span>Truyền thống trung đoàn</span>
+          </div>
         </div>
       </div>
     </div>
   );
 };
 
-// export default Home;
 const mapStateToProps = (state) => {
   return {
     selectedSongId: state.selectedSongId,

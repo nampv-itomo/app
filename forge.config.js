@@ -4,17 +4,21 @@ const { FuseV1Options, FuseVersion } = require("@electron/fuses");
 module.exports = {
   packagerConfig: {
     asar: true,
+    icon: "./assets/icon", // Không cần phần mở rộng, Electron tự chọn định dạng phù hợp
   },
   rebuildConfig: {},
   makers: [
-    // {
-    //   name: '@electron-forge/maker-squirrel',
-    //   config: {},
-    // },
-    // {
-    //   name: '@electron-forge/maker-zip',
-    //   platforms: ['darwin'],
-    // },
+    {
+      name: "@electron-forge/maker-squirrel",
+      config: {
+        iconUrl: "./assets/icon.ico", // Icon được sử dụng cho Windows installer
+        setupIcon: "./assets/icon.ico", // Icon trong file cài đặt
+      },
+    },
+    {
+      name: "@electron-forge/maker-zip",
+      platforms: ["darwin"],
+    },
     {
       name: "@electron-forge/maker-deb",
       config: {},
@@ -22,16 +26,6 @@ module.exports = {
     {
       name: "@electron-forge/maker-rpm",
       config: {},
-    },
-    {
-      name: "@electron-forge/maker-squirrel",
-      config: {
-        name: "my_app",
-      },
-    },
-    {
-      name: "@electron-forge/maker-zip",
-      platforms: ["win32"],
     },
   ],
   plugins: [

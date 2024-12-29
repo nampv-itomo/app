@@ -4,20 +4,26 @@
   "private": true,
   "homepage": "./",
   "main": "main.js",
+  "author": {
+    "name": "Trac nghiem phap luat",
+    "email": "nampv.itomo@gmail.com"
+  },
+  "description": "Phần mềm trắc nghiệm pháp luật",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@emotion/memoize": "^0.9.0",
+    "axios": "^0.24.0",
     "cra-template": "1.2.0",
     "electron-squirrel-startup": "^1.0.1",
-    "axios": "^0.24.0",
     "fs": "^0.0.1-security",
+    "path-browserify": "^1.0.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.0.1",
+    "react-redux": "^9.2.0",
     "react-router-dom": "^7.1.0",
     "react-scripts": "5.0.1",
     "react-toastify": "^11.0.2",
-    "react-redux": "^9.2.0",
     "redux": "^5.0.1",
     "styled-components": "^6.1.13"
   },
@@ -62,5 +68,21 @@
     "postcss": "^8.4.33",
     "tailwindcss": "^3.4.1",
     "web-vitals": "^4.2.4"
+  },
+  "build": {
+    "appId": "com.example.app",
+    "productName": "MyApp",
+    "directories": {
+      "buildResources": "assets"
+    },
+    "win": {
+      "icon": "assets/icon.ico"
+    },
+    "mac": {
+      "icon": "assets/icon.icns"
+    },
+    "linux": {
+      "icon": "assets/icon.png"
+    }
   }
 }

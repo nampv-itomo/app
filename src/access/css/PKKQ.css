@@ -1,0 +1,132 @@
+.video-background-loiBac {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.9;
+  z-index: -1;
+}
+
+.Container-PKKQ {
+  height: 100vh;
+  position: relative;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  z-index: 1;
+}
+
+.PKKQ-Content {
+  height: calc(100vh - 100px);
+  width: 100%;
+  position: absolute;
+  top: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.PKKQ-Item {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.PKKQ-Item p {
+  font-size: 18px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Container-PKKQ .back-page-btn {
+  padding: 15px;
+  min-width: 70px;
+  position: absolute;
+  top: 120px;
+  right: 10px;
+  cursor: pointer;
+  background-color: #45a049;
+  color: white;
+  border-radius: 4px;
+  font-weight: bold;
+  z-index: 2;
+}
+
+.Container-PKKQ .next-btn {
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: #45a0491f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+  transition: background-color 0.3s;
+}
+
+.Container-PKKQ .back-btn {
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+  border-radius: 50%;
+  rotate: 180deg;
+  background-color: #45a0491f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+}
+
+.Container-PKKQ svg {
+  margin: 0;
+}
+
+.fade-in {
+  animation: fadeIn 0.8s linear forwards;
+}
+
+.fade-out {
+  animation: fadeOut 0.8s linear backwards;
+}
+
+.fade-out2 {
+  animation: fadeOut2 0.8s linear backwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-50px);
+  }
+}
+
+@keyframes fadeOut2 {
+  from {
+    opacity: 1;
+    transform: translateY(-50px);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(0);
+  }
+}

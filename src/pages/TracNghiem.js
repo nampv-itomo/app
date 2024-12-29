@@ -10,12 +10,12 @@ import { AiFillCaretLeft } from "react-icons/ai";
 import { backSvg } from "../access/svg";
 
 // lay random 20 phan tu trong mang questions
-let randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 20);
+let randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 2);
 
 const TracNghiem = () => {
   const navigator = useNavigate();
   const handleGo = () => {
-    randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 20);
+    randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 2);
     navigator("/home");
   };
 
@@ -103,9 +103,24 @@ const TracNghiem = () => {
           Quay lại
         </button>
 
+        {currentQuestion === randomQuestions.length - 1 && correct !== "" ? (
+          <div className="ShowResult">
+            <div className="KetQua">
+              <h1>
+                Kết quả : {score} / {randomQuestions.length} câu
+              </h1>
+              <button className="btn-exit" onClick={handleGo}>
+                Thoát
+              </button>
+            </div>
+          </div>
+        ) : null}
+
         <div className="container">
           <div className="result">
-            <h2>{score} / 20</h2>
+            <h2>
+              {score} / {randomQuestions.length}
+            </h2>
           </div>
 
           <form id="quizForm">

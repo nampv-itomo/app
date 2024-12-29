@@ -1,32 +1,28 @@
 .Container {
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; */
-    height: 100vh;
-    width: 100vw;
-    background-image: url("../photos/nền các bài hát truyền thống quân chủng PK-KQ.jpg");
-    background-size: cover; /* Làm hình nền phủ hết màn hình */
-    background-position: center center; /* Căn giữa hình nền */
-    background-repeat: no-repeat; /* Không lặp lại hình nền */
-    position: relative;
+  height: 100vh;
+  width: 100vw;
+  background-image: url("../photos/nền các bài hát truyền thống quân chủng PK-KQ.jpg");
+  background-size: cover; /* Làm hình nền phủ hết màn hình */
+  background-position: center center; /* Căn giữa hình nền */
+  background-repeat: no-repeat; /* Không lặp lại hình nền */
+  position: relative;
 }
 
 .Container .back-btn {
-    padding: 20px;
-    min-width: 80px;
-    position: absolute;
-    top: 20px; /* Push the container down by 200px */
-    left: 20px;
-    cursor: pointer;
-    background-color: #45a049;
-    color: white;
-    border-radius: 4px;
-    font-weight: bold;
+  padding: 15px;
+  min-width: 80px;
+  position: absolute;
+  top: 10px; /* Push the container down by 200px */
+  right: 10px;
+  cursor: pointer;
+  background-color: #45a049;
+  color: white;
+  border-radius: 4px;
+  font-weight: bold;
 }
 
 .Container .MusicPlayer {
-    /* display: flex;
+  /* display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -37,12 +33,12 @@
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
 
-    /* position: absolute;
+  /* position: absolute;
     width: 400px;
     right: 10px;
     bottom: 10px; */
-   
-    width: 100%;
-    position: absolute;
-    bottom: 0;
+
+  width: 100%;
+  position: absolute;
+  bottom: 0;
 }

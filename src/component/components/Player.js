@@ -13,35 +13,23 @@ const Player = ({ selectedSongId, defaultSong, playerState, songs, selectSongByI
   const intervalRef = useRef(null);
   let clicked = false;
 
-  const spaceDownFunc = (event) => {
-    if (event.keyCode === 32 && !clicked) {
-      clicked = true;
-      document.getElementsByClassName("main-control")[0].click();
-    }
-  };
-  const spaceUpFunc = (event) => {
-    if (event.keyCode === 32 && clicked) {
-      clicked = false;
-    }
-  };
+  // const spaceDownFunc = (event) => {
+  //   if (event.keyCode === 32 && !clicked && audioRef.current) {
+  //     clicked = true;
+  //     document.getElementsByClassName("main-control")[0].click();
+  //   }
+  // };
+
+  // const spaceUpFunc = (event) => {
+  //   if (event.keyCode === 32 && clicked) {
+  //     clicked = false;
+  //   }
+  // };
 
   // useEffect(() => {
-  //   const interval = setInterval(() => {
-  //     if (audioRef.current) {
-  //       dispatch({
-  //         type: "SET_CURRENT_LOCATION",
-  //         payload: audioRef.current.currentTime,
-  //       });
-  //     }
-  //   }, 1000);
-
-  //   return () => clearInterval(interval); // Cleanup
+  //   document.addEventListener("keydown", spaceDownFunc);
+  //   document.addEventListener("keyup", spaceUpFunc);
   // }, []);
-
-  useEffect(() => {
-    document.addEventListener("keydown", spaceDownFunc);
-    document.addEventListener("keyup", spaceUpFunc);
-  }, []);
 
   if (selectedSongId < 0 || selectedSongId > songs.length - 1) {
     selectSongById(0);

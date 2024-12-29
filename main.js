@@ -1,24 +1,71 @@
-const { app, BrowserWindow } = require("electron");
+const { app, BrowserWindow, ipcMain } = require("electron/main");
 const path = require("path");
 
-let mainWindow;
+// let mainWindow;
 
-app.on("ready", () => {
-  mainWindow = new BrowserWindow({
-    width: 1400,
-    height: 800,
+// app.on("ready", () => {
+//   mainWindow = new BrowserWindow({
+//     width: 1920,
+//     height: 1080,
+//     // resizable: true,
+//     // frame: true,
+//     fullscreen: true,
+//     transparent: true,
+//     webPreferences: {
+//       preload: path.join(__dirname, "preload.js"), // Tùy chọn
+//       contextIsolation: true, // Bật cách ly context để bảo mật
+//       enableRemoteModule: false, // Tắt module remote (không cần thiết)
+//       nodeIntegration: true,
+//     },
+//   });
+
+//   mainWindow.setMenuBarVisibility(false); // Ẩn menu bar
+
+//   // Load ứng dụng React đã build
+//   const appUrl = `file://${path.join(__dirname, "/build/index.html")}`;
+//   mainWindow.loadURL(appUrl);
+
+//   mainWindow.on("closed", () => {
+//     mainWindow = null;
+//   });
+// });
+
+function createWindow() {
+  const mainWindow = new BrowserWindow({
+    width: 1920,
+    height: 1080,
+    // resizable: true,
+    // frame: true,
+    // fullscreen: true,
+    // transparent: true,
+    icon: path.join(__dirname, "public/logo192.png"), // Đường dẫn đến icon
     webPreferences: {
-      preload: path.join(__dirname, "app/preload.js"), // Tùy chọn
-      nodeIntegration: true, // Để sử dụng các API của Node.js
+      preload: path.join(__dirname, "preload.js"), // Tùy chọn
+      contextIsolation: true, // Bật cách ly context để bảo mật
+      enableRemoteModule: false, // Tắt module remote (không cần thiết)
+      nodeIntegration: true,
     },
+  });
+
+  mainWindow.setMenuBarVisibility(false); // Ẩn menu bar
+
+  ipcMain.on("toggle-full-screen", (event) => {
+    const currentWindow = BrowserWindow.getFocusedWindow();
+    if (currentWindow) {
+      currentWindow.setFullScreen(!currentWindow.isFullScreen());
+    }
   });
 
   // Load ứng dụng React đã build
   const appUrl = `file://${path.join(__dirname, "/build/index.html")}`;
   mainWindow.loadURL(appUrl);
+}
 
-  mainWindow.on("closed", () => {
-    mainWindow = null;
+app.whenReady().then(() => {
+  createWindow();
+
+  app.on("activate", function () {
+    if (BrowserWindow.getAllWindows().length === 0) createWindow();
   });
 });
 

@@ -19,6 +19,44 @@
   /* Để video ở phía dưới nội dung */
 }
 
+.ShowResult {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.473);
+  z-index: 10;
+}
+
+.KetQua {
+  position: absolute;
+  top: 200px;
+  left: calc(50% - 250px);
+  width: 500px;
+  height: 300px;
+  background-color: rgba(0, 0, 0, 0.918);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.KetQua h1 {
+  font-size: 40px;
+  color: #ffffff;
+  margin: 0;
+}
+
+.KetQua button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+}
+
 .TracNghiem .btn-back {
   padding: 15px;
   min-width: 70px;
@@ -122,36 +160,12 @@ h1 {
   margin-right: 10px;
 }
 
-.result-btn {
+.TracNghiem .result-btn {
   display: flex;
   justify-content: space-evenly;
 }
 
-/* .next {
-  width: 50px;
-  height: 50px;
-  background-color: #4CAF50;
-  position: absolute;
-  right: 10px;
-  top: calc(50% - 25px);
-  border-radius: 50%;
-} */
-
-/* .next-btn {
-  width: 50px;
-  height: 50px;
-  background-color: #4CAF50;
-  color: white;
-  border: none;
-  cursor: pointer;
-  font-size: 16px;
-  position: absolute;
-  right: 10px;
-  top: calc(50% - 25px);
-  border-radius: 50%;
-} */
-
-.submit-btn {
+.TracNghiem .submit-btn {
   width: 200px;
   padding: 10px;
   background-color: #4caf50;
@@ -164,7 +178,7 @@ h1 {
   bottom: 20px; */
 }
 
-.prev-btn {
+.TracNghiem .prev-btn {
   width: 100px;
   padding: 10px;
   background-color: #4caf50;
@@ -177,7 +191,7 @@ h1 {
   bottom: 20px; */
 }
 
-.next-btn {
+.TracNghiem .next-btn {
   width: 100px;
   padding: 10px;
   background-color: #4caf50;
@@ -195,7 +209,7 @@ h1 {
   background-color: #45a049;
 } */
 
-.submit-btn:hover {
+.TracNghiem .submit-btn:hover {
   background-color: #45a049;
 }
 
