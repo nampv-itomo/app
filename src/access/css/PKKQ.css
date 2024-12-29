@@ -38,7 +38,7 @@
 }
 
 .PKKQ-Item p {
-  font-size: 18px;
+  font-size: 20px;
   transform: matrix(1, 0, 0, 1, 0, 0);
 }
 
@@ -46,7 +46,7 @@
   padding: 15px;
   min-width: 70px;
   position: absolute;
-  top: 120px;
+  bottom: 10px;
   right: 10px;
   cursor: pointer;
   background-color: #45a049;

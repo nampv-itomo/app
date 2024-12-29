@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import "../access/css/LoiBacDay.css";
-import loiBacDay from "../access/loibacday/23-12.png";
 import videoBackground from "../access/photos/NỀN LỜI BÁC DẠY NGÀY NÀY NĂM XƯA.mp4";
 import { data_loibacday } from "../data/data_loibacday";
 
@@ -24,7 +23,7 @@ const TypingEffect = ({ text, delay = 100 }) => {
     return () => clearInterval(intervalId); // Dọn dẹp khi component bị unmount
   }, [text, delay]);
 
-  return <p style={{ fontSize: "20px", lineHeight: "1.5", color: "white" }}>{displayedText}</p>;
+  return <p>{displayedText}</p>;
 };
 
 const LoiBacDay = () => {

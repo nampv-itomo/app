@@ -1,39 +1,10 @@
 const { app, BrowserWindow, ipcMain } = require("electron/main");
 const path = require("path");
 
-// let mainWindow;
-
-// app.on("ready", () => {
-//   mainWindow = new BrowserWindow({
-//     width: 1920,
-//     height: 1080,
-//     // resizable: true,
-//     // frame: true,
-//     fullscreen: true,
-//     transparent: true,
-//     webPreferences: {
-//       preload: path.join(__dirname, "preload.js"), // Tùy chọn
-//       contextIsolation: true, // Bật cách ly context để bảo mật
-//       enableRemoteModule: false, // Tắt module remote (không cần thiết)
-//       nodeIntegration: true,
-//     },
-//   });
-
-//   mainWindow.setMenuBarVisibility(false); // Ẩn menu bar
-
-//   // Load ứng dụng React đã build
-//   const appUrl = `file://${path.join(__dirname, "/build/index.html")}`;
-//   mainWindow.loadURL(appUrl);
-
-//   mainWindow.on("closed", () => {
-//     mainWindow = null;
-//   });
-// });
-
 function createWindow() {
   const mainWindow = new BrowserWindow({
     width: 1920,
-    height: 1080,
+    height: 1120,
     // resizable: true,
     // frame: true,
     // fullscreen: true,

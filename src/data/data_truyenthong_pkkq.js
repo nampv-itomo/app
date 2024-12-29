@@ -1387,11 +1387,11 @@ export const data_truyenthong_pkkq = [
                   textAlign: "justify",
                 }}
               >
-                Hiện nay,{" "}
+                Hiện nay,
                 <strong>
-                  <span style={{ color: "red" }}>có 138 lượt đơn vị, 142 cá</span>
+                  <span style={{ color: "red" }}>có 138 lượt đơn vị, 142 cá nhân</span>
                 </strong>
-                <strong>&nbsp;</strong>nhân được phong tặng danh hiệu AHLLVTND.
+                <strong>&nbsp;</strong> được phong tặng danh hiệu AHLLVTND.
               </p>
               <p
                 style={{
@@ -1421,7 +1421,7 @@ export const data_truyenthong_pkkq = [
                   textAlign: "justify",
                 }}
               >
-                + Ngày truyền thống của bộ đội Ra đa: 01/3/1959.
+                + Ngày truyền thống của bộ đội Ra đa: 01/03/1959.
               </p>
               <p
                 style={{
@@ -1431,7 +1431,7 @@ export const data_truyenthong_pkkq = [
                   textAlign: "justify",
                 }}
               >
-                + Ngày truyền thống của bộ đội Tên lửa: 24/7/1965.
+                + Ngày truyền thống của bộ đội Tên lửa: 24/07/1965.
               </p>
               <p
                 style={{
@@ -1441,7 +1441,7 @@ export const data_truyenthong_pkkq = [
                   textAlign: "justify",
                 }}
               >
-                + Ngày truyền thống của bộ đội Pháo Cao xạ: 01/4/1953.
+                + Ngày truyền thống của bộ đội Pháo Cao xạ: 01/04/1953.
               </p>
               <p
                 style={{
