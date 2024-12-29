@@ -11,7 +11,6 @@ module.exports = {
     {
       name: "@electron-forge/maker-squirrel",
       config: {
-        iconUrl: "./assets/icon.ico", // Icon được sử dụng cho Windows installer
         setupIcon: "./assets/icon.ico", // Icon trong file cài đặt
       },
     },

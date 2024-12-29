@@ -77,12 +77,6 @@
     },
     "win": {
       "icon": "assets/icon.ico"
-    },
-    "mac": {
-      "icon": "assets/icon.icns"
-    },
-    "linux": {
-      "icon": "assets/icon.png"
     }
   }
 }
