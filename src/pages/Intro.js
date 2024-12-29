@@ -5,12 +5,11 @@ import videoBackground from "../access/photos/intro.mp4";
 
 const Intro = () => {
   const navigator = useNavigate();
+  const videoRef = useRef(null);
 
   setTimeout(() => {
     navigator("/home");
-  }, 14200);
-
-  const videoRef = useRef(null);
+  }, 11600);
 
   const unmuteVideo = () => {
     if (videoRef.current) {
@@ -25,7 +24,7 @@ const Intro = () => {
         <source src={videoBackground} type="video/mp4" />
         Trình duyệt của bạn không hỗ trợ video.
       </video>
-      {/* <button onClick={unmuteVideo}>Unmute</button> */}
+      <button onClick={unmuteVideo}>Unmute</button>
     </div>
   );
 };
