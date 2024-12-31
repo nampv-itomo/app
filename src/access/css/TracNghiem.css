@@ -62,13 +62,17 @@
   min-width: 70px;
   position: absolute;
   top: 160px;
-  /* Push the container down by 200px */
   left: 10px;
   cursor: pointer;
-  background-color: #45a049;
+  background-color: #1f492167;
   color: white;
   border-radius: 4px;
   font-weight: bold;
+}
+
+.TracNghiem .btn-back:hover {
+  background-color: #36bf3dca;
+  color: white;
 }
 
 @media screen and (max-width: 1200px) {
