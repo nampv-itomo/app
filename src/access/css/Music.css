@@ -1,10 +1,21 @@
+.video-background-music {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.9;
+  z-index: -1;
+}
+
 .Container {
   height: 100vh;
   width: 100vw;
-  background-image: url("../photos/nền các bài hát truyền thống quân chủng PK-KQ.jpg");
-  background-size: cover; /* Làm hình nền phủ hết màn hình */
-  background-position: center center; /* Căn giữa hình nền */
-  background-repeat: no-repeat; /* Không lặp lại hình nền */
+  /* background-image: url("../photos/nền các bài hát truyền thống quân chủng PK-KQ.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;  */
   position: relative;
 }
 

@@ -1,18 +1,19 @@
 #player {
-  grid-column: 1/13;
-  grid-row: 8/9;
+  /* grid-column: 2/13;
+  grid-row: 8/9; */
+  /* height: 50px; */
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
-  background-color: rgb(20, 20, 20);
+  background-color: rgba(20, 20, 20, 0.601);
   flex-wrap: wrap;
 }
 
 i.fas,
 svg {
-  color: #94a3b8;
-  font-size: 1.5rem;
+  color: #e1ebf9;
+  font-size: 30px;
   margin: 0px 1rem;
   transition: all 0.19s ease-in-out;
 }
@@ -28,12 +29,12 @@ i.fas.fa-pause-circle {
   color: #e2e8f0;
 }
 
-/* #player:hover {
-    cursor: pointer;
-} */
+#player:hover {
+  cursor: pointer;
+}
 
 .main-control {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .main-control > i:hover,
