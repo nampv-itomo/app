@@ -3,9 +3,9 @@ const path = require("path");
 
 function createWindow() {
   const mainWindow = new BrowserWindow({
-    width: 1920,
-    height: 1120,
-    // resizable: true,
+    width: 1400,
+    height: 820,
+    resizable: false,
     // frame: true,
     // fullscreen: true,
     // transparent: true,

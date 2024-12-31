@@ -2,20 +2,17 @@ import React, { useEffect, useState } from "react";
 import "../access/css/TracNghiem.css";
 import { useNavigate } from "react-router-dom";
 import { questions } from "../data/data";
-import nextIcon from "../access/icons/icon-next.png";
 import { toast } from "react-toastify";
 import videoBackground from "../access/photos/video_nen_trac_nghiem.mp4";
-import { AiFillAccountBook } from "react-icons/ai";
-import { AiFillCaretLeft } from "react-icons/ai";
 import { backSvg } from "../access/svg";
 
 // lay random 20 phan tu trong mang questions
-let randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 20);
+let randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 10);
 
 const TracNghiem = () => {
   const navigator = useNavigate();
   const handleGo = () => {
-    randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 20);
+    randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 10);
     navigator("/home");
   };
 

@@ -35,13 +35,16 @@ const LoiBacDay = () => {
         <div className="TruyenThong">
           <div className="menu">
             <div className="box" onClick={handleGoTruyenThong1}>
-              <span>TRUYỀN THỐNG QUÂN CHỦNG PKKQ</span>
-            </div>
-            <div className="box" onClick={handleGoTruyenThong2}>
-              <span>TRUYỀN THỐNG TRUNG ĐOÀN 64</span>
+              <span>TRUYỀN THỐNG </span>
+              <span>QUÂN CHỦNG PK-KQ</span>
             </div>
             <div className="box" onClick={handleGoTruyenThong3}>
-              <span>TRUYỀN THỐNG SƯ ĐOÀN PHÒNG KHÔNG 361</span>
+              <span>TRUYỀN THỐNG </span>
+              <span>SƯ ĐOÀN PHÒNG KHÔNG 361</span>
+            </div>
+            <div className="box" onClick={handleGoTruyenThong2}>
+              <span>TRUYỀN THỐNG </span>
+              <span>TRUNG ĐOÀN 64</span>
             </div>
           </div>
         </div>

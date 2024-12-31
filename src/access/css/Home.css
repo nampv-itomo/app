@@ -56,17 +56,18 @@
   max-width: 300px;
   cursor: pointer;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  justify-content: space-evenly;
   align-items: center;
 }
 
 .Home .container .box:hover {
-  background-color: #a4a6a8e7;
+  background-color: #8a8b8ce7;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.37);
 }
 
 .Home .container .box:hover span {
-  color: #046cf5;
+  color: #f3f8ff;
 }
 
 .Home .container .box span {

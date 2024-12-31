@@ -61,16 +61,20 @@ const Home = () => {
         <FullScreenButton />
         <div className="menu">
           <div className="box" onClick={handleGoExam}>
-            <span>Trắc nghiệm câu hỏi pháp luật</span>
+            <span>TRẮC NGHIỆM CÂU HỎI </span>
+            <span>PHÁP LUẬT</span>
           </div>
           <div className="box" onClick={handleGoMusic}>
-            <span>Bài hát truyền thống</span>
+            <span>BÀI HÁT </span>
+            <span>TRUYỀN THỐNG</span>
           </div>
           <div className="box" onClick={handleGoLoiBacDay}>
-            <span>Lời Bác dạy ngày này năm xưa</span>
+            <span>LỜI BÁC DẠY</span>
+            <span>NGÀY NÀY NĂM XƯA</span>
           </div>
           <div className="box" onClick={handleGoTruyenThong}>
-            <span>Truyền thống trung đoàn</span>
+            <span>LỊCH SỬ</span>
+            <span>TRUYỀN THỐNG</span>
           </div>
         </div>
       </div>
