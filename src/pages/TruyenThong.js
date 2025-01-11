@@ -1,7 +1,8 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import "../access/css/TruyenThong.css";
 import videoBackground from "../access/photos/nền chính khi chọn chủ đề lịch sử.mp4";
+import soundBackground from "../access/musics/nhạc nền trước khi chọn chủ đề truyền thống và trong truyền thống.mp3";
 
 const LoiBacDay = () => {
   const navigator = useNavigate();
@@ -22,12 +23,23 @@ const LoiBacDay = () => {
     navigator("/truyenthong/sudoan361");
   };
 
+  const audioRef = useRef(null);
+
+  useEffect(() => {
+    if (audioRef.current) {
+      audioRef.current.play();
+      audioRef.current.loop = true;
+      audioRef.current.volume = 0.3;
+    }
+  }, []);
+
   return (
     <React.Fragment>
       <video className="video-background-truyenthong" autoPlay muted loop>
         <source src={videoBackground} type="video/mp4" />
         Trình duyệt của bạn không hỗ trợ video.
       </video>
+      <audio ref={audioRef} src={soundBackground} />
       <div className="Container-TruyenThong">
         <button className="back-btn" type="button" onClick={handleGo}>
           Quay lại

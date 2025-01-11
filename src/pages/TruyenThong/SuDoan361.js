@@ -1,7 +1,8 @@
-import React, { useState } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import "../../access/css/PKKQ.css";
 import videoBackground from "../../access/photos/NỀN TRUYỀN THỐNG SƯ ĐOÀN 361.mp4";
+import soundBackground from "../../access/musics/nhạc nền trước khi chọn chủ đề truyền thống và trong truyền thống.mp3";
 import { data_sudoan_361 } from "../../data/data_sudoan_361";
 import { nextSvg } from "../../access/svg";
 
@@ -37,12 +38,23 @@ const SuDoan361 = () => {
     }
   };
 
+  const audioRef = useRef(null);
+
+  useEffect(() => {
+    if (audioRef.current) {
+      audioRef.current.play();
+      audioRef.current.loop = true;
+      audioRef.current.volume = 0.3;
+    }
+  }, []);
+
   return (
     <React.Fragment>
       <video className="video-background-loiBac" autoPlay muted loop>
         <source src={videoBackground} type="video/mp4" />
         Trình duyệt của bạn không hỗ trợ video.
       </video>
+      <audio ref={audioRef} src={soundBackground} />
       <div className="Container-PKKQ">
         <button className="back-page-btn" type="button" onClick={handleGo}>
           Quay lại

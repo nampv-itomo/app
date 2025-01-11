@@ -5,6 +5,11 @@ import { questions } from "../data/data";
 import { toast } from "react-toastify";
 import videoBackground from "../access/photos/video_nen_trac_nghiem.mp4";
 import { backSvg } from "../access/svg";
+import soundLeftClick from "../access/musics/hiệu ứng âm thanh khi click chuột trái.mp3";
+import soundTrue from "../access/musics/hiệu ứng nhạc khi trả lời đúng.mp3";
+import soundFalse from "../access/musics/hiệu ứng nhạc khi trả lời sai.mp3";
+import soundFinish from "../access/musics/hiệu ứng khi kết thúc bài thi trắc nhiệm.mp3";
+import soundBackground from "../access/musics/nhạc nền khi làm bài trắc nhiệm.mp3";
 
 // lay random 20 phan tu trong mang questions
 let randomQuestions = questions.sort(() => Math.random() - 0.5).slice(0, 10);
@@ -23,6 +28,21 @@ const TracNghiem = () => {
   const [correct, setCorrect] = useState("");
   const [history, setHistory] = useState([]);
 
+  const leftClick = new Audio(soundLeftClick);
+  const trueClick = new Audio(soundTrue);
+  const falseClick = new Audio(soundFalse);
+  const finishClick = new Audio(soundFinish);
+  const soundBG = new Audio(soundBackground);
+
+  useEffect(() => {
+    soundBG.play();
+    soundBG.loop = true;
+    soundBG.volume = 0.3;
+    return () => {
+      soundBG.pause();
+    };
+  }, []);
+
   const showToast = (message) => {
     toast.warning(message, {
       position: "top-center",
@@ -37,6 +57,7 @@ const TracNghiem = () => {
   };
 
   const handleResult = () => {
+    leftClick.play();
     if (result === "") {
       showToast("Vui lòng chọn đáp án");
       return;
@@ -48,6 +69,9 @@ const TracNghiem = () => {
       setCorrect(correct);
       if (result === correct) {
         setScore(score + 1);
+        trueClick.play();
+      } else {
+        falseClick.play();
       }
       setHistory([...history, result]);
       randomQuestions[currentQuestion].chose = correct;
@@ -57,6 +81,7 @@ const TracNghiem = () => {
   console.log("currentQuestion", currentQuestion);
 
   const nextQuestion = () => {
+    leftClick.play();
     if (correct === "") {
       showToast("Vui lòng nộp bài trước khi chuyển câu hỏi");
       return;
@@ -73,6 +98,7 @@ const TracNghiem = () => {
   };
 
   const prevQuestion = () => {
+    leftClick.play();
     if (currentQuestion > 0) {
       setCurrentQuestion(currentQuestion - 1);
       setResult("");
@@ -89,12 +115,20 @@ const TracNghiem = () => {
     }
   }, [currentQuestion]);
 
+  useEffect(() => {
+    if (currentQuestion === randomQuestions.length - 1 && correct !== "") {
+      soundBG.pause();
+      finishClick.play();
+    }
+  }, [currentQuestion, correct]);
+
   return (
     <React.Fragment>
       <video className="video-background" autoPlay muted loop>
         <source src={videoBackground} type="video/mp4" />
         Trình duyệt của bạn không hỗ trợ video.
       </video>
+      {/* <audio src={soundBackground} autoPlay loop /> */}
       <div className="TracNghiem">
         <button className="btn-back" onClick={handleGo}>
           Quay lại
@@ -134,6 +168,7 @@ const TracNghiem = () => {
                     value="a"
                     checked={result === "a"}
                     onChange={(e) => setResult(e.target.value)}
+                    onClick={() => leftClick.play()}
                     disabled={correct !== ""}
                   />
 
@@ -156,6 +191,7 @@ const TracNghiem = () => {
                     value="b"
                     checked={result === "b"}
                     onChange={(e) => setResult(e.target.value)}
+                    onClick={() => leftClick.play()}
                     disabled={correct !== ""}
                   />
 
@@ -178,6 +214,7 @@ const TracNghiem = () => {
                     value="c"
                     checked={result === "c"}
                     onChange={(e) => setResult(e.target.value)}
+                    onClick={() => leftClick.play()}
                     disabled={correct !== ""}
                   />
 
@@ -200,6 +237,7 @@ const TracNghiem = () => {
                     value="d"
                     checked={result === "d"}
                     onChange={(e) => setResult(e.target.value)}
+                    onClick={() => leftClick.play()}
                     disabled={correct !== ""}
                   />
 

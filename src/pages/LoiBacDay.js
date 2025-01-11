@@ -1,7 +1,8 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import "../access/css/LoiBacDay.css";
 import videoBackground from "../access/photos/NỀN LỜI BÁC DẠY NGÀY NÀY NĂM XƯA.mp4";
+import audio from "../access/musics/nhạc nền khi xem lời bác dạy ngày này năm xưa.mp3";
 import { data_loibacday } from "../data/data_loibacday";
 
 const TypingEffect = ({ text, delay = 100 }) => {
@@ -50,12 +51,23 @@ const LoiBacDay = () => {
     navigator("/home");
   };
 
+  const audioRef = useRef(null);
+
+  useEffect(() => {
+    if (audioRef.current) {
+      audioRef.current.play();
+      audioRef.current.loop = true;
+      audioRef.current.volume = 0.3;
+    }
+  }, []);
+
   return (
     <React.Fragment>
       <video className="video-background-loiBac" autoPlay muted loop>
         <source src={videoBackground} type="video/mp4" />
         Trình duyệt của bạn không hỗ trợ video.
       </video>
+      <audio ref={audioRef} src={audio} />
       <div className="Container-LoiBac">
         <button className="back-btn" type="button" onClick={handleGo}>
           Quay lại

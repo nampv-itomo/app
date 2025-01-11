@@ -2,6 +2,7 @@ import React, { useEffect, useRef } from "react";
 import "../access/css/Home.css";
 import { useNavigate } from "react-router-dom";
 import videoBackground from "../access/photos/video_home.mp4";
+import soundBackgroud from "../access/musics/nhạc nền khi chưa chọn chủ đề nào cả. ở màn hình chính.mp3";
 import { selectSongById, setPlayerState } from "../component/actions";
 import { connect, useDispatch } from "react-redux";
 import { ReactComponent as FullScreenIcon } from "../access/icons/subway--fullscreen.svg";
@@ -51,12 +52,23 @@ const Home = () => {
     dispatch(setPlayerState(0));
   }, []);
 
+  const audioRef = useRef(null);
+
+  useEffect(() => {
+    if (audioRef.current) {
+      audioRef.current.play();
+      audioRef.current.loop = true;
+      audioRef.current.volume = 0.2;
+    }
+  }, []);
+
   return (
     <div className="Home">
       <video className="video-background" autoPlay muted loop>
         <source src={videoBackground} type="video/mp4" />
         Trình duyệt của bạn không hỗ trợ video.
       </video>
+      <audio ref={audioRef} src={soundBackgroud} />
       <div className="container">
         <FullScreenButton />
         <div className="menu">
