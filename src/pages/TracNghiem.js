@@ -77,8 +77,6 @@ const TracNghiem = () => {
       randomQuestions[currentQuestion].chose = correct;
     }
   };
-  console.log(history);
-  console.log("currentQuestion", currentQuestion);
 
   const nextQuestion = () => {
     leftClick.play();

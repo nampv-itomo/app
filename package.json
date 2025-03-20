@@ -34,7 +34,10 @@
     "eject": "react-scripts eject",
     "electron": "electron .",
     "package": "electron-forge package",
-    "make": "electron-forge make"
+    "make": "electron-forge make",
+    "make:win": "electron-forge make --platform=win32",
+    "make:linux": "electron-forge make --platform=linux",
+    "make:mac": "react-scripts build && electron-forge make --platform=darwin"
   },
   "eslintConfig": {
     "extends": [

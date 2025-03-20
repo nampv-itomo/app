@@ -19,6 +19,19 @@ module.exports = {
       platforms: ["win32"],
     },
     {
+      name: "@electron-forge/maker-dmg",
+      config: {
+        icon: "./assets/icon.icns", // Icon trong file DMG
+      },
+    },
+    {
+      name: "@electron-forge/maker-dmg",
+      platforms: ["darwin"],
+      config: {
+        icon: "./assets/icon.icns", // Icon trong file PKG
+      },
+    },
+    {
       name: "@electron-forge/maker-deb",
       config: {},
     },
