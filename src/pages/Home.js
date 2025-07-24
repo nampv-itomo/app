@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import "../access/css/Home.css";
 import { useNavigate } from "react-router-dom";
 import videoBackground from "../access/photos/video_home.mp4";
@@ -32,6 +32,9 @@ const FullScreenButton = () => {
 
 const Home = () => {
   const navigator = useNavigate();
+  const audioRef = useRef(null);
+  const [audioStarted, setAudioStarted] = useState(false);
+
   const handleGoExam = () => {
     navigator("/tracnghiem");
   };
@@ -52,15 +55,25 @@ const Home = () => {
     dispatch(setPlayerState(0));
   }, []);
 
-  const audioRef = useRef(null);
-
-  useEffect(() => {
-    if (audioRef.current) {
-      audioRef.current.play();
-      audioRef.current.loop = true;
-      audioRef.current.volume = 0.2;
+  const startAudio = async () => {
+    if (audioRef.current && !audioStarted) {
+      try {
+        audioRef.current.loop = true;
+        audioRef.current.volume = 0.2;
+        await audioRef.current.play();
+        setAudioStarted(true);
+      } catch (error) {
+        console.log("Audio autoplay prevented:", error);
+      }
     }
-  }, []);
+  };
+
+  const handleUserInteraction = (callback) => {
+    return () => {
+      startAudio();
+      callback();
+    };
+  };
 
   return (
     <div className="Home">
@@ -72,19 +85,19 @@ const Home = () => {
       <div className="container">
         <FullScreenButton />
         <div className="menu">
-          <div className="box" onClick={handleGoExam}>
+          <div className="box" onClick={handleUserInteraction(handleGoExam)}>
             <span>TRẮC NGHIỆM CÂU HỎI </span>
             <span>PHÁP LUẬT</span>
           </div>
-          <div className="box" onClick={handleGoMusic}>
+          <div className="box" onClick={handleUserInteraction(handleGoMusic)}>
             <span>BÀI HÁT </span>
             <span>TRUYỀN THỐNG</span>
           </div>
-          <div className="box" onClick={handleGoLoiBacDay}>
+          <div className="box" onClick={handleUserInteraction(handleGoLoiBacDay)}>
             <span>LỜI BÁC DẠY</span>
             <span>NGÀY NÀY NĂM XƯA</span>
           </div>
-          <div className="box" onClick={handleGoTruyenThong}>
+          <div className="box" onClick={handleUserInteraction(handleGoTruyenThong)}>
             <span>LỊCH SỬ</span>
             <span>TRUYỀN THỐNG</span>
           </div>
