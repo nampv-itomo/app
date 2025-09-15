@@ -2064,264 +2064,227 @@ Lời kêu gọi thể hiện sâu sắc ý chí mạnh mẽ và quyết tâm s�
 Trong những năm tới, tình hình thế giới, khu vực sẽ còn nhiều diễn biến phức tạp, tiềm ẩn nhiều nhân tố gây mất ổn định, bất trắc, khó lường; tranh chấp lãnh thổ, chủ quyền biên giới, biển, đảo, đặc biệt là trên Biển Đông tiếp tục diễn ra gay gắt, phức tạp. Trong nước, bên cạnh những thuận lợi cơ bản, bốn nguy cơ mà Đảng ta đã chỉ ra vẫn còn tồn tại. Các thế lực thù địch đẩy mạnh “diễn biến hòa bình”, bạo loạn lật đổ, thúc đẩy “tự diễn biến”, “tự chuyển hóa” trong nội bộ ta nhằm xóa bỏ vai trò lãnh đạo của Đảng và âm mưu “phi chính trị hóa” quân đội. Để thực hiện trọn vẹn lời kêu gọi của Chủ tịch Hồ Chí Minh, chúng ta phải thường xuyên chăm lo xây dựng lực lượng vũ trang nhân dân Việt Nam vững mạnh về chính trị, tư tưởng, tổ chức và đạo đức, lấy xây dựng về chính trị làm cơ sở. Nâng cao bản chất giai cấp công nhân, tính nhân dân, tính dân tộc, đảm bảo lực lượng vũ trang nhân dân luôn là lực lượng chính trị, lực lượng chiến đấu trung thành, tin cậy của Đảng, Nhà nước và nhân dân.`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 04/11/1951",
+    title: `“ …muốn thắng, thì ta phải tích cực, tự động, bí mật, mau chóng, kiên quyết, dẻo dai. chắc thắng mới đánh. nhưng tuyệt đối chớ chủ quan khinh địch… ”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong “Thư gửi các cán bộ, chiến sĩ chủ lực và dân quân du kích trong Chiến dịch Hòa Bình”, Người viết tháng 11 năm 1951.
+Đây là thời điểm Đảng ta và Chủ tịch Hồ Chí Minh quyết định mở Chiến dịch Hòa Bình nhằm mục đích tiêu diệt sinh lực địch, giải phóng thị xã Hòa Bình, đập tan phòng tuyến sông Đà và tạo điều kiện phát triển chiến tranh du kích ở đồng bằng Bắc Bộ. Đây là sự chỉ đạo sát sao, sự động viên khích lệ của Bác, thể hiện nhãn quan chính trị, quân sự thiên tài nhạy bén của Người đã đánh giá đúng tình hình địch, ta, phán đoán trước được âm mưu, hành động xảo quyệt của những tên đế quốc, thực dân xâm lược. Đó còn là phương châm, tư tưởng, nguyên tắc chỉ đạo tác chiến của chiến dịch, đồng thời phản ánh rõ nét tư tưởng “đánh chắc thắng” của Chủ tịch Hồ Chí Minh - một tư tưởng đã trở thành nguyên tắc chỉ đạo cao nhất, đem lại niềm tin, nguồn sức mạnh chính trị, tinh thần to lớn để tiếp thêm sức mạnh và ý chí quyết chiến, quyết thắng cho các chiến sĩ ngoài mặt trận.
+Quán triệt lời dạy của Người, quân và dân ta đã chiến đấu anh dũng, lập công xuất sắc, đập tan cuộc tiến công lên Hòa Bình cùng với âm mưu lập “Xứ Mường tự trị” của thực dân Pháp. Thắng lợi của Chiến dịch Hòa Bình là thành công của Đảng ta và Chủ tịch Hồ Chí Minh trong việc chỉ đạo tiến công chiến dịch và đưa quân đội ta có bước tiến mới về trình độ chiến thuật, kỹ thuật, về khả năng chiến đấu liên tục dài ngày trên hai mặt trận rộng lớn và phức tạp; tạo ra cơ hội thuận lợi cho các chiến trường khác đẩy mạnh chiến tranh du kích, liên tục tiến công, tiêu diệt sinh lực địch, phát triển lực lượng kháng chiến và mở rộng thêm nhiều vùng căn cứ làm cho cục diện chiến trường thay đổi ngày càng có lợi cho ta, góp phần cổ vũ, động viên tinh thần chiến đấu của quân và dân ta trên các chiến trường.`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 05/11/1946",
+    title: `“…giao thông vận tải là mạch máu của tổ chức. giao thông tốtt thì các việc đều dễ dàng. giao thông xấu thì các việc đình trễ ”`,
+    content: `  Là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết “Công việc khẩn cấp bây giờ”, Người viết ngày 05 tháng 11 năm 1946. 
+Đây là thời điểm đất nước ta vừa mới giành được độc lập, công cuộc kiến thiết đất nước đặt ra nhiều “công việc khẩn cấp” phải giải quyết. Trong đó, giao thông vận tải là một trong những “công việc khẩn cấp” cần được quan tâm giải quyết ngay. Câu nói của Bác tuy giản dị, ngắn gọn nhưng rất sâu sắc, không chỉ nhấn mạnh đến vị trí, ý nghĩa, vai trò quan trọng của giao thông vận tải trong công cuộc kiến thiết đất nước mà còn là lời nhắc nhở, chỉ rõ nhiệm vụ và trách nhiệm đối với những người làm công tác giao thông vận tải. Thực hiện lời dạy của Bác, lớp lớp các thế hệ cán bộ, kỹ sư, công nhân lao động ngành giao thông vận tải Việt Nam đã luôn nỗ lực phấn đấu, tích cực, chủ động, sáng tạo, khắc phục khó khăn, gian khổ, hoàn thành mọi nhiệm vụ được giao, góp phần quan trọng vào sự nghiệp đấu tranh giải phóng dân tộc, xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.
+Trong sự nghiệp đổi mới đất nước hiện nay, lời dạy của Bác năm xưa vẫn còn nguyên giá trị, được các thế hệ cán bộ, kỹ sư, công nhân lao động ngành giao thông vận tải trên khắp mọi miền đất nước quán triệt, học tập và làm theo. Ngành gia thông vận tải đã dồn hết tâm huyết, trí tuệ, công sức vào sự nghiệp phát triển giao thông vận tải để thiết kế và xây dựng nên hệ thống cầu, đường, sân bay và bến cảng hiện đại... làm cho hệ thống hạ tầng giao thông ở nước ta ngày càng hiện đại, ngang tầm với các nước tiến tiến trong khu vực và trên thế giới. Để giao thông vận tải luôn “đi trước một bước”, đáp ứng nhu cầu đi lại của người dân, phục vụ đắc lực cho công cuộc phát triển kinh tế - xã hội và góp phần bảo vệ vững chắc độc lập, chủ quyền, toàn vẹn lãnh thổ, vùng biển, vùng trời của Tổ quốc.`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 06/11/1962",
+    title: `“…khen, chê phải đúng mức. khen nhưng khen quá lời. “suy tôn”	 người được khen thì chính người được khen xấu hổ. đập nhưng đập bậy thì người ta không phục…”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh trong một buổi họp của Bộ Chính trị tiếp tục cho ý kiến về nội dung Đại hội Văn nghệ, ngày 06 tháng 11 năm 1962, đăng trên Báo Nhân dân, số 3148, ra ngày 07 tháng 11 năm 1962. 
+Sáng ngày 06 tháng 11 năm 1962, Chủ tịch Hồ Chí Minh dự cuộc họp của Bộ Chính trị để cho ý kiến về nội dung Đại hội Văn nghệ. Khi bàn về chủ trương tổ chức cho anh em văn nghệ sĩ đi một đợt thực tế dài hạn ở nông thôn, Người đã tán thành chủ trương này và có những lời căn dặn quý báu đối với các văn nghệ sĩ đi thực hiện nhiệm vụ này. Đây là sự nhắc nhở sâu sắc, có giá trị định hướng về nhận thức, tư tưởng đối với mỗi văn nghệ sĩ cần nêu cao ý thức trách nhiệm, bám sát thực tiễn, khen, chê phải đúng mức; nói cách khác, Người yêu cầu các văn nghệ sĩ phải phản ánh trung thực và khách quan cuộc sống lao động, chiến đấu và sinh hoạt hằng ngày của nhân dân ở vùng nông thôn.
+Thực hiện lời căn dặn của Bác, các thế hệ văn nghệ sĩ nước nhà đã thường xuyên bám sát đời sống nông thôn, lăn lộn trên đồng ruộng, gò đồi, cũng như trên các chiến trường đầy khói lửa; hòa mình vào cuộc sống lao động sản xuất, chiến đấu và sinh hoạt hằng ngày của nhân dân, từ đó cho ra đời nhiều tác phẩm văn học, nghệ thuật có giá trị, tích cực cổ vũ cái đúng, cái tốt, cái đẹp, đồng thời phê phán những thói hư tật xấu, lên án cái ác, cái thấp hèn… góp phần quan trọng vào sự nghiệp đấu tranh giải phóng dân tộc, xây dựng và bảo vệ Tổ quốc.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 07/11/1959",
+    title: `“…nhờ cách mạng tháng mười thành công mà một thế giứoi mới đã ra đời và ngày càng phồn vinh, càng mạnh mẽ như hoa nở mùa xuân ”`,
+    content: `  Đây là sự đánh giá, ghi nhận về thắng lợi vĩ đại cuộc Cách mạng Tháng Mười Nga của Chủ tịch Hồ Chí Minh, trích trong bài viết “Vui vẻ kỷ niệm Cách mạng Tháng Mười” gửi Báo Sự thật (Liên Xô), Báo Nhân dân, đăng số 2061, ngày 07 tháng 11 năm 1959.
+Thắng lợi của Cách mạng Tháng Mười Nga và những gì mà cuộc cách mạng này tạo ra có sức lan tỏa, cổ vũ, lôi cuốn, thúc đẩy mãnh liệt đối với phong trào cách mạng xã hội chủ nghĩa, phong trào đấu tranh giải phóng dân tộc và phong trào công nhân quốc tế, làm sụp đổ hoàn toàn hệ thống thuộc địa của thực dân, đế quốc ở châu Á, châu Phi, châu Mỹ latinh. Đối với Việt Nam, “đi theo con đường cách mạng vô sản”, con đường của Lênin và cách mạng Tháng Mười Nga cho tới nay, Chủ tịch Hồ Chí Minh và Đảng ta đã dẫn dắt nhân dân ta đấu tranh giải phóng dân tộc, giành độc lập, tự do và quá độ tiến lên chủ nghĩa xã hội, tiến hành đổi mới, mở cửa hội nhập kinh tế quốc tế, giữ vững thành quả cách mạng, hoà bình, môi trường chính trị - xã hội ổn định để phát triển kinh tế, văn hoá, xã hội, nâng cao toàn diện chất lượng cuộc sống nhân dân.
+Ngày nay, thế giới đã có những biến động, thay đổi to lớn, sâu sắc, với không ít những thách thức về chính trị, an ninh, kinh tế - xã hội, xu thế hội nhập, toàn cầu hóa đang diễn ra mạnh mẽ… Song, thành quả của Cách mạng Tháng Mười vẫn còn nguyên giá trị lịch sử, thời đại, đã và đang thôi thúc giai cấp công nhân và những người tiến bộ tiếp tục cống hiến, hy sinh không mệt mỏi trong cuộc đấu tranh để xây dựng một thế giới hòa bình, xã hội dân chủ, công bằng, văn minh, bình đẳng, bác ái, không còn áp bức, bóc lột, không còn những nguyên nhân, điều kiện dẫn đến xung đột, chiến tranh - đó là xã hội xã hội chủ nghĩa.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 08/11/1945",
+    title: `“ nạn đói kém nguy hiểm hơn nạn chiến tranh ”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết “Hô hào nhân dân chống nạn đói”, đăng Báo Cứu quốc, số 86, ngày 08 tháng 11 năm 1945. 
+Hơn 70 năm đã qua đi, nhưng trong ký ức của người dân Việt Nam, nạn đói năm 1945 vẫn còn là một cơn ác mộng, một nỗi đau nhức nhối, khó quên. Do chính sách độc ác của bọn phát xít Nhật và thực dân Pháp đã khiến cho hơn 2 triệu người dân Việt Nam phải chết vì đói, bằng một phần mười dân số Việt Nam lúc bấy giờ. Lời của Bác vừa là lời tố cáo đanh thép về tội ác “trời không dung, đất không tha” của bè lũ thực dân đế quốc đã gây ra cho dân tộc Việt Nam, vừa là động lực thôi thúc nhân dân cả nước quyết tâm vượt qua khó khăn, gian khổ ra sức lao động, sản xuất để tạo ra nhiều lương thực nhằm giải quyết nạn đói trước mắt và chi viện cho tiền tuyến, góp phần vào thắng lợi của kháng chiến chống thực dân Pháp xâm lược.
+Lời của Bác là bài học nhắc nhở mỗi người dân Việt Nam phải luôn nêu cao ý thức tự lực, tự cường, kiên định mục tiêu độc lập dân tộc gắn liền với chủ nghĩa xã hội, bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc, đề cao tinh thần cảnh giác cách mạng và chủ động đấu tranh làm thất bại mọi âm mưu, thủ đoạn chống phá của các thế lực thù địch; đồng thời, chúng ta phải ra sức phát triển kinh tế, văn hóa, xã hội, không ngừng nâng cao đời sống vật chất và tinh thần của nhân dân, tích cực và chủ động hội nhập sâu rộng với các nước trong khu vực và trên thế giới, vì mục tiêu “dân giàu, nước mạnh, dân chủ, công bằng, văn minh”, vững bước đi lên chủ nghĩa xã hội.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 09/11/1949",
+    title: `“…phải ra sức thi đua
+luyện tập thân thể cho mạnh mẽ
+nghiên cứu kỹ thuật cho thông thạo
+trau dồi tinh thần cho vững chắc
+hun đúc đạo đưc của người quân nhân cách mạng cho vững vàng  ”
+`,
+    content: `  Đây là lời huấn thị của Chủ tịch Hồ Chí Minh trong Thư gửi lớp “Chuẩn bị tổng phản công” Trường Trung học Lục quân Trần Quốc Tuấn (nay là Trường Sĩ quan Lục quân 1), đăng trên Báo Cứu quốc, số 1392, ngày 09 tháng 11 năm 1949.
+Đây là thời điểm quân và dân ta đã bước sang năm thứ ba của cuộc kháng chiến chống thực dân Pháp xâm lược. Nhằm nâng cao trình độ chính trị, quân sự, nhất là trình độ tác chiến của đội ngũ cán bộ chỉ huy các cấp, đáp ứng yêu cầu đòi hỏi của cuộc kháng chiến, Trường Trung học Lục quân Trần Quốc Tuấn đã mở lớp “Chuẩn bị tổng phản công”. Để động viên kịp thời, Người đã viết thư gửi đến lớp học này. Lời huấn thị của Bác tuy ngắn gọn, nhưng cụ thể và rõ ràng, thể hiện sự quan tâm sát sao và nhắc nhở sâu sắc đối với mỗi cán bộ chỉ huy trong quá trình học tập và rèn luyện tại Trường Trung học Lục quân Trần Quốc Tuấn cũng như các nhà trường khác trong Quân đội.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 10/11/1951",
+    title: `“ …cán bộ và bộ đội nhất định phải đi sát với nhân dân vì lực lượng của nhân dân là vô cùng mạnh mẽ… ”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong “Thư gửi đồng bào và bộ đội (Vệ Quốc quân và dân quân du kích Tả Ngạn, Liên khu 3”, Người viết ngày 10 tháng 11 năm 1951, đăng trên Báo Quân đội nhân dân, số 34, ra ngày 01 tháng 12 năm 1951, trong bối cảnh sau khi nhận được báo cáo của đồng bào và bộ đội Tả Ngạn, Liên khu 3 về thành tích tiêu diệt địch, Bác đã gửi thư khen ngợi đồng bào, bộ đội và cán bộ, quân, dân, chính thuộc Liên khu 3. 
+Với tư duy chiến lược và tầm nhìn xa trông rộng, Người đã chỉ ra được cội nguồn sức mạnh, sự trưởng thành và chiến thắng của quân đội đều bắt nguồn từ sức mạnh của nhân dân; từ cơm ăn, áo mặc, xe cộ đi lại đến vũ khí đánh giặc đều do mồ hôi công sức nhân dân mà có. Người khẳng định: “Không có dân thì không có bộ đội”, “Nhân dân là nền tảng, là cha mẹ của bộ đội”. Chỉ có đoàn kết chặt chẽ với nhân dân, dựa vào dân, được nhân dân tin yêu như con em ruột thịt thì quân đội mới có được những thuận lợi trong chiến đấu, công tác, sản xuất cũng như trong mọi sinh hoạt của cuộc sống. Cách xa dân, không gắn bó với nhân dân, không liên hệ mật thiết với nhân dân, không dựa vào dân thì quân đội không thể có sức mạnh, không thể hoàn thành tốt mọi nhiệm vụ được giao. Thực tiễn hơn 70 năm xây dựng, trưởng thành, chiến đấu và chiến thắng của quân đội ta đã cho thấy, nguồn gốc sức mạnh của quân đội không chỉ bắt nguồn từ sự lãnh đạo của Đảng, sự quản lý của Nhà nước, sự quan tâm của các tổ chức chính trị xã hội, từ sức mạnh bên trong của quân đội, mà còn bắt nguồn từ sự đoàn kết giữa quân đội với nhân dân, sự yêu thương, đùm bọc, giúp đỡ của nhân dân đối quân đội.`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 11/11/1954",
+    title: `“phải luôn thi đua học tập và công tác, mở rộng tự phê bình và phê bình để tiến bộ mãi, để làm cho bộ đội ta càng thêm hùng mạnh, chính quyền ta càng thêm vững chắc”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong “Thư khen các chiến sĩ và cán bộ của các đơn vị tiếp quản Thủ đô”, đăng trên Báo Nhân dân, số 260, ra ngày 11 tháng 11 năm 1954.
+Thư gửi của Người viết trong trong thời điểm cuộc kháng chiến chống thực dân Pháp vừa mới kết thúc (07/5/1954), Hiệp định Giơnevơ được ký kết (21/7/1954). Sau một thời gian bộ đội ta về tiếp quản Thủ đô và bước đầu đã đạt được những kết quả quan trọng. Để cổ vũ, động viên kịp thời các đơn vị quân đội tiếp quản Thủ đô, Chủ tịch Hồ Chí Minh đã gửi thư khen ngợi và có những lời căn dặn quý báu đối với các đơn vị thực hiện nhiệm vụ này. Lời căn dặn của Bác là sự nhắc nhở sâu sắc đối với mỗi cán bộ, chiến sĩ trong Quân đội ta khi thực hiện nhiệm vụ tiếp quản Thủ đô cần ra sức thi đua trong học tập và công tác, tích cực tu dưỡng và rèn luyện, giữ vững phẩm chất, đạo đức, khí tiết của người quân nhân cách mạng; gương mẫu trong mọi lời nói, hành động và việc làm; phải thường xuyên mở rộng và nêu cao tự phê bình và phê bình... 
+Ngày nay, trước yêu cầu của sự nghiệp đổi mới và hội nhập quốc tế ngày càng sâu rộng, lời dạy của Bác có ý nghĩa to lớn, là sự định hướng cho quá trình học tập và công tác của mỗi cán bộ, công chức, viên chức các cấp, nhất là những cán bộ chủ trì các cấp, phải là lực lượng xung kích, đi đầu, phải nêu gương trên mọi lĩnh vực.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 12/11/1956",
+    title: `“cán bộ  và chiến sỹ đoàn kết chặt chẽ, thì chúng ta nhất định vượt được khó khăn, sửa được sai lầm, giành được thắng lợi ”`,
+    content: `  Đây là lời dạy của Chủ tịch Hồ Chí Minh được trích trong bài nói chuyện tại “Hội nghị cán bộ trung, cao cấp quân đội”, tháng 11 năm 1956. 
+Lời dạy của Bác là sự nhắc nhở sâu sắc đối với mỗi cán bộ, chiến sĩ quân đội trong bất cứ điều kiện, hoàn cảnh nào, lúc thường cũng như khi ra trận phải đoàn kết chặt chẽ, nêu cao tình thương yêu đồng chí, đồng đội, giúp đỡ nhau như ruột thịt; chỉ có đoàn kết mới có được sức mạnh để hoàn thành mọi nhiệm vụ, vượt qua mọi khó khăn, chiến thắng mọi kẻ thù... Thực tiễn hơn 70 năm xây dựng, chiến đấu và trưởng thành của Quân đội ta đã cho thấy, cán bộ và chiến sĩ thực sự đoàn kết trên cơ sở tình cảm cách mạng, tình thương yêu giai cấp, tình đồng chí, đồng đội thân thiết, cởi mở, chân thành; thực sự thương yêu, gắn bó, coi cơ quan, đơn vị như gia đình, đồng chí, đồng đội là anh em. Đặc biệt, cán bộ luôn đồng cam cộng khổ, sẵn sàng nhận khó khăn, gian khổ, hy sinh về mình, nhường cơm, sẻ áo cho chiến sĩ; sống với nhau có nghĩa, có tình, tin tưởng, tôn trọng, quan tâm giúp đỡ nhau để cùng tiến bộ và hoàn thành tốt nhiệm vụ. Xây dựng tinh thần đoàn kết, thống nhất ý chí và hành động, cùng chung mục tiêu, lý tưởng chiến đấu vì độc lập dân tộc và chủ nghĩa xã hội, vì hạnh phúc của nhân dân; toàn tâm, toàn ý phụng sự Tổ quốc, phục vụ nhân dân; cùng phấn đấu xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ, từng bước hiện đại; sẵn sàng chiến đấu và chiến đấu thắng lợi để bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc, bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa...`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 13/11/1947",
+    title: `“học hành là vô cùng. học càng nhiều biết càng nhiều càng tốt”`,
+    content: `  Đây là lời căn dặn của Chủ tịch Hồ Chí Minh được trích trong “Thư gửi đồng bào xã Duyên Trang, huyện Tiên Hưng, tỉnh Thái Bình”, ngày 13 tháng 11 năm 1947. 
+Sau hơn hai năm Trung ương Đảng và Chính phủ phát động toàn dân thực hiện phong trào diệt giặc dốt, phong trào đã đạt được những kết quả quan trọng, hàng triệu người dân Việt Nam đã biết đọc, biết viết. Bác Hồ rất vui mừng khi nhận được báo cáo về kết quả kỳ thi ngày 06 tháng 9 năm 1947, toàn dân xã Duyên Trang từ 8 tuổi trở lên đều thoát nạn mù chữ. Bác đã thay mặt Chính phủ gửi lời khen ngợi đến đồng bào toàn xã, nhất là cảm ơn các phụ lão, thân hào đã ra sức giúp đỡ, các cán bộ bình dân học vụ đã cố gắng dạy dỗ bà con nhân dân trong xã.
+Chủ tịch Hồ Chí Minh luôn là tấm gương sáng về tinh thần tự học. Người không những là vị lãnh tụ vĩ đại của dân tộc Việt Nam, người anh hùng giải phóng dân tộc, danh nhân văn hóa thế giới, mà còn là một nhà giáo dục, một tấm gương “suốt đời tự học” để trưởng thành, để đi lên, để tiến bộ. Theo Người, muốn trở thành người có đức, có tài để phục vụ và cống hiến nhiều cho Đảng, cho nhân dân thì “suốt đời phải học tập”. Chỉ có học tập, con người mới nâng cao sự hiểu biết về mọi mặt và phục vụ cho quê hương, đất nước nhiều hơn, tốt hơn. 
+Thực hiện lời căn dặn của Chủ tịch Hồ Chí Minh, phong trào diệt giặc dốt đã được toàn dân đồng lòng, đồng sức triển khai với quyết tâm cao, toàn dân, toàn quân ra sức học tập, lao động sản xuất để chiến đấu và phục vụ chiến đấu, giành thắng lợi trong hai cuộc kháng chiến chống thực dân Pháp và đế quốc Mỹ xâm lược, xây dựng và bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa. 
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 14/11/1950",
+    title: `“những ai đã lầm đường mà nay hối cải thì sẽ được khoan thứ ”`,
+    content: `  Đây là lời khẳng định của Chủ tịch Hồ Chí Minh trong Công điện số 508/D ngày 14 tháng 11 năm 1950 “Điện gửi đồng bào Sơn Hà”.
+ Ngay khi nhận được tin có số ít đồng bào dân tộc thiểu số ở huyện Sơn Hà, tỉnh Quảng Ngãi bị giặc Pháp lợi dụng những sai lầm của một số cán bộ địa phương đã kích động, xúi giục, gây bè cánh chống lại chính quyền, làm rối loạn trị an, gây mất đoàn kết nội bộ. Chủ tịch Hồ Chí Minh đã gửi Công điện để trấn an và động viên đồng bào và Bác đã nói rõ quan điểm, chính sách nhân đạo của Đảng, Nhà nước ta đối với những người lầm đường, lạc lối theo địch, chống phá cách mạng nhưng đã giác ngộc và quay về với cách mạng thì đều được chính quyền xem xét, khoan thứ.
+Chính sách nhân đạo, khoan hồng của Đảng, Nhà nước ta và Chủ tịch Hồ Chí Minh xuất phát từ truyền thống nhân ái của dân tộc Việt Nam, khuyến khích những người lầm đường, lạc lối hối cải, kiên quyết dứt bỏ quá khứ tội lỗi, rèn luyện trở thành người có ích cho xã hội. 
+Thấu triệt tư tưởng nhân đạo, khoan dung của Đảng, Nhà nước và Chủ tịch Hồ Chí Minh cán bộ, chiến sĩ Quân đội nhân dân Việt Nam luôn chấp hành nghiêm chính sách nhân đạo đối với tù hàng binh trong chiến tranh, thể hiện bản chất nhân văn, nhân đạo, khoan dung của “Bộ đội Cụ Hồ” đối với địch, dù họ là kẻ đi xâm lược, giết hại, cướp bóc đồng bào ta, nhưng khi bị bắt vẫn được bộ đội ta đối xử thấu tình, đạt lý để họ cải tả, quy chính, thức tỉnh lương tri, trở về với gia đình, với Tổ quốc, đã làm giảm đi nhiều những nỗi đau, sự mất mát mà chiến tranh gây ra, nhất là làm giảm nỗi hận thù giữa hai dân tộc, quốc gia đối địch trong chiến tranh.`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 15/11/1948",
+    title: `“…đã tự kiêu, tự ái thì không thể đoàn kết. không đoàn kết tức là cô độc. đã cô độc thì chẳng việc gì thành công ”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết “Bệnh tự kiêu, tự ái”, dưới bút danh X.Y.Z, đăng trên báo Sự Thật, số 102, ra ngày 15 tháng 11 năm 1948. 
+Đây là thời điểm cuộc kháng chiến chống thực dân Pháp xâm lược của quân và dân ta mới được hai năm, trong xã hội đã có một số cán bộ có biểu hiện cá nhân chủ nghĩa, công thần, hẹp hòi, kèn cựa địa vị, cục bộ bè phái, mất đoàn kết, chủ quan khinh địch; thiếu cố gắng vươn lên, tự cho mình việc gì cũng thạo, cũng làm được, việc gì mình cũng giỏi hơn người, mình là thần thánh, không cần học ai, hỏi ai; không can đảm tự phê bình, không ưa những lời phê bình thật thà ngay thẳng... nói tóm lại là đã mắc bệnh tự kiêu, tự ái. Trước tình hình đó, Chủ tịch Hồ Chí Minh đã viết bài “Bệnh tự kiêu, tự ái”, vạch rõ thực chất của căn bệnh này và khẳng định: “... Đã tự kiêu tự ái, thì không thể đoàn kết. Không đoàn kết tức là cô độc. Ðã cô độc, thì chẳng việc gì thành công”. 
+Giá trị, ý nghĩa sâu sắc câu nói của Bác vẫn còn tính thời sự, là lời răn dạy đội ngũ cán bộ, công chức, viên chức và quần chúng nhân dân phải luôn toàn tâm, toàn ý phục sựu Tổ quốc, phục vụ cách mạng, phục vụ nhân dân; chống mọi biểu hiện vô cảm, quan liêu, mệnh lệnh, hách dịch, nhũng nhiễu, gây phiền hà cho nhân dân. Phải ra sức thực hiện cần, kiệm, liêm, chính, chí công vô tư; luôn khiêm tốn, trung thực, dũng cảm, mạnh dạn tự phê bình và hoan nghênh người khác phê bình mình; kiên quyết sửa chữa sai lầm, khuyết điểm và phát triển ưu điểm. Luôn gương mẫu đi đầu, nói đi đôi với làm; không ngừng học tập nâng cao trình độ, cố gắng học hỏi để luôn luôn tiến bộ. Phải ra sức thực hành đoàn kết, chống mọi biểu hiện chia rẽ, bè phái, cục bộ địa phương, chủ nghĩa dân tộc hẹp hòi.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 16/11/1953",
+    title: `“quân dân đoàn kết một lòng, kháng chiến thắng lợi, cờ hồng tung bay ”`,
+    content: `  Câu thơ trên trích trong bài thơ “Kế hoạch Na va đầu voi đuôi chó” của Chủ tịch Hồ Chí Minh với bút danh “C.B”; Báo Nhân dân, đăng số 408, từ ngày 16 đến ngày 20 tháng 11 năm 1953.
+Đây là thời điểm cuộc kháng chiến chống thực dân Pháp xâm lược đang diễn ra quyết liệt, quân và dân ta liên tiếp giành được những thắng lợi lớn trên các chiến trường, thực dân Pháp thất bại thảm hại phải liên tiếp thay quân, đổi tướng với nhiều kế hoạch tác chiến khác nhau nhằm cứu vãn tình thế, nhưng chúng đều thất bại thảm hại trước sức mạnh đoàn kết quân và dân ta cùng sát cánh trên mọi chiến trường, với quyết tâm sắt đá phải giành cho được độc lập dân tộc.
+ Thực hiện lời Bác Hồ kính yêu căn dặn, quân và dân ta đã phát huy truyền thống đoàn kết, gắn bó máu thịt, nhân dân đã đồng tâm, hiệp lực, nuôi dưỡng, giúp đỡ, cung cấp sức người, sức của cho bộ đội. Ở đâu có dân, ở đó có dấu chân bộ đội, bộ đội đánh giặc, bảo vệ nhân dân. Quân đội ta từ nhân dân mà ra, vì nhân dân mà chiến đấu. Bộ đội của ta là bộ đội Cụ Hồ, bộ đội của dân sống giữa lòng dân; bộ đội không quản ngại khó khăn, gian khổ, chiến đấu anh dũng, kiên cường, chấp nhận hy sinh để giải phóng đất nước, giải phóng nhân dân khỏi ách đô hộ, bóc lột của đế quốc, thực dân xâm lược. Tình quân dân cá nước, quân với dân một ý chí đã tạo nên sức mạnh chiến đấu, chiến thắng mọi kẻ thù xâm lược, đất nước hòa bình, độc lập, nhân dân được tự do, có cuộc sống ấm no, hạnh phúc.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 17/11/1960",
+    title: `“ để đánh thắng kẻ thù chung, chúng ta nhất định phải đoàn kết chặt chẽ. đoàn kết là sức mạnh vô địch của chúng ta ”`,
+    content: `  Đây là khẳng định của Chủ tịch Hồ Chí Minh trong bài phát biểu tại Hội nghị đại biểu các Đảng Cộng sản và Đảng Công nhân quốc tế, họp ở Mátxcơva,  tháng 11 năm 1960. 
+Trong bối cảnh chủ nghĩa cơ hội xuất hiện, các Đảng Cộng sản và Đảng Công nhân quốc tế đang có sự chia rẽ, bất hòa trong nhận thức và giải quyết các vấn đề quốc tế. Tại Hội nghị này, Chủ tịch Hồ Chí Minh đã có bài phát biểu và kêu gọi sự đoàn kết thống nhất của các Đảng Cộng sản và Đảng Công nhân quốc tế trong cuộc đấu tranh chống kẻ thù chung. Lời khẳng định của Bác có ý nghĩa sâu sắc, thể hiện tư duy nhạy bén, tầm nhìn xa trong rộng của Người trước các vấn đề quốc tế, qua đó nhằm tranh thủ sự đồng tình, ủng hộ của các Đảng Cộng sản và Đảng Công nhân quốc tế đối với cuộc kháng chiến chống Mỹ, cứu nước của nhân dân ta.  
+Thực hiện lời dạy của Người đòi hỏi Đảng, Nhà nước và nhân dân ta phải thường xuyên chăm lo xây dựng khối đại đoàn kết toàn dân tộc, coi đây là đường lối chiến lược của cách mạng Việt Nam, là động lực và nguồn lực to lớn trong xây dựng và bảo vệ Tổ quốc; đoàn kết toàn dân tộc dựa trên nền tảng liên minh giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức do Đảng lãnh đạo; lấy mục tiêu xây dựng một nước Việt Nam hòa bình, độc lập, thống nhất, toàn vẹn lãnh thổ, “dân giàu, nước mạnh, dân chủ, công bằng, văn minh” làm điểm tương đồng; tôn trọng những điểm khác biệt không trái với lợi ích chung của quốc gia - dân tộc; đề cao tinh thần dân tộc, truyền thống yêu nước, nhân nghĩa, khoan dung để tập hợp, đoàn kết mọi người Việt Nam ở trong và ngoài nước. Bên cạnh đó, chúng ta cần tăng cường đoàn kết quốc tế, đoàn kết với nhân dân lao động các nước, với các dân tộc, với nhân loại tiến bộ vì mục tiêu chung đấu tranh giải phóng con người khỏi ách áp bức, bóc lột, vì hòa bình, độc lập dân tộc và tiến bộ xã hội; kiên quyết đấu tranh chống chủ nghĩa dân tộc hẹp hòi, tư tưởng sô vanh, nước lớn. 
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 18/11/19645",
+    title: `“ …muốn có hòa bình thật sự thì phải có độc lập thật sự… ”`,
+    content: `  Đây là lời khẳng định của Chủ tịch Hồ Chí Minh trong nội dung trả lời phỏng vấn nhà báo Phêlích Gơrin (nhà báo người Anh), ngày 18 tháng 11 năm 1965, để giải thích về lập trường của Việt Nam trước đề nghị thương lượng của phía Mỹ; Báo Nhân dân đăng trên số 4266, ngày 09 tháng 12 năm 1965.
+Suốt chiều dài lịch sử, dân tộc Việt Nam buộc phải đứng lên đấu tranh chống kẻ thù xâm lược cũng chỉ với khát khao đất nước được độc lập, nhân dân được sống trong hòa bình, tự do. Từ khát vọng cháy bỏng đó mà nhân dân Việt Nam đã không tiếc mồ hôi, nước mắt, máu xương của biết bao thế hệ cho cuộc đấu tranh vì độc lập, tự do, no ấm, hạnh phúc của mình. Lời khẳng định “... Muốn có hòa bình thật sự thì phải có độc lập thật sự...” của Bác như là một chân lý, có ý nghĩa lý luận, thực tiễn và giá trị thời đại sâu sắc. Đó không chỉ là tư tưởng mà còn là lẽ sống, là một giá trị to lớn trong học thuyết cách mạng của Hồ Chí Minh. Đó là mục tiêu chiến đấu, là nguồn sức mạnh làm nên chiến thắng của nhân dân Việt Nam trong sự nghiệp vĩ đại đấu tranh vì độc lập, tự do, vì sự tồn tại và phát triển của dân tộc. 
+Thấu triệt tư tưởng của Hồ Chí Minh về giá trị to lớn của hòa bình và điều kiện tiên quyết để có được hòa bình thực sự, Đảng ta chủ trương phải kiên định mục tiêu độc lập dân tộc gắn với chủ nghĩa xã hội, lấy việc giữ vững môi trường hòa bình, ổn định để phát triển đất nước là lợi ích cao nhất, phát huy sức mạnh tổng hợp của khối đại đoàn kết toàn dân tộc, phát huy nội lực, tranh thủ tối đa các thuận lợi từ bên ngoài, kiên trì chính sách đối ngoại rộng mở, vừa hợp tác vừa đấu tranh, gia tăng hợp tác, tránh xung đột đối đầu, tránh bị cô lập, lệ thuộc...
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 19/11/1954",
+    title: `“…rất mong các đồng chí chiến sỹ và cán bộ ta hết sưc cẩn trọng trong mọi cử chỉ, để cho thế giới đều thấy rằng “quân đội cụ hồ có khác” ”`,
+    content: `  Lời dạy của Chủ tịch Hồ Chí Minh được trích trong bài viết “Nhân dân với Quân đội”, đăng trên Báo Nhân dân, số 267, ra ngày 19 tháng 11 năm 1954.
+Đây là thời điểm cuộc kháng chiến chống thực dân Pháp xâm lược của quân và dân ta vừa kết thúc (07/5/1954). Miền Bắc được giải phóng, đi lên chủ nghĩa xã hội; miền Nam tiếp tục tiến hành cuộc cách mạng dân tộc dân chủ nhân dân, thực hiện thống nhất nước nhà. Trong cuộc kháng chiến này, Quân đội nhân dân Việt Nam đã chiến đấu hết sức anh dũng trong những hoàn cảnh vô cùng khó khăn, gian khổ, đã lập được những chiến công rực rỡ, ghi vào lịch sử kháng chiến vĩ đại của dân tộc những trang sử oanh liệt nhất, được bạn bè quốc tế, quân đội và nhân dân các nước yêu chuộng hòa bình trên thế giới khâm phục, đánh giá cao. Tuy nhiên, khi Bác nghe phản ánh về một số cán bộ, chiến sĩ ra đường không được chỉnh tề như đội mũ lệch, cúc áo không cài tử tế, cưỡi xe bình bịch lượn chơi phố, đánh “tú lơ khơ” ngoài đường để đồng bào nhầm tưởng là đánh bạc. Bác cho rằng, những chú ý đó của đồng bào là đúng, vì đồng bào muốn quân đội của mình phải gương mẫu về mọi mặt, không những chiến đấu dũng cảm, mà cần phải có thái độ nghiêm trang, để cho thế giới đều thấy rằng “Quân đội Cụ Hồ có khác”. Lời dạy của Bác có ý nghĩa sâu sắc, là sự nhắc nhở, chỉ bảo ân cần và sát sao đối với mỗi cán bộ, chiến sĩ phải nghiêm túc trong sinh hoạt cũng như tác phong ăn mặc để xứng đáng với danh hiệu “Bộ đội Cụ Hồ” mà nhân dân đã tin tưởng, yêu mến và trao tặng.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 20/11/1956",
+    title: `“đoàn kết là sức mạnh. toàn đảng, toàn quân, toàn dân đoàn kết chặt chẽ xung quanh trung ương”`,
+    content: `  Đây là lời căn dặn của Chủ tịch Hồ Chí Minh được trích trong bài nói chuyện tại “Hội nghị cán bộ trung, cao cấp quân đội”, tháng 11 năm 1956.
+Trong suốt cuộc đời hoạt động cách mạng, Chủ tịch Hồ Chí Minh đã luôn chăm lo xây dựng sự đoàn kết thống nhất cho toàn Đảng, đoàn kết toàn dân, đoàn kết toàn quân và đoàn kết với nhân dân yêu chuộng hoà bình trên thế giới. Rất nhiều những bài viết, bài nói chuyện của Người với đồng bào, đồng chí, với bạn bè, anh em Bác đều căn dặn, nhắc nhở phải giữ gìn sự đoàn kết và khẳng định đoàn kết là sức mạnh, đoàn kết là chìa khoá của mọi thành công. Trong đó, xây dựng sự đoàn kết thống nhất trong Đảng nói chung, đoàn kết trong Trung ương nói riêng luôn được Người coi là vấn đề quan trọng, mang ý nghĩa sống còn để giữ vững vai trò lãnh đạo cách mạng của Đảng. 
+Lời căn dặn trên của Bác có ý nghĩa sâu sắc, vì Người đã sớm nhận thấy vai trò to lớn, ý nghĩa sống còn của vấn đề đoàn kết thống nhất trong Đảng, trong Trung ương và khẳng định đây chính là nguồn gốc của sức mạnh, là then chốt của mọi thành công. Thực tiễn chứng minh, bằng sức mạnh đoàn kết thống nhất trong Đảng và trong Trung ương, Đảng đã lãnh đạo toàn dân và toàn quân ta đấu tranh giành thắng lợi trong cách mạng giải phóng dân tộc, xây dựng và bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa. Nói một cách khác, sự đoàn kết thống nhất trong Đảng và Trung ương là nhân tố quyết định mọi thắng lợi của cách mạng Việt Nam.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 21/11/1953",
+    title: `“…kháng chiến của ta nhất định thắng lợi, nhưng phải trường kỳ, gian khổ, tự lực cánh sinh”`,
+    content: `  Lời của Chủ tịch Hồ Chí Minh viết trong “Thư gửi quân và dân Tây Bắc”, ngày 21 tháng 11 năm 1953, Báo Nhân dân, số 149, từ ngày 21 đến 25 tháng 11 năm 1953.
+Đây là thời điểm cuộc kháng chiến chống thực dân Pháp xâm lược có sự thay đổi lớn có lợi cho ta, các đại đoàn chủ lực ra đời, liên tục giành thắng lợi lớn trên các chiến trường, đặc biệt các chiến dịch quan trọng như Chiến dịch Biên giới (1950), Chiến dịch Tây Bắc (1952)… làm phá sản âm mưu của thực Pháp hòng chia rẽ dân tộc bằng “xứ Thái tự trị”, “xứ Nùng tự trị” giải phóng một vùng Tây Bắc nối liền với Việt Bắc tạo thành thế liên hoàn có lợi cho kháng chiến. Ngày 20 tháng 11 năm 1953, thực dân Pháp nhảy dù xuống Điện Biên Phủ, mở đầu giai đoạn chiếm đóng vùng đất xứ Thái Tây Bắc Việt Nam. Ngay ngày hôm sau, Chủ tịch Hồ Chí Minh viết thư động viên, căn dặn quân dân cả nước nói chung, quân dân Tây Bắc nói riêng đề cao cảnh giác, đoàn kết nhất trí một lòng xây dựng lực lượng, tạo sức mạnh tổng hợp chuẩn bị cho cuộc quyết chiến chiến lược đánh bại thực dân Pháp xâm lược.
+Thực hiện sự chỉ đạo của Chủ tịch Hồ Chí Minh, quân và dân ta đã nêu cao ý chí tự lực, tự cường vừa chiến đấu, vừa sản xuất, xây dựng lực lượng góp phần vào chiến thắng đông xuân 1953 - 1954, mà đỉnh cao là thắng lợi của Chiến dịch Điện Biên Phủ (07/5/1954) chấm dứt hơn 80 năm đô hộ của thực dân Pháp. Tinh thần đó tiếp tục được toàn Đảng, toàn dân, toàn quân ta phát huy, tạo nên sức mạnh chiến đấu, chiến thắng trong cuộc kháng chiến chống đế quốc Mỹ, trong các cuộc chiến tranh bảo vệ biên giới Tây Nam, biên giới phía Bắc, làm nhiệm vụ quốc tế cao cả và trong sự nghiệp xây dựng và bảo vệ Tổ quốc ngày nay.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 22/11/1953",
+    title: `“ anh hùng thật là những người bất cứ việc to việc nhỏ, luôn luôn cố găng, vượt qua khó khăn, làm tròn nhiệm vụ ”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh trích trong bài “Anh hùng giả và anh hùng thật”, đăng trên Báo Nhân dân, số 149, từ ngày 21 đến ngày 25 tháng 11 năm 1953. 
+Sinh thời Chủ tịch Hồ Chí Minh đặc biệt quan tâm đến công tác thi đua - khen thưởng, phát hiện, cổ vũ, động viên, phát huy và nhân rộng những tấm gương người tốt, việc tốt, điển hình tiên tiến, các anh hùng lực lượng vũ trang, anh hùng lao động… để nhân lên cái đẹp, đẩy lùi cái xấu, góp phần hoàn thành nhiệm vụ cách mạng. Bác đã dạy: “Một trăm bài diễn thuyết hay không bằng một tấm gương sống” và “Quần chúng chỉ quý mến những người có tư cách, đạo đức. Muốn hướng dẫn nhân dân, mình phải làm mực thước cho người ta bắt chước”. 
+Thấu triệt tư tưởng của Người, Đảng, Nhà nước ta đã luôn quan tâm lãnh đạo, chỉ đạo tốt công tác thi đua - khen thưởng, xây dựng và nhân rộng điển hình tiên tiến, tôn vinh các anh hùng lực lượng vũ trang, anh hùng lao động có sức lan tỏa sâu rộng, tạo nên động lực, cổ vũ, động viên toàn Đảng, toàn dân, toàn quân thi đua hoàn thành xuất sắc các nhiệm vụ cách mạng. Từng thời kỳ, từng giai đoạn, đều xuất hiện nhiều tấm gương người tốt, việc tốt, những anh hùng tiêu biểu mẫu mực về nỗ lực vượt mọi khó khăn, gian khổ, nói đi đôi với làm, nói ít là nhiều, làm có hiệu quả, không quản ngại hy sinh, tận tâm, tận lực phụng sự Tổ quốc, phục vụ nhân dân, đặt lợi ích của tập thể lên trên, lên trước, sống nghĩa tình, thủy chung… được mọi người tôn vinh, học tập và noi theo.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 23/11/1951",
+    title: `“…noi gương oanh liệt của khởi nghĩa nam bộ, chúng ta phải đoàn kết chặt chẽ và kháng chiến mạnh mẽ lên mãi để phá âm mưu của giặc: lấy chiến tranh nuôi chiến tranh, dùng người việt đánh người việt. đánh đuổi quân xâm lược ra khỏi đất nước, giành độc lập và thống nhất thật sự cho tổ quốc” `,
+    content: `  Đây là lời căn dặn, nhắc nhở của Bác viết trong “Thư gửi cán bộ, chiến sĩ và đồng bào Nam Bộ”, ngày 23 tháng 11 năm 1951, nhân kỷ niệm Ngày Khởi nghĩa Nam Bộ (23/11/1940). 
+Cuộc khởi nghĩa Nam Bộ ngày 23 tháng 11 năm 1940 tuy không thành công, nhưng đã để lại tấm gương oanh liệt, thể hiện sức mạnh quật khởi, lòng tin tưởng và sẵn sàng hy sinh của đồng bào các tỉnh Nam Bộ trong cuộc đấu tranh giành độc lập, tự do dưới sự lãnh đạo của Ðảng. Đặc biệt là Lời căn dặn, nhắc nhở của Bác trong thời điểm này như tiếp thêm sức mạnh, cổ vũ động viên cán bộ, chiến sĩ cả nước nói chung, cán bộ, chiến sĩ và đồng bào Nam Bộ nói riêng trường kỳ kháng chiến đánh đuổi thực dân Pháp và đế quốc Mỹ xâm lược để giải phóng đất nước. 
+Thấm nhuần lời nhắc nhở của Bác, với tinh thần và ý chí quật cường, cán bộ, chiến sĩ và đồng bào Nam Bộ tiếp tục đứng lên, cùng với đồng bào và chiến sĩ cả nước kháng chiến chống thực dân Pháp xâm lược, đánh đuổi đế quốc Mỹ, chiến đấu bảo vệ biên giới Tây Nam của Tổ quốc.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 24/11/1954",
+    title: `“Nếu chính quyền biết lãnh đạo và khuyến khích, khen cái nên khen, thưởng việc nên thưởng, thì không những người lớn mà các trẻ em cũng hăng làm việc có lợi”.`,
+    content: `  Đây là 1/5 việc nhỏ, ý nghĩa to trong bài viết “Việc nhỏ, ý nghĩa to” của Chủ tịch Hồ Chí Minh đăng báo Nhân dân, số 272, ngày 24 tháng 11 năm 1954, với bút danh “C.B”. 
+Cuộc tiến công chiến lược Đông Xuân 1953 - 1954 với đỉnh cao là chiến dịch Điện Biên Phủ là một trận quyết chiến chiến lược, trực tiếp đưa đến việc ký Hiệp định Giơnevơ về chấm dứt chiến tranh, lập lại hoà bình ở Đông Dương. Tạo cơ sở và điều kiện để nhân dân ta tiến lên giành nhiều thắng lợi mới; trong đó vai trò của cấp ủy, chính quyền các cấp đối với việc đoàn kết, tập hợp quần chúng nhân dân chung sức, đồng lòng, tận tâm, tận lực phấn đấu vì sự nghiệp chung có ý nghĩa rất quan trọng. Để làm được điều đó, đòi hỏi cấp ủy, chính quyền các cấp, nhất là cấp cơ sở phải không ngừng nâng cao năng lực lãnh đạo, có phương pháp vận động, khích lệ quần chúng bằng những chính sách, nhiệm vụ cụ thể, thiết thực và biết làm tốt công tác khen thưởng, xử phạt đúng như những chỉ dẫn trong bài viết “Việc nhỏ, ý nghĩa to” của Chủ tịch Hồ Chí Minh.
+Có thể khẳng định rằng, những thành tựu to lớn của sự nghiệp đấu tranh giải phóng dân tộc, của công cuộc đổi mới, xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa luôn gắn liền với vai trò của cấp ủy, chính quyền, nhất là của đội ngũ cán bộ, trong đó phải nói tới phong cách lãnh đạo, phong cách làm việc và rèn luyện phong cách lãnh đạo, phong cách làm việc mới theo tư tưởng và tấm gương Hồ Chí Minh. Phần đông cấp ủy, chính quyền các cấp và đội ngũ cán bộ có phong cách lãnh đạo ngày càng sâu sát cơ sở, làm việc một cách khoa học, dựa trên trình độ học vấn ngày càng cao và chuyên sâu công việc, năng động sáng tạo, dám làm, dám chịu trách nhiệm. Nhiều cán bộ đã thực hành tốt nói đi đôi với làm và nêu gương trước cấp dưới, được quần chúng khen ngợi. Tuy nhiên, một bộ phận không nhỏ cán bộ lãnh đạo vẫn bộc lộ nhiều hạn chế, bất cập trong phong cách lãnh đạo, phong cách làm việc. Đáng lưu ý là có một số ít cán bộ có chức, có quyền cao còn biểu hiện quan liêu, chuyên quyền, độc đoán, hách dịch, xa dân. Một số cán bộ coi thường tính đảng, tính nguyên tắc trong công việc, lấy yêu cầu năng động, sáng tạo để che đậy cho những việc làm sai trái; một số cán bộ đã biến lối làm việc tập thể, cá nhân phụ trách thành "cá nhân phụ trách, tập thể chịu trách nhiệm" khi có sai phạm xảy ra, gây bức xức trong dư luận cần phải sớm khắc phục. 
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 25/11/1954",
+    title: `“ mỗi người yêu nước đều phải làm tuyên truyền. mỗi cử chỉ, mỗi hành động của chúng ta có thể là một công tác tuyên truyền ”`,
+    content: `  Đây là khẳng định của Chủ tịch Hồ Chí Minh trong bài viết “Tuyên truyền”, đăng Báo Nhân dân, số 273, ngày 25 tháng 11 năm 1954, với bút danh “C.B”. 
+Là một bộ phận của công tác tư tưởng, công tác tuyên truyền có vị trí hết sức quan trọng trong hoạt động lãnh đạo của Đảng, cũng như công tác xây dựng Đảng, nhằm phổ biến, truyền bá chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, các quan điểm, đường lối của Đảng, chính sách, pháp luật của Nhà nước, những tri thức, giá trị tinh thần, tư tưởng, các sự kiện thời sự lớn của đất nước và quốc tế, những vấn đề mới đặt ra trong sự nghiệp xây dựng và bảo vệ Tổ quốc…; qua đó, góp phần xây dựng thế giới quan, nhân sinh quan, lý tưởng sống, nhận thức chính trị, niềm tin, tình cảm cách mạng, hướng dẫn hành động, phát huy vai trò làm chủ, tính tích cực, tự giác, sáng tạo, động viên, cổ vũ, khích lệ cán bộ, đảng viên và quần chúng ra sức thi đua thực hiện thắng lợi nhiệm vụ chính trị trong mỗi thời kỳ cách mạng... Đồng thời, công tác tuyên truyền còn là công cụ sắc bén trong đấu tranh, phản bác có hiệu quả trước mọi âm mưu, thủ đoạn của các thế lực thù địch trong chiến lược “diễn biến hòa bình”, thúc đẩy “tự diễn biến”, “tự chuyển hoá” trong nội bộ, chống phá cách mạng Việt Nam và tham gia phê phán các quan điểm sai trái, lệch lạc, tiêu cực nảy sinh trong cán bộ, đảng viên và quần chúng.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 26/11/1954",
+    title: `“nhờ ai ta có hòa bình ?
+nhờ người chiến sĩ quên mình vì dân ”`,
+    content: `  Câu thơ trên của Chủ tịch Hồ Chí Minh trong bài viết “Nhờ ai ta có hòa bình”, báo Nhân dân, số 273, ngày 26 tháng 11 năm 1954, bút danh “C.B”.
+Chiến thắng lịch sử Điện Biên Phủ, đỉnh cao của cuộc tiến công chiến lược Đông-Xuân 1953-1954 là thắng lợi to lớn nhất của quân đội và nhân dân Việt Nam trong cuộc kháng chiến chống thực dân Pháp. Thắng lợi này đã tạo một bước ngoặt quan trọng trên con đường phát triển của cách mạng Việt Nam, đưa đến việc ký kết Hiệp định Giơnevơ, chấm dứt cuộc sự đô hộ của thực dân Pháp; miền Bắc được giải phóng, bắt tay vào sự nghiệp xây dựng chủ nghĩa xã hội, tạo cơ sở, hậu phương vững chắc cho cuộc kháng chiến chống đế quốc Mỹ, giải phóng miền Nam, thống nhất đất nước vào năm 1975. Toàn Đảng, toàn dân, toàn quân khắc ghi công ơn to lớn của hàng triệu anh hùng, liệt sĩ, những người con ưu tú của dân tộc đã anh dũng hy sinh vì độc lập, tự do, vì chủ quyền, thống nhất và toàn vẹn lãnh thổ của Tổ quốc, vì chủ nghĩa xã hội, vì nghĩa vụ quốc tế cao cả và cuộc sống độc lập tự do, hạnh phúc của nhân dân.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 27/11/1950",
+    title: `“…các chú đã đánh bật giặc ra khỏi lào cai. bác vui lòng thay mặt chính phủ khen ngợi các chú. sau đây là những việc cần phải làm ngay:…thực hành chính sách toàn dân đại đoàn kết ”`,
+    content: `  Đây là lời 1/6 việc quan trọng cần phải làm ngay theo chỉ huấn của Chủ tịch Hồ Chí Minh trong “Thư gửi chiến sĩ và cán bộ Lào Cai”, ngày 27 tháng 11 năm 1950, Báo Sự thật, số 151, ngày 27 tháng 11 năm 1950.
+Tháng 9 năm 1950, phối hợp với bộ đội chủ lực của ta trong chiến dịch Biên giới, quân dân Lào Cai đã chiến đấu kiên cường lần lượt giải phóng các địa phương trong tỉnh. Ngày 01 tháng 11 năm 1950 thị xã Lào Cai (nay là thành phố Lào Cai) sạch bóng quân thù, chiến dịch Lê Hồng Phong II kết thúc thắng lợi, Lào Cai hoàn toàn được giải phóng. Với chiến công to lớn của quân dân Lào Cai, Chủ tịch Hồ Chí Minh đã gửi thư tới chiến sĩ và cán bộ Lào Cai để động viên, khen ngợi và khích lệ kịp thời chiến thắng của chiến sĩ và nhân dân các dân tộc Lào Cai; Người đặc biệt quan tâm việc thực thi chính sách đại đoàn kết toàn dân.
+Trải qua hàng nghìn năm dựng nước và giữ nước, đại đoàn kết toàn dân tộc đã trở thành di sản vô giá, truyền thống cực kỳ quý báu của dân tộc ta. Lòng yêu nước, tinh thần đoàn kết, trọng nhân nghĩa, khoan dung, đùm bọc yêu thương nhau đã thấm sâu vào tư tưởng, tình cảm, tâm hồn mỗi người con đất Việt, trở thành lẽ sống, chất kết dính gắn bó các thành viên trong đại gia đình các dân tộc Việt Nam, kết thành sức mạnh vô địch, đưa dân tộc ta vượt lên mọi khó khăn, thử thách, đi từ thắng lợi này đến thắng lợi khác, lập nên những kỳ tích vẻ vang.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 28/11/1959",
+    title: `“…chỉ có hai hạng người không mắc khuyết điểm: là đứa bé còn ở trong bụng mẹ và người đã chết bỏ vào quan tài. có hoạt động thì khó tránh khỏi khuyết điểm. nhưng khi có khuyết điểm thì phải thật thà phê bình, hoan nghênh người khác phê bình và kiên quyết sửa chữa ”`,
+    content: `  Là lời huấn thị của Chủ tịch Hồ Chí Minh trong bài nói tại Hội nghị nghiên cứu Lịch sử Đảng của Ban Tuyên giáo Trung ương, ngày 28 tháng 11 năm 1959, Báo Nhân dân, số 2093, ngày 09 tháng 12 năm 1959. 
+Với thắng lợi của cuộc kháng chiến chống thực dân Pháp, cách mạng Việt Nam bước vào thời kỳ mới với đặc điểm: Đất nước tạm thời chia cắt làm hai miền, miền Bắc đã có hoà bình, dưới sự lãnh đạo của Đảng đang bắt đầu xây dựng một xã hội mới, miền Nam vẫn còn dưới ách đô hộ, áp bức của chủ nghĩa đế quốc. Đây cũng là thời điểm Đảng và Chính phủ, các cấp và các ngành từ Trung ương đến địa phương tiến hành công tác sửa sai trong cải cách ruộng đất ở miền Bắc một cách kiên quyết và toàn diện, trên tinh thần đề cao, thật thà tự phê bình và phê bình để nghiêm túc khắc phục, sửa chữa khuyết điểm.	 
+Trong sinh hoạt và hoạt động thực tiễn, mỗi con người và mỗi tổ chức đều có những ưu điểm và khuyết điểm, có mặt thuận lợi và khó khăn, có nhân tố tích cực và tiêu cực, có cái tiến bộ và cái lạc hậu. Quá trình phát triển của mỗi con người, mỗi tổ chức như thế nào và theo chiều hướng nào phụ thuộc chính vào cách thức giải quyết mâu thuẫn giữa các mặt tốt - xấu, thuận lợi - khó khăn, tích cực - tiêu cực đó.
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 29/11/1949",
+    title: `“ nông dân là một lực lượng rất to lớn của dân tộc, một đồng minh rất trung thành của giai cấp công dân”`,
+    content: `  Đây là khẳng định của Chủ tịch Hồ chí Minh trong thư gửi Hội nghị cán bộ nông dân cứu quốc toàn quốc, Người viết tháng 11 năm 1949.
+Giai cấp nông dân là một lực lượng có vai trò hết sức quan trọng trong sự nghiệp cách mạng của Đảng, của dân tộc. Lịch sử cách mạng Việt Nam dưới sự lãnh đạo của Đảng đã khẳng định những đóng góp to lớn của nông dân đối với sự nghiệp đấu tranh giải phóng dân tộc, xây dựng và bảo vệ Tổ quốc. Nắm vững vai trò và khả năng cách mạng của giai cấp nông dân nước ta, Đảng ta đã có đường lối chiến lược và sách lược đúng đắn và sáng tạo ra phương pháp cách mạng thích hợp với khả năng và truyền thống cách mạng của nông dân nước ta. Thực tiễn cách mạng Việt Nam dưới sự lãnh đạo của Đảng đã chứng minh rằng, liên minh công nông đã làm cho uy tín và sức mạnh của giai cấp công nhân vượt xa số lượng; làm cho giai cấp nông dân phát huy mạnh mẽ truyền thống và khả năng cách mạng của mình; là cơ sở củng cố, mở rộng Mặt trận dân tộc thống nhất; là nền tảng vững chắc để xây dựng chính quyền dân chủ nhân dân; là cơ sở để xây dựng quân đội nhân dân; là điều kiện cần thiết để chuyển cách mạng dân tộc dân chủ lên cách mạng xã hội chủ nghĩa. Trong công cuộc xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa. 
+`,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngµy 30/11/1948",
+    title: `“…chính sách đúng là nguồn gốc thắng lợi  ” `,
+    content: `  Đây là khẳng định của Chủ tịch Hồ Chí Minh mở đầu cho bài viết “Một việc mà các cơ quan lãnh đạo cần thực hành ngay”, đăng trên Báo Sự thật, số 103, dưới bút danh X.Y.Z, ngày 30 tháng 11 năm 1948. 
+	Lúc này, phong trào cách mạng thế giới đang phát triển mạnh mẽ, ở trong nước cuộc kháng chiến kiến quốc đang được củng cố và phát triển dưới sự lãnh đạo của Trung ương Đảng và Chính phủ, quân và dân ta vừa giành thắng lợi lớn trong chiến dịch Việt Bắc đã góp phần cổ vũ toàn dân, toàn quân hăng hái tham gia kháng chiến.
+	Thực hiện chỉ đạo của Chủ tịch Hồ Chí Minh, Trung ương Đảng, Chính phủ và quân đội nghiên cứu, đề ra các chính sách đúng, phù hợp với hoàn cảnh cụ thể, đồng thời phải tổ chức thực hiện nghiêm túc các chính sách đó trong mọi điều kiện hoàn cảnh; tổ chức sự kiểm tra chu đáo, chặt chẽ việc triển khai thực hiện ở các cấp, các ngành, các đơn vị, địa phương. Từ đó, đã thu hút được đông đảo các lực lượng tham gia kháng chiến, từ tầng lớp trí thức đến người dân lao động với tất cả của cải vật chất, ý chí, tinh thần, nghị lực đã tạo nên sức mạnh tổng hợp đưa cuộc kháng chiến trường kỳ của dân tộc đi đến thắng lợi hoàn toàn.
+	Trong tình hình hiện nay, với đường lối, chủ trương lãnh đạo đúng đắn của Đảng, chính sách, pháp luật phù hợp của Nhà nước đã đưa đất nước ta đạt được những thành tựu bước đầu có ý nghĩa lịch sử: Kinh tế tăng trưởng khá, nền kinh tế thị trường định hướng xã hội chủ nghĩa từng bước hình thành, phát triển. Chính trị - xã hội ổn định; quốc phòng, an ninh được tăng cường. Văn hóa - xã hội có bước phát triển; bộ mặt đất nước và đời sống của nhân dân có nhiều thay đổi. Dân chủ xã hội chủ nghĩa được phát huy và ngày càng mở rộng. Đại đoàn kết toàn dân tộc được củng cố và tăng cường. Công tác xây dựng Đảng, xây dựng Nhà nước pháp quyền xã hội chủ nghĩa và hệ thống chính trị được đẩy mạnh. Sức mạnh về mọi mặt của đất nước được nâng lên. Kiên quyết, kiên trì đấu tranh bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ và chế độ xã hội chủ nghĩa. Quan hệ đối ngoại ngày càng mở rộng và đi vào chiều sâu; vị thế và uy tín của Việt Nam trên trường quốc tế được nâng cao. `,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
-  },
-  {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngày 01/12",
+    title:
+      "“Để làm tròn nhiệm vụ cao quý của mình, văn nghệ sĩ cần phải rèn luyện đạo đức cách mạng, nâng cao tinh thần phục vụ nhân dân, giữ gìn thái độ khiêm tốn; phải thật sự hòa mình với quần chúng, cố gắng học tập chính trị, trau dồi nghề nghiệp; phải hết lòng giúp đỡ thanh niên, làm cho văn nghệ nước nhà ngày càng thêm trẻ thêm xuân”",
+    content: `  Đây là lời căn dặn của Chủ tịch Hồ Chí Minh được trích trong bài nói tại Đại hội Văn nghệ toàn quốc lần thứ III, ngày 01 tháng 12 năm 1962, đăng trên Báo Nhân dân, số 3173, ra ngày 02 tháng 12 năm 1962. 
+Là người đặt nền móng cho nền văn học nghệ thuật cách mạng, Chủ tịch Hồ Chí Minh kính yêu đã có công xây dựng một nền văn nghệ mới, thường xuyên sâu sát và có những lời chỉ bảo tận tình, cần thiết cho đội ngũ những người làm công tác văn hóa văn nghệ, đặc biệt là các anh chị em nghệ sĩ. Lời căn dặn của Bác rõ ràng, dễ hiểu nhưng là bài học sâu sắc, tinh tế có giá trị định hướng cụ thể về nhận thức, tư tưởng và hành động nhằm nâng cao tinh thần cảnh giác, mài sắc ý chí chiến đấu cho những người cầm bút.
+Thực hiện lời Bác dạy, trong suốt cuộc kháng chiến chống Mỹ, cứu nước, hàng chục ngàn văn nghệ sĩ đã “xẻ dọc Trường Sơn đi cứu nước” đến với tiền tuyến lớn, lăn lộn trên các chiến trường đầy khói lửa và có những đóng góp quan trọng cho sự nghiệp thống nhất nước nhà. Sau ngày đất nước thống nhất, đặc biệt là trong công cuộc đổi mới đất nước, đội ngũ văn nghệ sĩ nước nhà tiếp tục phát huy tài năng sáng tạo của mình, thật sự hòa mình vào cuộc sống lao động sản xuất, bảo vệ Tổ quốc trong thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa và hội nhập quốc tế, phấn đấu có nhiều tác phẩm xuất sắc, xứng đáng với tầm vóc của cách mạng, với dân tộc Việt Nam.   
+Hiện nay, lời căn dặn của Bác vẫn giữ nguyên giá trị, có ý nghĩa to lớn nhằm động viên văn nghệ sĩ cả nước bồi dưỡng cái tâm và cái tài, khám phá, sáng tạo nên nhiều tác phẩm hay và tốt phục vụ Tổ quốc, phục vụ nhân dân. Thực hiện lời dạy của Bác, Đảng và Nhà nước ta rất quan tâm đến đội ngũ văn nghệ sĩ - những người chiến sĩ tiên phong trên mặt tư tưởng, văn hóa của Đảng và đã xác định rõ trách nhiệm của lực lượng này là cần phải nêu cao trách nhiệm trước nhân dân, thấm nhuần sâu sắc tinh thần nhân văn, dân chủ, có tác dụng giáo dục, xây dựng con người; tích cực cổ vũ cái đúng, cái tốt, cái đẹp trong quan hệ giữa con người với con người, giữa con người với xã hội, với thiên nhiên, đồng thời phê phán những thói hư tật xấu, lên án cái ác, cái thấp hèn…  Thấm nhuần lời dạy của Bác, mỗi văn nghệ sĩ trong Quân đội cần ra sức học tập nâng cao trình độ, chuyên môn nghiệp vụ, tích cực tu dưỡng, rèn luyện phẩm chất đạo đức, lối sống nhằm không ngừng tự hoàn thiện bản thân; đi sâu bám sát mọi hoạt động của bộ đội, phấn đấu sáng tạo nên nhiều tác phẩm nghệ thuật có giá trị đáp ứng kịp thời nhu cầu thẩm mỹ của bộ đội, góp phần tô thắm thêm phẩm chất cao đẹp “Bộ đội Cụ Hồ” trong thời kỳ mới. 
+ 
+`,
   },
   {
     date: "Ngày 02/12/1949",
