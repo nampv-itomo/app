@@ -1813,6 +1813,274 @@ Chủ tịch Hồ Chí Minh đã phân tích, đánh giá đúng tình hình qu�
 Thực hiện chỉ đạo của Người, quân và dân ta đã đoàn kết, hợp đồng, phát huy thế mạnh của ta, khoét sâu điểm yếu của địch với ý chí “Không có gì quý hơn độc lập, tự do” đã anh dũng chiến đấu và chiến thắng mọi kẻ thù xâm lược, giải phóng đất nước khỏi ách đô hộ của đế quốc, thực dân, bảo vệ vững chắc độc lập, chủ quyền, toàn vẹn lãnh thổ của Tổ quốc.`,
   },
   {
+    date: "Ngµy 02/10/1961",
+    title: `“địch công thành, ta công tâm, phải lấy được lòng dân”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh phát biểu tại cuộc họp Bộ Chính trị bàn về cách mạng miền Nam, Báo Nhân dân, đăng số 2750, ngày 02 tháng 10 năm 1961. 
+Đây là sự thể hiện nhất quán quan điểm của Chủ tịch Hồ Chí Minh về việc phải luôn luôn lấy dân làm gốc, phải thấy được sức mạnh vô địch từ nhân dân: “Dễ trăm lần không dân cũng chịu/ Khó vạn lần dân liệu cũng qua”. Đây cũng là đặc trưng tiêu biểu về bản chất của Quân đội ta - quân đội cách mạng, từ nhân dân mà ra, vì nhân dân mà chiến đấu. 
+Thấu triệt tư tưởng Hồ Chí Minh về việc luôn coi trọng và đặt lên hằng đầu sức mạnh của quần chúng nhân dân, Đảng, Nhà nước ta luôn coi trọng xây dựng "thế trận lòng dân" là một bộ phận của tiềm lực chính trị tinh thần; dựa vào nhân dân, được nhân dân ủng hộ, che chở giúp đỡ; đồng thời, huy động và khai thác tiềm lực to lớn từ nhân dân, sức mạnh vô địch của nhân dân, làm thất bại mọi âm mưu, thủ đoạn chống phá của kẻ thù. Trong cuộc kháng chiến chống thực dân Pháp và đế quốc Mỹ xâm lược, nhờ xây dựng “thế trận lòng dân” vững chắc, biết khơi dậy và phát huy lòng yêu nước, căm thù giặc và sức mạnh của lòng dân, các lực lượng cách mạng đã tổ chức đấu tranh bằng nhiều hình thức, thực hiện Đảng bám dân, dân bám đất, lực lượng vũ trang bám địch, liên tục vây ép, tiến công địch cả về chính trị, quân sự, tiêu hao từng bộ phận sinh lực và phương tiện chiến tranh, "căng, kéo, kìm, giữ địch", buộc chúng phải phân tán đối phó, góp phần làm cho địch sa lầy bị động, tạo thế cho cấp trên và cùng bộ đội chủ lực ta tiêu diệt địch, giành thắng lợi. Trong sự nghiệp xây dựng và bảo vệ Tổ quốc, "thế trận lòng dân" tiếp tục được Đảng, Nhà nước và nhân dân ta chăm lo xây dựng và củng cố vững chắc; kết hợp chặt chẽ với xây dựng thế trận quốc phòng toàn dân, thế trận an ninh nhân dân, phát huy sức mạnh tổng hợp của khối đại đoàn kết toàn dân tộc, của cả hệ thống chính trị, đấu tranh ngăn chặn và làm thất bại mọi âm mưu, thủ đoạn "diễn biến hòa bình" của các thế lực thù địch, bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của đất nước; giữ vững an ninh chính trị, trật tự, an toàn xã hội; đẩy mạnh công cuộc đổi mới, sự nghiệp công nghiệp hóa - hiện đại hóa vì mục tiêu "dân giàu, nước mạnh, dân chủ, công bằng, văn minh".`,
+  },
+  {
+    date: "Ngµy 03/10/1960",
+    title: `“về mặt văn hóa, thì dù ai mù quáng đến mấy cũng phải thấy rằng chế độ xã hội chủ nghĩa của ta thắng lợi vẻ vang . chúng ta có quyền tự hào nhưng chúng ta không được tự mãn”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh trong bài viết “Một thắng lợi vẻ vang”, bút danh T.L, đăng trên Báo Nhân dân, số 2389, ngày 03 tháng 10 năm 1960.
+Ngay sau khi nước nhà giành được độc lập (02/9/1945), Trung ương Đảng, Chủ tịch Hồ Chí Minh luôn coi trọng và đặt lên hàng đầu sự nghiệp giáo dục, đào tạo và xây dựng nền văn hoá mới tiên tiến, đậm đà bản sắc dân tộc, nền văn hoá do nhân dân lao động sáng tạo, giữ gìn và hưởng thụ - đó là nền văn hoá xã hội chủ nghĩa tiến bộ, hiện đại, nhân văn và không ngừng phát triển. 
+Thấu triệt tư tưởng Hồ Chí Minh về giá trị, sức mạnh và sự cần thiết của việc coi trọng xây dựng và phát triển văn hoá, Đảng, Nhà nước đã ban hành nhiều chủ trương, chính sách, nghị quyết nhằm xây dựng một nền văn hoá tiên tiến, đậm đà bản sắc dân tộc; phát triển văn hoá đi đôi với phát triển kinh tế, xã hội để hướng tới sự phát triển bền vững của đất nước. Quan tâm xây dựng nền văn hóa VIệt Nam tiên tiến, đậm bản sắc dân tộc; không ngừng phát huy giá trị truyền thống tốt đẹp, nếp sống văn hóa, văn minh; cải thiện nâng cao đời sống văn hóa, tinh thần của nhân dân, đẩy mạnh phong trào “Toàn dân đoàn kết xây dựng đời sống văn hóa”, huy động, khơi dậy tinh thần giữ gìn, sáng tạo văn hóa của cộng đồng xã hội. Qua đó, đã không ngừng nâng cao chất lượng cuộc sống và làm phong phú thêm đời sống văn hóa tinh thần của nhân dân; các nền tảng giá trị đạo đức được quan tâm gìn giữ, các qui tắc ứng xử văn hóa được hình thành, từng bước đẩy lùi các tệ nạn xã hội, xây dựng đời sống văn hóa lành mạnh trên địa bàn dân cư.`,
+  },
+  {
+    date: "Ngµy 04/10/1945",
+    title: `“ cán bộ chăm chỉ làm việc chưa đủ, cần phải biết làm việc cho có phương pháp. phải cần mà phải cần nữa ”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh trong bài viết “Thiếu óc tổ chức - một khuyết điểm lớn trong các ủy ban nhân dân”, bút danh Chiến Thắng, đăng trên Báo Cứu quốc, số 58, ngày 04 tháng 10 năm 1945.
+Đây là thời điểm đất nước mới giành được độc lập, chính quyền cách mạng mới được thiết lập, phải đối diện với một khối lượng lớn công việc cần được giải quyết, đòi hỏi đội ngũ cán bộ các cấp phải dốc hết tâm huyết, nhiệt tình, trách nhiệm, song cần phải có sự tổ chức khoa học, hiệu quả. Do vậy, Bác đã viết bài để căn dặn đội ngũ cán bộ các cấp chỉ làm việc chăm chỉ là chưa đủ, mà phải làm việc khoa học, mới mang lại hiệu quả cao trong tổ chức, sắp xếp công việc của chính quyền mới. 
+Sinh thời, Chủ tịch Hồ Chí Minh đã dạy: “Cán bộ là cái gốc của mọi công việc”, “Muôn việc thành công hoặc thất bại đều do cán bộ tốt hoặc kém” và “Huấn luyện cán bộ là công việc gốc của Đảng”. Thấu suốt quan điểm của Người, trong suốt quá trình lãnh đạo đất nước, Đảng ta luôn coi cán bộ là nhân tố quyết định sự thành bại của cách mạng, gắn liền với vận mệnh của Đảng, của dân tộc, chế độ; là khâu then chốt trong công tác xây dựng, chỉnh đốn Đảng, nên đã dày công tổ chức, đào tạo, rèn luyện, xây dựng được đội ngũ cán bộ tận tụy, kiên cường, chất lượng ngày càng cao, là nhân tố quan trọng đóng góp vào những thành quả vĩ đại của cách mạng Việt Nam. 
+Đội ngũ cán bộ quân đội được giao trọng trách lãnh đạo, chỉ huy, quản lý từ cấp cơ sở đến toàn quân; là lực lượng nòng cốt trong thực hiện đường lối quân sự, quốc phòng của Đảng, nhân tố có vai trò quyết định trong thực hiện nhiệm vụ xây dựng, huấn luyện, sẵn sàng chiến đấu và chiến đấu của Quân đội ta. Học tập và làm theo lời Bác Hồ dạy, Quân ủy Trung ương, Bộ Quốc phòng đã có nhiều chủ trương, giải pháp lãnh đạo, chỉ đạo, xây dựng, nâng cao chất lượng đội ngũ cán bộ Quân đội làm nòng cốt để toàn quân hoàn thành xuất sắc mọi nhiệm vụ được Đảng, Nhà nước và nhân dân giao phó.
+`,
+  },
+  {
+    date: "Ngµy 05/10/1945",
+    title: `“…không biết tự quyết, tự định cái gì, như vậy làm sao công tác phát triển đưẻc. có mắt ta phải trông, có óc ta phải nghĩ, có tay ta phải làm chứ. nhưng tự động không phải tự tiện ” `,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh trong bài viết “Tinh thần chủ động trong Ủy ban nhân dân”, bút danh Chiến Thắng, đăng trên Báo Cứu quốc, số 59, ngày 05 tháng 10 năm 1945.
+Ngày 02 tháng 9 năm 1945, Hồ Chí Minh  bản Tuyên ngôn độc lập, khai sinh ra nước Việt Nam Dân chủ Cộng hoà; từ đây chính quyền cách mạng được thiết lập từ Trung ương đến cơ sở, song chính quyền mới phải đối diện với muôn vàn khó khăn, gian khổ, đặc biệt về công tác cán bộ vừa thiếu, vừa yếu, kinh nghiệm trong quản lý, điều hành, tổ chức thực hiện còn nhiều hạn chế. Để khắc phục, chấn chỉnh những bất cập, khó khăn trên, Chủ tịch Hồ Chí Minh đã viết bài để huấn thị đội ngũ cán bộ các cấp. 
+Cán bộ và công tác cán bộ luôn là vấn đề quan trọng, có ý nghĩa quyết định tới sự thành bại của cách mạng. Xây dựng đội ngũ cán bộ có năng lực, đáp ứng yêu cầu, nhiệm vụ của cách mạng trong từng thời kỳ được Đảng ta và Chủ tịch Hồ Chí Minh đặc biệt quan tâm, với việc ban hành nhiều quyết sách quan trọng về cán bộ và công tác cán bộ; kiên trì, kiên quyết lãnh đạo, chỉ đạo triển khai thực hiện và đã đạt được những kết quả quan trọng.  Phần lớn đội ngũ cán bộ có lập trường tư tưởng vững vàng, kiên định mục tiêu độc lập dân tộc và chủ nghĩa xã hội, có đạo đức, lối sống giản dị, “cần, kiệm, liêm, chính, chí công vô tư”, hoàn thành nhiệm vụ được giao; nhiều cán bộ năng động, sáng tạo, thích ứng với xu thế hội nhập, có khả năng làm việc trong môi trường quốc tế... Tuy nhiên, bên cạnh đó, công tác xây dựng đội ngũ cán bộ đến nay vẫn còn một số hạn chế, bất cập, nhất là việc điều động, bổ nhiệm vi phạm nguyên tắc, lợi ích nhóm, tệ nạn chạy chức, chạy quyền diễn ra ở một số cơ quan, địa phương… gây bức xúc trong dư luận.`,
+  },
+  {
+    date: "Ngµy 06/10/1945",
+    title: `“ muốn cho danh chính, lợi chính, thì danh, làm sao cho dân tộc mình có danh với thế giới, và lợi, làm thế nào cho tranh được lợi với thế giới ”`,
+    content: `  Là lời của Chủ tịch Hồ Chí Minh trong bài “Nói chuyện với đại biểu các báo chí về nội trị, ngoại giao nước nhà trong những ngày vừa qua”, Người nói ngày 06 tháng 10 năm 1945; đăng trên Báo Cứu quốc, số 61, ngày 08 tháng 10 năm 1945. 
+Nước Việt Nam Dân chủ Cộng hòa ra đời - một mốc son chói lọi trong lịch sử dựng nước và giữ nước của dân tộc ta. Tuy nhiên, những năm tháng đầu sau ngày độc lập, chúng ta gặp phải muôn vàn khó khăn, thách thức, cùng lúc phải đối phó với giặc đói, giặc dốt, giặc ngoại xâm; chính quyền mới được thành lập chưa được củng cố, lực lượng vũ trang còn non yếu và những tàn dư của xã hội cũ còn sót lại trên các lĩnh vực của đời sống xã hội; trong đó, có hiện tượng một số ít cán bộ ham muốn danh, lợi nên chưa thật sự tận tâm, tận lực phụng sự Tổ quốc, phục vụ nhân dân.
+Chủ tịch Hồ Chí Minh đã có nhiều bài viết, bài nói giải thích về Danh và Lợi cho cán bộ, đảng viên các cấp, các ngành để họ nắm rõ, hiểu đúng và hành động đúng. Theo Bác, Danh - nghĩa là phải làm tròn bất kỳ nhiệm vụ nào nhân dân giao phó thì đều là danh dự, là vẻ vang, là anh hùng, nếu phải hy sinh tính mạng thì tiếng thơm lưu truyền mãi mãi. Về Lợi, Hồ Chí Minh thường nhắc nhở cán bộ, đảng viên đối với công việc hằng ngày “Việc gì có lợi cho dân, thì phải làm cho kỳ được. Việc gì có hại cho dân thì phải hết sức tránh” và việc gì dù lợi cho mình, phải xem xét có lợi cho nước hay không? Nếu không có lợi mà có hại cho nước thì quyết không làm. Khi phải cân nhắc, chọn lấy một, giữa lợi ích riêng và lợi ích chung, thì phải chọn lợi ích chung, phải hy sinh lợi ích riêng cho lợi ích chung, vì lợi ích cho nước tức là lợi ích cho mình, lợi ích chung của đất nước của dân tộc có thắng lợi thì lợi ích riêng của gia đình thắng lợi. Hồ Chí Minh từng chỉ rõ chủ nghĩa cá nhân - căn bệnh luôn đặt lợi ích riêng của mình, của gia đình mình lên trên, lên trước lợi ích chung của dân tộc, chính là cha đẻ của tư tưởng danh lợi chỉ muốn làm ông này, ông khác, bà này, bà khác. Tư tưởng danh lợi lại đẻ ra trăm thứ bệnh.
+Học tập và làm theo lời Bác Hồ dạy, các thế hệ cán bộ, đảng viên của Đảng đã luôn đặt lợi ích của Đảng, của dân tộc và nhân dân lên trên, lên trước, sẵn sàng chiến đấu, hi sinh vì độc lập dân tộc, vì chủ nghĩa xã hội, luôn đồng cam, cộng khổ với quần chúng nhân dân, “cần, kiệm, liêm, chính, chí công vô tư” thực sự là hạt nhân lãnh đạo, đoàn kết đã cùng với toàn dân, toàn quân làm nên những thắng lợi vĩ đại của cách mạng Việt Nam.`,
+  },
+  {
+    date: "Ngµy 07/10/1954",
+    title: `“ không phải đã hòa bình thì thỏa mãn mà còn phải đấu tranh phức tạp, gian khổ , lâu dài. cách đấu tranh có thay đổi là đấu tranh trong hòa bình, mà đấu tranh trong  hòa bình còn gian khổ phức tạp hơn thời kỳ chiến tranh ”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh phát biểu tại Hội nghị cán bộ ngày 07 tháng 10 năm 1954. 
+Sau chiến thắng lịch sử Điện Biên Phủ (07/5/1954), Hiệp định Geneve được ký kết, cuộc chiến tranh kết thúc. Quân Pháp rút về nước, miền Bắc nước ta được hoàn toàn giải phóng. Theo Hiệp định Geneve, sau hai năm sẽ tổ chức tổng tuyển cử thống nhất nước Việt Nam. Nhưng đế quốc Mỹ với ý đồ xâm lược Việt Nam từ lâu, đã lợi dụng cơ hội, gạt Pháp ra, nhảy vào tổ chức, chỉ huy nguỵ quyền, nguỵ quân tay sai, viện trợ kinh tế quân sự, biến miền Nam thành thuộc địa kiểu mới, chia cắt lâu dài nước ta. Cả dân tộc ta lại bước vào chiến đấu chống xâm lược mới. Miền Bắc ra sức củng cố, xây dựng chủ nghĩa xã hội, làm căn cứ địa vững chắc cho cách mạng cả nước; miền Nam từ đấu tranh chính trị tiến lên kết hợp đấu tranh chính trị với đấu tranh vũ trang và khởi nghĩa từng phần, đánh bại cuộc chiến tranh một phía của Mỹ. 
+Sự nghiệp xây dựng chủ nghĩa xã hội ở miền Bắc và đấu tranh giải phóng miền Nam, thống nhất đất nước là khát vọng lớn lao của nhân dân ta, là yêu cầu của lịch sử giao phó, đó cũng đồng thời là nhiệm vụ của toàn quân, toàn dân ta dưới sự lãnh đạo của Đảng ta.
+`,
+  },
+  {
+    date: "Ngµy 08/10/1961",
+    title: `“phải chú trọng đào tạo, bồi dưỡng, cân nhắc cán bộ miền núi ”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh trong buổi nói chuyện tại Hội nghị tổng kết cuộc vận động hợp tác hóa nông nghiệp, phát triển sản xuất, kết hợp hoàn thành cải cách dân chủ ở miền núi. Bác nói ngày 08 tháng 10 năm 1961; báo Nhân dân, đăng số 2757, ngày 09 tháng 10 năm 1961. 
+Thực hiện Chỉ thị số 156-CT/TW ngày 25 tháng 8 năm 1959 của Trung ương Đảng về việc tiến hành hợp tác hóa nông nghiệp kết hợp hoàn thành cải cách dân chủ ở miền núi miền Bắc nước ta, sau hai năm triển khai thực hiện quyết liệt, Cuộc vận động đã đạt được kết quả bước đầu rất quan trọng, đánh thức tiềm năng, thế mạnh của một vùng miền núi rộng lớn có vị trí, ý nghĩa chiến lược quan trọng của đất nước. Tuy nhiên, phong trào hợp tác hoá nông nghiệp ở miền núi phát triển chưa đều, một số chính sách cụ thể thích hợp với miền núi chưa được quy định, công tác tư tưởng trong hợp tác xã chưa được chú ý, công tác quản lý hợp tác xã còn rất lúng túng. Nhiều nơi chi bộ, ủy ban hành chính và các đoàn thể nhân dân chưa được vững mạnh. Có những xã chưa có chi bộ đảng. Lực lượng cán bộ các dân tộc nói chung thiếu và yếu. Do vậy, Bác đã có những chỉ đạo rất sát đúng, kịp thời về mọi mặt; trong đó, cần phải hết sức chú trọng đến công tác cán bộ - cái gốc của mọi công việc.
+Thực hiện huấn thị các Bác, trong suốt quá trình xây dựng và phát triển, Đảng và Nhà nước đã ban hành nhiều chủ trương, chính sách xây dựng và phát triển đội ngũ cán bộ người dân tộc thiểu số. Nghị quyết số 24 khóa IX của Đảng về công tác dân tộc đề ra mục tiêu: “Xây dựng đội ngũ cán bộ người dân tộc thiểu số có phẩm chất chính trị, năng lực công tác và uy tín, đáp ứng yêu cầu nhiệm vụ trong giai đoạn mới; có cơ cấu, số lượng cán bộ phù hợp trong hệ thống chính trị”.`,
+  },
+  {
+    date: "Ngµy 09/10/1945",
+    title: `“chúng ta phải hết sức khôn khéo, đứng trước bất kỳ kẻ thù nào, người cách mạng cũng phải hiểu rõ chúng là ai; mạnh yếu chố nào, tranh thủ và cô lập ai?...”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh khi trả lời các vấn đề đối ngoại của chính phủ mới với Đoàn đại biểu công nhân Thành Hoàng Diệu ngày 09 tháng 10 năm 1945 tại Bắc Bộ phủ, do ông Trần Danh Tuyên dẫn đầu.
+Lịch sử dựng nước đi đôi với giữ nước của dân tộc ta và trí tuệ, tư duy sắc bén của Hồ Chí Minh đã nhắn nhủ Người phải kiên trì thực hiện quan điểm “thêm bạn, bớt thù” trong mọi suy nghĩ và hành động. Bài học ấy một lần nữa được phát huy, góp phần cô lập kẻ thù, đồng thời tận dụng sự ủng hộ của nhân loại tiến bộ trên thế giới trong cách mạng giải phóng dân tộc, thống nhất đất nước, cũng như trong sự nghiệp xây dựng và bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa ngày nay. 
+Thấu triệt lời Bác dạy, vận dụng, phát triển quan điểm, tư tưởng của Người về bạn, thù, Đảng, Nhà nước ta đã khởi sướng và lãnh đạo sự nghiệp đổi mới đồng bộ đất nước đạt được những thành quả to lớn, có ý nghĩa lịch sử. Hơn ba mươi năm đổi mới trên đất nước ta đã có vô số cái mới không ngừng nảy nở, vun trồng, phát triển trực tiếp góp phần vào sự nghiệp xây dựng và bảo vệ Tổ quốc: mới trong tư duy lý luận; mới trong chủ trương, đường lối của Đảng; mới trong lao động sản xuất; mới trong sáng tạo văn hóa, nghệ thuật của quần chúng nhân dân;... Những cái mới được hòa quyện giữa truyền thống văn hóa dân tộc với giá trị thời đại để trở thành căn cứ chủ yếu của chính sách đối nội, đối ngoại cùng với kế sách xây dựng và bảo vệ Tổ quốc. Quan điểm về “đối tác, đối tượng” là một trong những cái mới làm nên bước đột phá mở đầu cho sự nghiệp đổi mới thắng lợi, góp phần khẳng định trí tuệ, bản lĩnh của Đảng Cộng sản Việt Nam - một đảng cộng sản chân chính, xứng đáng là lực lượng duy nhất lãnh đạo toàn dân, toàn quân tiến hành sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.
+`,
+  },
+  {
+    date: "Ngµy 10/10/1954",
+    title: `“cả nước nhìn về thủ đô ta. thế giới trông vào thủ đô ta. tất cả chúng ta phải ra sức giữ gìn trật tự, an ninh, làm cho thủ đô ta thành một thủ đô bình yên, tươi đẹp, mạnh khỏe cả về vật chất và tinh thần ”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết đăng trên Báo Nhân dân, số 236, từ ngày 09 đến ngày 10 tháng 10 năm 1954, với bút danh “C.B”.
+Mùa thu lịch sử năm 1945, Hà Nội lần đầu tiên đón Bác Hồ về đọc Tuyên ngôn độc lập sau ngày Tổng khởi nghĩa giành chính quyền thắng lợi. Mùa thu lịch sử năm 1954, Hà Nội đón Bác Hồ về Thủ đô sau ngày giải phóng. Từ đó đến nay, Hà Nội tiếp nối truyền thống Thăng Long - Đông Đô ngàn năm, ngày một xứng đáng là trái tim cả nước, xứng với danh hiệu Thủ đô anh hùng, thành phố vì hòa bình…
+Trong chiến đấu, Hà Nội lập nên nhiều chiến công hào hùng, với cuộc chiến đấu tháng Chạp năm 1946 cùng toàn dân đi vào cuộc kháng chiến trường kỳ 9 năm gian khổ chống thực dân Pháp; với trận Điện Biên Phủ trên không 12 ngày đêm tháng chạp năm 1972 buộc đế quốc Mỹ chấm dứt chiến tranh ở Việt Nam… Trong 2 cuộc chiến tranh chống xâm lược, Hà Nội là địa danh thiêng liêng, là hồn thiêng sông núi, nơi cả nước gửi gắm niềm lạc quan tin tưởng, ý chí tự hào, là điểm tựa tinh thần cho quân và dân cả nước hăng hái đánh giặc.
+ 	Trong xây dựng hòa bình, Hà Nội đang từng bước to đẹp hơn, đàng hoàng hơn. Hà Nội đổi mới từng ngày, phấn đấu văn minh hiện đại trên cái nền truyền thống ngàn năm văn hiến, tạo nên gạch nối hài hòa Thăng Long - Đông Đô - Hà Nội. Hà Nội vinh dự là một trong 17 thành phố, thủ đô có diện tích lớn nhất thế giới.`,
+  },
+  {
+    date: "Ngµy 11/10/1958",
+    title: `“ khuyết điểm nặng nhất của cán bộ và nhân dân là chủ quan ”	`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết “Phải thi đua chống hạn, diệt sâu, để nắm chắc vụ mùa thắng lợi”, bút danh Trần Lực, đăng trên Báo Nhân dân, số 1672, ngày 11 tháng 10 năm 1958.
+Trong hoàn cảnh ngành nông nghiệp đứng trước nhiều thách thức, hạn hán, sâu bệnh, ảnh hưởng trực tiếp tới năng suất tại nhiều địa phương trên cả nước. Qua nghe báo cáo và thực tế kiểm tra, Bác nhận thấy nhân dân và các cán bộ thấy lúa tốt thì ít săn sóc, thấy sâu nhiều thì ngại khó, đấy là một sự chủ quan hết sức nguy hiểm, Người đã viết bài để kịp thời nhắc nhở, phê bình và chấn chỉnh cán bộ và nhân dân không được chủ quan coi thường sâu bệnh, hạn hán để có được vụ mùa thắng lợi.
+Nếu cán bộ, đảng viên mắc căn bệnh chủ quan, duy ý chí sẽ dẫn đến đề ra các chủ trương, quyết sách lãnh đạo, chỉ đạo, quản lý điều hành xã hội xa rời thực tiễn; đường lối, chủ trương, quyết sách không phản ánh lợi ích của tập thể, không thể hiện được ý chí của quần chúng nhân dân. Mặt khác căn bệnh chủ quan, duy ý chí sẽ khiến con người ta tuyệt đối hóa vai trò cá nhân, biện pháp mệnh lệnh hành chính, hành động bất chấp quy luật khách quan. Đặc biệt đối với những người có chức, có quyền mắc bệnh chủ quan, duy ý chí sẽ dẫn tới tình trạng lạm dụng chức quyền, mất dân chủ, thờ ơ với tâm tư, nguyện vọng của quần chúng... Những hệ lụy tiêu cực từ căn bệnh chủ quan, duy ý chí đối với đời sống kinh tế-xã hội là hết sức khó lường. 
+Học tập và làm theo lời Bác Hồ dạy, đội ngũ cán bộ, đảng viên của Đảng phải thường xuyên rèn luyện cho mình phương pháp, tác phong công tác khoa học, thiết thực và hiệu quả, để từ đó không mắc vào căn bệnh chủ quan, duy ý chí. Mặt khác, phải đề cao ý thức tự chủ, phát huy tốt dân chủ, thực hiện tốt quyền dân chủ của quần chúng nhân dân. Đề cao dân chủ sẽ giúp cho cán bộ, đảng viên chống được căn bệnh gia trưởng, độc đoán, chuyên quyền, phát huy tốt tính tích cực, năng động, sáng tạo của quần chúng nhân dân và trí tuệ của tập thể trong thực hiện thắng lợi các nhiệm vụ.`,
+  },
+  {
+    date: "Ngµy 12/10/1945",
+    title: `“muốn cho dân yêu, muốn được lòng dân, việc gì có lợi cho dân phải hết sức làm, việc gì có hại cho dân phải hết sức tránh ”`,
+    content: `  Là lời của Chủ tịch Hồ Chí Minh trong bài viết “Sao cho được lòng dân”, bút danh Chiến Thắng, đăng Báo Cứu quốc, số 65, ngày 12 tháng 10 năm 1945.
+Cách mạng tháng 8 năm 1945 thành công, nước Việt Nam Dân chủ Cộng hoà ra đời đã mở ra một trang sử mới cho dân tộc ta; song Chính phủ mới gặp rất nhiều khó khăn, thách thức. Thù trong, giặc ngoài, điên cuồng quấy phá, tìm mọi cách lật đổ chính quyền non trẻ của chúng ta. Chủ tịch Hồ Chí Minh đã viết bài “Sao cho được lòng dân” để căn dặn các cán bộ, đảng viên, bộ đội, công an của chính quyền mới phải luôn đặt quyền lợi của nhân dân lên trên, lên trước, việc gì có lợi cho dân phải kiên quyết làm, làm cho bằng tốt. Theo quan điểm của Bác, một nhà nước thật sự là nhà nước của dân, do dân, vì dân phải coi việc phục vụ nhân dân, đem lại lợi ích chính đáng cho nhân dân là mục tiêu, phương hướng hoạt động của mình. Người chỉ rõ: Chế độ ta là chế độ dân chủ. Nhân dân là chủ. Chính phủ là đầy tớ của nhân dân. 
+Thấu triệt quan điểm của Người, Đảng, Nhà nước ta luôn nhất quán và triển khai quyết liệt, đồng bộ chủ trương xây dựng nhà nước của dân, do dân, vì dân. Quyền làm chủ của nhân dân trên các lĩnh vực được mở rộng và phát huy, một số chính sách và quy chế bảo đảm quyền dân chủ của nhân dân, trước hết ở cơ sở, bước đầu được mở rộng, thực hiện. Đáng chú ý là hệ thống pháp luật được đổi mới, bổ sung và tăng cường, chất lượng các kỳ họp Quốc hội, Hội đồng nhân dân các cấp được nâng cao; phương thức quản lý, điều hành của bộ máy nhà nước sâu sát, thực tế hơn, tạo ra nhiều chuyển biến tích cực trong xã hội, các hoạt động của ngành tư pháp, toà án, viện kiểm sát có nhiều tiến bộ... Việc đổi mới nhà nước đúng định hướng là một trong những nhân tố quan trọng góp phần thúc đẩy tăng trưởng kinh tế, lành mạnh hoá các mặt văn hoá, xã hội, giữ vững sự ổn định lâu dài của đất nước.
+`,
+  },
+  {
+    date: "Ngµy 13/10/1945",
+    title: `“ việc nước và việc nhà bao giờ cũng đi đôi với nhau ”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong “Thư gửi các giới công thương Việt Nam”, ký tên Hồ Chí Minh; đăng trên báo Cứu quốc, số 66, ngày 13 tháng 10 năm 1945.
+Ngay sau cách mạng Tháng Tám năm 1945 thành công, chính quyền cách mạng còn non trẻ vừa mới ra đời, giữa những bộn bề công việc, Chủ tịch Hồ Chí Minh đã giành thời gian để gặp gỡ giới công thương Việt Nam nhằm tranh thủ sự ủng hộ, giúp đỡ của họ đối với việc khôi phục, phát triển kinh tế đất nước. Trong Thư Người đã phân tích, luận giải thấu đáo mối quan hệ biện chứng giữa lợi ích của tập thể với lợi ích của cá nhân. Tính nguyên tắc trong giải quyết mối quan hệ giữa lợi ích cá nhân và lợi ích tập thể mà Hồ Chí Minh đã chỉ ra vẫn còn giữ nguyên giá trị. Tận trung với Đảng, tận hiếu với dân, hết lòng hết sức vì nhiệm vụ cách mạng, vững vàng trước khó khăn, thử thách, tỉnh táo, sáng suốt trong công danh, tiền tài, địa vị là những chuẩn mực cơ bản đòi hỏi người cán bộ, đảng viên phải hiểu và làm cho đúng. 
+Thấu triệt tư tưởng của Chủ tịch Hồ Chí Minh về việc giải quyết hài hoà lợi ích cá nhân, lợi ích tập thể, Đảng, Nhà  nước ta luôn coi đây là vấn đề có tính nguyên tắc; đó là tất cả vì con người, coi con người vừa là mục tiêu, vừa là động lực của sự phát triển kinh tế - xã hội. Kết hợp hài hoà, giải quyết đúng đắn các mối quan hệ lợi ích là nhằm phát huy nhân tố con người, nguồn lực con người, tiềm năng con người cho sự nghiệp xây dựng và bảo vệ Tổ quốc. Sức mạnh và nguồn lực quốc gia của sự phát triển bao gồm cả nhân lực, vật lực, cả nội lực và ngoại lực, cả nguồn lực vật chất và nguồn lực tinh thần, truyền thống và hiện đại, trong đó nguồn lực con người là trung tâm và quan trọng nhất.
+`,
+  },
+  {
+    date: "Ngµy 14/10/1945",
+    title: `“đức giêsu hy sinh vì muốn loài người được tự do hạnh phúc, đồng bào ta cả lương cả giáo cũng vì tự do hạnh phúc cho toàn dân mà hy sinh phấn đấu ”`,
+    content: `  “Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết “Lời cảm ơn đồng bào công giáo”, Người viết ngày 14 tháng 10 năm 1945, ký tên Hồ Chí Minh, đăng trên báo Cứu quốc, số 70, ngày 18 tháng 10 năm 1945. 
+Trong tư tưởng đại đoàn kết dân tộc của Hồ Chí Minh, tư tưởng đoàn kết tôn giáo là bộ phận không thể tách rời. Đoàn kết tôn giáo cũng chính là đoàn kết dân tộc. Người đã tìm ra sự tương đồng giữa các tôn giáo, lấy đó làm cơ sở khoa học cho việc thực hiện đoàn kết tôn giáo qua lý giải: Các tôn giáo chân chính đều có hy vọng giải thoát con người, mong muốn con người được tự do, sung sướng, hạnh phúc: Phật sinh ra để lợi lạc quần sinh, vô ngã vị tha, Đức Giê-su hy sinh là vì muốn loài người được tự do, hạnh phúc, Khổng Tử sinh ra cũng là để giúp con người sống nhân nghĩa vì một thế giới đại đồng; tín đồ tôn giáo nhìn chung đều là những người lao động bị chế độ cũ áp bức, bóc lột, họ có quyền mưu cầu hạnh phúc, họ là những người yêu nước và cũng là lực lượng không thể thiếu của cách mạng, là bộ phận quan trọng trong khối đại đoàn kết toàn dân với tư cách là chủ thể của cách mạng.
+`,
+  },
+  {
+    date: "Ngµy 15/10/1949",
+    title: `“những ngừoi phụ trách dân vận cần phải óc nghĩ, mắt trông, tai nghe, chân đi, miệng nói, tay làm ”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết “Dân vận”, ký tên X.Y.Z, đăng trên Báo Sự thật số 120, ngày 15 tháng 10 năm 1949.  
+Giữa lúc công cuộc kháng chiến, kiến quốc của dân tộc ta ở vào thời điểm vô cùng cam go, quyết liệt, đòi hỏi phải huy động sức mạnh của cả dân tộc. Nhận thức sâu sắc và đánh giá cao vai trò, sức mạnh của quần chúng nhân dân đối với sự nghiệp cách mạng nước nhà, Chủ tịch Hồ Chí Minh đã viết tác phẩm “Dân vận”. Đây là “cẩm nang” kịp thời chỉ dẫn một cách đầy đủ và sâu sắc cả về mục đích, đối tượng, nhiệm vụ, phương pháp, tính hiệu quả... của công tác dân vận đối với cán bộ, đảng viên; tổ chức đảng, chính quyền và các tổ chức đoàn thể. 
+Thấu triệt tư tưởng chỉ đạo của Bác, mọi cương lĩnh, văn kiện, nghị quyết của Đảng, Nhà nước ta luôn xuất phát từ lợi ích và nguyện vọng chính đáng của nhân dân, vì nhân dân. Sức mạnh của Đảng là ở sự gắn bó mật thiết với nhân dân, từ đó luôn chủ trương phát huy tối đa quyền làm chủ của nhân dân theo phương châm: “dân biết, dân bàn, dân làm, dân kiểm tra”, “nghe dân nói, nói dân hiểu, làm dân tin”, để xây dựng nên khối đại đoàn kết và không ngừng phát huy sức mạnh của cả dân tộc. Ngành Dân vận và đội ngũ cán bộ làm công tác dân vận đã luôn chủ động tham mưu cho Đảng và Nhà nước những chủ trương, chính sách lãnh đạo, chỉ đạo thực hiện tốt công tác Dân vận, xây dựng “thế trận lòng dân” ngày càng vững chắc. Cán bộ làm công tác Dân vận luôn tích cực học tập, nghiên cứu nắm vững đường lối, chủ trương của Đảng, chính sách và pháp luật của Nhà nước; phong tục, tập quán của từng địa phương, từng dân tộc; âm mưu, thủ đoạn chống phá của địch để tuyên truyền, vận động cho quần chúng nhân dân thông suốt, hiểu được quyền lợi, trách nhiệm, nghĩa vụ và quyết tâm cùng với toàn Đảng, toàn quân nỗ lực vượt qua mọi khó khăn, thử thách giành được những thắng lợi vẻ vang trong kháng chiến, thành công trong sự nghiệp xây dựng và bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa ngày nay.`,
+  },
+  {
+    date: "Ngµy 16/10/1968",
+    title: `“dù khó khăn đến đâu cũng phải tiếp tục thi đua dạy tốt và học tốt”`,
+    content: `  Là lời của Chủ tịch Hồ Chí Minh được trích trong “Thư gửi các cán bộ, cô giáo, thầy giáo, công nhân viên, học sinh, sinh viên nhân dịp bắt đầu năm học mới”, đăng trên báo Nhân Dân, số 5299, ngày 16 tháng 10 năm 1968. Đây là bức thư cuối cùng Người gửi cho ngành giáo dục nước nhà. 
+Sau khi dựng lên sự kiện “Vinh Bắc Bộ” (1964), từ năm 1965, đế quốc Mỹ sử dụng không quân, hải quân mở cuộc chiến tranh phá hoại miền Bắc; miền Bắc từ thời bình chuyển sang thời chiến, nhằm đánh bại cuộc chiến tranh phá hoại của không quân, hải quân Mỹ và làm tròn vai trò, nhiệm vụ của hậu phương lớn đối với tiền tuyến lớn miền Nam. Giữa muôn vàn khó khăn, dù tuổi Bác đã cao, sức Bác cũng đã yếu nhiều, nhưng Người vẫn luôn dành cho ngành giáo dục nước nhà sự quan tâm ần cần, đặc biệt, với bao tâm huyết, kỳ vọng để chuẩn bị tốt nhất nguồn nhân lực cao cho công cuộc kiến thiết nước nhà, sau khi Nam - Bắc sum họp một nhà.
+Thực hiện lời dạy của Bác, đội ngũ nhà giáo, cán bộ, người lao động, học sinh, sinh viên, học viên ngành Giáo dục và Đào tạo không ngừng nỗ lực, vượt qua mọi khó khăn, thử thách, mỗi nhà giáo luôn là một tấm gương đạo đức, tự học và sáng tạo, chung sức, chung lòng xây dựng một nền giáo dục vững mạnh, đã đào tạo cho đất nước nguồn nhân lực chất lượng ngày càng cao, đáp ứng yêu cầu trong công cuộc kháng chiến chống đế quốc Mỹ xâm lược, thống nhất đất nước, trong sự nghiệp xây dựng và bảo vệ Tổ quốc, đặc biệt trong công cuộc đổi mới, công nghiệp hoá, hiện đại hoá đất nước hiện nay, xứng đáng với nhận định của Bác về nghề dạy học: "Nhiệm vụ của cô giáo, thầy giáo là rất quan trọng và rất vẻ vang".. Lớp lớp các thế hệ học sinh, sinh viên, học viên… luôn tâm niệm sâu sắc lời Bác dạy năm xưa, đoàn kết, thi đua: “Học, học nữa, học mãi”, “Học để lập thân, lập nghiệp”… vươn lên giành nhiều thành tích cao trong học tập, rèn luyện. Hằng năm, các đội tuyển học sinh Việt Nam tham dự các kỳ thi cấp châu lục và thế giới đều đạt giải cao, góp phần nâng cao uy tín, vị thế nước nhà trên trường quốc tế, thiết thực góp phần chuẩn bị tốt để đất nước hội nhập, phát triển trong cuộc cách mạng công nghiệp lần thứ 4. `,
+  },
+  {
+    date: "Ngµy 17/10/1945",
+    title: `“nếu nước độc lập mà dân không hưởng hạnh phúc tự do, thì độc lập cũng chẳng có nghĩa lý gì ”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong “Thư gửi Ủy ban nhân dân các kỳ, tỉnh, huyện và làng”, ký tên Hồ Chí Minh; đăng trên Báo Cứu quốc, số 69, ngày 17 tháng 10 năm 1945.
+Cách mạng Tháng Tám thành công dẫn đến sự ra đời nước Việt Nam dân chủ Cộng hòa. Đất nước ta, dân tộc ta bước vào kỷ nguyên mới, kỷ nguyên độc lập dân tộc và chủ nghĩa xã hội. Tuy nhiên, đã xuất hiện một bộ phận nhỏ cán bộ có tư tưởng công thần, hách dịch, vun vén lợi ích cá nhân, thiếu sâu sát, quan tâm đến đời sống của quần chúng nhân dân, gây bức xúc dư luận. Chủ tịch Hồ Chí Minh sớm phát hiện, Người viết bài đấu tranh, lên án gay gắt và nghiêm khắc chấn chỉnh.
+Suốt cuộc đời, Hồ Chí Minh luôn mưu cầu cuộc sống tốt đẹp cho mỗi con người, quyền có cuộc sống ấm no, được học hành, được chăm sóc sức khỏe, trẻ em được nuôi dưỡng, chăm sóc, người già, người nghèo, người tàn tật được giúp đỡ. Các quyền con người về chính trị, kinh tế, văn hóa và xã hội được chú trọng và hoàn thiện. Ở Bác, quyền dân tộc và quyền con người là thống nhất trong cả nhận thức và hành động, trong quan điểm, đường lối, chính sách và pháp luật mà Người mong muốn thực hiện. Không có độc lập chân chính, bền vững thì không thể thực hiện được quyền con người và thực hiện ngày càng tốt hơn các quyền cơ bản, thiết thực của con người.
+Quán triệt tư tưởng của Người, Đảng, Nhà nước và nhân dân ta đang đẩy mạnh toàn diện, đồng bộ công cuộc đổi mới vì mục tiêu “dân giàu, nước mạnh, dân chủ, công bằng, văn minh”, quan tâm chăm lo nâng cao đời sống về mọi mặt của nhân dân; chú trọng phát huy nhân tố con người trong mọi lĩnh vực của đời sống xã hội. Những nhiệm vụ trọng tâm đó là sự thống nhất giữa quyền và lợi ích dân tộc với quyền, lợi ích và nghĩa vụ của con người, của công dân, như tâm nguyện của Bác kính yêu.`,
+  },
+  {
+    date: "Ngµy 18/10/1945",
+    title: `“đồng bào chúng ta phải đoàn kết chặt chẽ, phải đấu tranh đến cùng để mưu tự do, hạnh phúc cho dân tộc ”`,
+    content: `  Đây là lời của Hồ Chí Minh trong “Thư gửi đồng bào tỉnh Lào Cai”, ngày 18 tháng 10 năm 1945, báo Cứu quốc, đăng số 71, ngày 19 tháng 10 năm 1945. 
+Cách mạng Tháng Tám thành công, nước Việt Nam Dân chủ Cộng hòa ra đời, đã mở ra một kỷ nguyên mới cho dân tộc Việt Nam. Tuy nhiên, ngay từ khi mới ra đời, Nhà nước ta đã phải đương đầu với muôn vàn khó khăn, thử thách. Trước vận mệnh của chính quyền cách mạng được ví như “ngàn cân treo sợi tóc”; trên cương vị Chủ tịch nước, với bộn bề lo lắng, nhưng Bác vẫn dành sự quan tâm ân cần, sâu sắc đến đồng bào các dân tộc miền núi và chủ trương xây dựng khối đại đoàn kết toàn dân tộc ngày càng vững chắc, làm tiền đề quan trọng để thực hiện thắng lợi mục tiêu của cách mạng Việt Nam. 
+Theo Hồ Chí Minh, đại đoàn kết là để tạo nên lực lượng cách mạng to lớn, để làm cách mạng xóa bỏ chế độ cũ, xây dựng chế độ mới. Do đó, đại đoàn kết dân tộc không thể chỉ dừng lại ở quan niệm, ở tư tưởng, ở những lời kêu gọi, mà phải trở thành một chiến lược cách mạng, trở thành quyết tâm chính trị của toàn Đảng, toàn dân, toàn quân ta. Nó phải biến thành sức mạnh vật chất, thành lực lượng vật chất có tổ chức dưới sự lãnh đạo của Đảng. 
+Nhận thức sâu sắc tư tưởng Hồ Chí Minh về sức mạnh của khối đại đoàn kết toàn dân tộc, Đảng ta xác định, đại đoàn kết dân tộc vừa là mục tiêu, vừa là nhiệm vụ hàng đầu, là sợi chỉ đỏ xuyên suốt đường lối cách mạng của Đảng. Sứ mệnh lịch sử của Đảng là thức tỉnh, tập hợp, hướng dẫn nhằm chuyển những nhu cầu, đòi hỏi khách quan, chính đáng nhưng mang tính tự phát của quần chúng thành sự tự giác, có tổ chức trong khối đại đoàn kết toàn dân tộc vì độc lập dân tộc, vì tự do và hạnh phúc cho nhân dân. Chính sức mạnh khối đại đoàn kết toàn dân tộc đã đưa cách mạng Việt Nam đi từ thắng lợi này đến thắng lợi khác.
+`,
+  },
+  {
+    date: "Ngµy 19/10/1966",
+    title: `“từ xưa đến nay, từ nam đến bắc, từ trẻ đến già, phụ nữ việt nam ta thật là anh hùng ”`,
+    content: `  Đây là lời khẳng định và khen tặng của Chủ tịch Hồ Chí Minh đối với phụ nữ Việt Nam trong bài phát biểu tại Lễ kỷ niệm lần thứ 20, Ngày thành lập Hội Liên hiệp phụ nữ Việt Nam (20/10/1946-20/10/1966), tổ chức ngày 19 tháng 10 năm 1966.
+Cả cuộc đời phấn đấu hy sinh cho dân tộc, giải phóng phụ nữ luôn là khát vọng cháy bỏng của Hồ Chí Minh và Người luôn đi đầu trong cuộc đấu tranh giải phóng phụ nữ ở thế kỷ XX. Nhưng đồng thời Bác cũng luôn thức tỉnh phụ nữ muốn được giải phóng, chị em cũng phải đấu tranh, không ngừng học hỏi, đoàn kết, làm trọn nghĩa vụ, trách nhiệm của mình. Đã có rất nhiều phụ nữ nước ta được Bác khen tặng bởi những thành tích trong học tập, rèn luyện và đóng góp trên mọi lĩnh vực... trong chiến tranh đã xuất hiện nhiều những tấm gương phụ nữ chiến đấu anh dũng, kiên cường, sẵn sàng hy sinh vì độc lập, tự do của Tổ quốc; tiêu biểu như: Chị Nguyễn Thị Minh Khai, Võ Thị Sáu, Nguyễn Thị Lý, Nguyễn Thị Định… xứng đáng là con cháu của Bà Trưng, Bà Triệu, với lời khen tặng của Bác Hồ kính yêu.
+Vinh dự, tự hào với lời khen tặng của Bác kính yêu, tự hào về truyền thống hào hùng trong lịch sử dựng nước và giữu nước của dân tộc,  Phụ nữ Việt Nam không ngừng thi đua học tập, rèn luyện để nâng cao trình độ chính trị, năng lực chuyên môn phấn đấu hoàn thành xuất sắc nhiệm vụ được giao, là những nhân tố quan trọng góp phần vào sự phát triển của xã hội. Nhiều chị em đã trở thành những nhà khoa học, văn nghệ sĩ tài năng, những vị lãnh đạo có giữ cương vị cao trong các cơ quan Đảng và Nhà nước từ cơ sở đến Trung ương, xứng đáng với sự quan tâm và tin tưởng của Bác Hồ.
+Phát huy truyền thống vẻ vang của phụ nữ Việt Nam và phẩm chất cao đẹp “Bộ đội Cụ Hồ”, khắc ghi lời Bác dạy, phụ nữ Quân đội tiếp tục nêu cao tinh thần, trách nhiệm, chủ động, sáng tạo, vượt mọi khó khăn, học tập, lao động sáng tạo, phấn đấu hoàn thành xuất sắc mọi nhiệm vụ được giao, xây dựng gia đình no ấm, bình đẳng, tiến bộ, hạnh phúc để xứng đáng với lời khen tặng của Bác kính yêu.`,
+  },
+  {
+    date: "Ngµy 20/10/1945",
+    title: `“ làm sao cho được 50 người hiểu rõ, còn hơn là được 500 người hiểu lờ mờ ”`,
+    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài “Lời căn dặn các đội viên tuyên truyền xung phong”, ngày 20 tháng 10 năm 1945, đăng trên Báo Cứu quốc, số 73, ngày 22 tháng 10 năm 1945. 
+Theo Chủ tịch Hồ Chí Minh, tuyên truyền cách mạng là một hoạt động thống nhất trên ba mặt. Một là, nhận thức đúng đắn về mục đích và vai trò của tuyên truyền. Hai là, phương pháp tuyên truyền. Ba là, những yêu cầu đối với người làm công tác tuyên truyền. Cả ba mặt trên luôn phải thống nhất, liên hệ, tác động qua lại lẫn nhau. Trong đó nhận thức mục đích đóng vai trò chủ đạo, chi phối trực tiếp đến mọi phương pháp hoạt động tuyên truyền. Những lời khuyên và chỉ bảo của Chủ tịch Hồ Chí Minh cũng như phong cách nói và viết của Người đã vượt qua giới hạn của kỹ năng sử dụng ngôn ngữ đơn thuần, trở thành một nghệ thuật giàu khả năng chinh phục, thấm sâu vào lòng người đọc, người nghe để đội ngũ cán bộ làm công tác tuyên truyền học tập và làm theo. 
+Nhận thức sâu sắc vị trí, vai trò, ý nghĩa quan trọng của công tác tuyên truyền đối với toàn bộ hoạt động lãnh đạo của Đảng. Thông qua công tác tuyên truyền đã góp phần làm cho chủ nghĩa Mác - Lê nin, tư tưởng Hồ Chí Minh, đường lối, chủ trương, chính sách của Đảng, pháp luật của Nhà nước ngày càng thấm sâu vào đời sống xã hội. Đồng thời, đây cũng là một vũ khí sắc bén đấu tranh chống lại các quan điểm thù địch, sai trái, giữ vững trận địa tư tưởng của Đảng, xây dựng Đảng vững mạnh về chính trị, tư tưởng, tổ chức và đạo đức; góp phần quan trọng giáo dục, cổ vũ, động viên toàn Đảng, toàn dân, toàn quân đoàn kết một lòng, vượt qua mọi khó khăn, thử thách, thực hiện thắng lợi đường lối chính trị của Đảng. 
+Công tác tuyên truyền trong Quân đội luôn được Quân ủy Trung ương, Bộ Quốc phòng quan tâm lãnh đạo, chỉ đạo, đầu tư các nguồn lực để tiến hành ở tất cả các cơ quan, đơn vị trong toàn quân. Bám sát sự phát triển của tình hình thế giới, khu vực, trong nước, nhất là những sự kiện chính trị thời sự nổi bật, được đông đảo dư luận trong và ngoài nước đặc biệt quan tâm để tiến hành tuyên truyền. Nội dung tuyên truyền được biên tập công phu, chặt chẽ, phản ánh tất cả các lĩnh vực chính trị, kinh tế, quốc phòng, an ninh, đối ngoại, khoa học công nghệ và môi trường…
+`,
+  },
+  {
+    date: "Ngµy 21/10/1964",
+    title: `“ dù là tên tuổi không đăng trên báo, không được thưởng huân chương, song những người thầy giáo tốt là những người anh hùng vô danh ”`,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
     date: "",
     title: ``,
     content: `  `,
