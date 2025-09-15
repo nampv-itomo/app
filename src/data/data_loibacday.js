@@ -1963,105 +1963,27 @@ Công tác tuyên truyền trong Quân đội luôn được Quân ủy Trung ư
   {
     date: "Ngày 21/10/1964",
     title: `“ dù là tên tuổi không đăng trên báo, không được thưởng huân chương, song những người thầy giáo tốt là những người anh hùng vô danh ”`,
-    content: `  Ngày 21 tháng 10 năm 1964, Chủ tịch Hồ Chí Minh cùng Tổng thống Niu Di lân, ngài Mali Môđibô Câyta đến thăm Trường Đại học Sư phạm Hà Nội. Người đã nói chuyện với các thầy cô giáo, sinh viên và cán bộ, công nhân viên của trường. Trong bài nói, Hồ Chí Minh đã khẳng định những công lao to lớn của các thầy cô giáo đối với sự nghiệp đấu tranh giải phóng đất nước, cũng như trong sự nghiệp xây dựng và bảo vệ Tổ quốc.
-“Tôn sư trọng đạo” là truyền thống quý báu, là bản sắc văn hóa tốt đẹp của dân tộc ta, được vun đắp qua nhiều thế hệ, góp phần tạo nên nền văn hiến Việt Nam với bề dày hàng nghìn năm lịch sử. Từ xưa đến nay, nghề giáo luôn được xã hội tôn vinh là nghề cao quý; cha ông ta từng nói: “Không thầy đố mày làm nên”. Bác Hồ kính yêu đã dạy: “Nhiệm vụ giáo dục là rất quan trọng và vẻ vang, nếu không có thầy giáo thì không có giáo dục… không có giáo dục, không có cán bộ thì không nói gì đến kinh tế - văn hóa”; “Thầy cô giáo tốt là những anh hùng vô danh”; cố Thủ tướng Phạm Văn Đồng cũng đã nhấn mạnh: “Nghề dạy học là nghề cao quý nhất trong những nghề cao quý”.`,
+    content: `  `,
   },
   {
-    date: "Ngày 22/10/1966",
-    title: `“đối với những người có thành tích, phải khen thưởng, đối với những người mắc sai lầm thì phải phê bình, kiểm thảo giúp họ sửa chữa. khi cần thiết thì phải thi hành kỷ luật nghiêm minh, đúng mức ”`,
-    content: `  Là lời của Chủ tịch Hồ Chí Minh trong bài phát biểu tại Đại hội thi đua lực lượng Công an nhân dân, ngày 12 tháng 10 năm 1966; Báo Nhân dân, số 4580, ngày 22 tháng 10 năm 1966. Tại Đại hội, Bác đã đề nghị ngành công an phải có những hoạt động thiết thực để thực hiện thi đua. Trong thi đua Bác đề cập đến việc phải khen thưởng kịp thời, xác đáng đối với những người có thành tích, đối với những người mắc sai lầm thì phải phê bình, kiểm thảo giúp họ sửa chữa. Khi cần thiết thì phải thi hành kỷ luật nghiêm minh, đúng mức. 
-Lời Bác căn dặn năm xưa đến nay vẫn còn nguyên giá trị cả về lý luận và thực tiễn đối với việc thực hiện công tác thi đua, khen thưởng và kỷ luật đối với mọi cấp, mọi ngành và mọi người. Bởi nếu làm tốt công tác thi đua, khen thưởng  là trực tiếp giáo dục, cổ vũ, động viên, khích lệ các tập thể, cá nhân phát huy tính tích cực, chủ động, năng lực sáng tạo, phấn đấu hoàn thành và vượt mức chỉ tiêu đã đề ra, tạo sức lan toả sâu rộng trở thành phong trào hành động cách mạng, thiết thực xây dựng cơ quan, đơn vị vững mạnh toàn diện. 
-Kỷ luật nghiêm minh, đúng mức, khách quan, công khai, công bằng, đúng người, đúng tội là công việc quan trọng và cần thiết nhằm giữ vững kỷ cương, kỷ luật của mỗi tổ chức, bảo đảm sự thống nhất về ý chí và hành động, tăng cường sức chiến đấu, đề cao tự phê bình và hê bình; là điều kiện để xây dựng, phát triển đất nước.`,
+    date: "",
+    title: ``,
+    content: `  `,
   },
   {
-    date: "Ngày 23/10/1946",
-    title: `“một ngày mà tổ quốc chưa thống nhất, đồng bào còn chịu khổ, là một ngày tôi ăn không ngon, ngủ không yên”`,
-    content: `  Đây là lời của Chủ tịch Hồ Chí Minh trong “Lời tuyên bố với quốc dân” sau chuyến đi Pháp về, ngày 23 tháng 10 năm 1946, đăng trên Báo Cứu quốc, số 384, ngày 23 tháng 10 năm 1946.
-Sau khi nêu rõ mục đích, ý nghĩa và kết quả của chuyến đi Pháp, đề ra nhiệm vụ cụ thể của cách mạng nước ta từ tháng 10 năm 1946 đến tháng 1 năm 1947, Người cũng bày tỏ điều tâm niệm bấy lâu của mình: “Một ngày mà Tổ quốc chưa thống nhất, đồng bào còn chịu khổ, là một ngày tôi ăn không ngon, ngủ không yên”.
-Chủ tịch Hồ Chí Minh đã để lại một di sản cao quý là tấm gương sáng ngời phẩm chất đạo đức cao đẹp, suốt đời hy sinh phấn đấu cho đất nước được độc lập, phồn vinh, cho nhân dân được ấm no, tự do, hạnh phúc. Trong con người Hồ Chí Minh có đầy đủ phẩm chất hội tụ của một lãnh tụ thiên tài, đồng thời Người còn là hiện thân của một lãnh tụ kiểu mới của nhân dân: Vĩ đại mà không cao xa; thanh cao mà lại vô cùng giản dị, gần gũi, thân thiết, tin tưởng và gắn bó với quần chúng, hết lòng, hết sức chăm lo cho nhân dân. Người thường xuyên giáo dục cán bộ phải nêu cao tinh thần phục vụ, tinh thần trách nhiệm trước nhân dân, và chính bản thân Người là tấm gương tiêu biểu về tấm gương đạo đức trọn đời phụng sự Tổ quốc, phục vụ nhân dân. Đúng như cố Thủ tướng Phạm Văn Đồng, một học trò xuất sắc và là một cộng sự thân thiết, gần gũi của Chủ tịch Hồ Chí Minh đã viết: “…Đó là cuộc đời oanh liệt, đầy gian khổ hy sinh, vô cùng cao thượng và phong phú, vô cùng trong sáng và đẹp đẽ”.
-Tư tưởng, phong cách và tấm gương đạo đức sáng ngời suốt đời hy sinh chiến đấu, tận tụy phục vụ, vì nước, vì dân “Chỉ biết quên mình cho hết thảy” của Bác Hồ càng thúc giục chúng ta học tập noi theo Người, trở thành nhu cầu tự thân, việc làm tự giác, thường xuyên hằng ngày của mỗi cán bộ, đảng viên và quần chúng. `,
+    date: "",
+    title: ``,
+    content: `  `,
   },
   {
-    date: "Ngày 24/10/1955",
-    title: `“đối với các em, việc giáo dục gồm có:
-thể dục: để làm cho thân thể mạnh khỏe, đồng thời cần giữ gìn vệ sinh riêng và vệ sinh chung.
-trí dục: ôn lại những điều đã học, học thêm những chi thức thấy.
-mỹ dục: để phân biệt cái gì là đẹp, cái gì không đẹp. đức dục: là yêu tổ quốc, yêu nhân dân, yêu lao động, yêu khoa học, trọng của công”`,
-    content: `  Đây là lời của Chủ tịch Hồ Chí Minh trong thư “Gửi các em học sinh”, nhân dịp khai giảng năm học mới, với bút danh C.B, đăng trên Báo Nhân dân số 600, ngày 24 tháng 10 năm 1955. 
-Sinh thời, Chủ tịch Hồ Chí Minh luôn luôn quan tâm và chăm lo đến sự nghiệp giáo dục và đào tạo nước nhà. Người coi: “Giáo dục là cốt sách hàng đầu” trong sự nghiệp cách mạng Việt Nam. Người luôn đặc biệt quan tâm đến việc phát triển con người toàn diện cả về thể lực, đạo đức, trí lực, tài năng và thẩm mỹ. Tư tưởng đó là hình mẫu sinh động của con người toàn diện cho hiện tại và tương lai. Tư tưởng phát triển con người toàn diện của Người là chỉ dẫn sáng suốt để xây dựng thành công chiến lược phát triển con người toàn diện trong điều kiện mới ở nước ta.`,
+    date: "",
+    title: ``,
+    content: `  `,
   },
   {
-    date: "Ngày 25/10/1951",
-    title: `“ quân sự mà không có chính trị như cây không có gốc, vô dụng lại có hại ”`,
-    content: `  Là lời huấn thị của Chủ tịch Hồ Chí Minh tại Trường chính trị trung cấp Quân đội (nay là Học viện Chính trị/ Bộ Quốc phòng) nhân dịp Người về thăm trường ngày 25 tháng 10 năm 1951. 
-Bác đã khẳng định tầm quan trọng đặc biệt của chính trị đối với quân sự và quân đội. Theo Người, chính trị là hồn cốt, là yếu tố quyết định sức mạnh của quân đội. Chính trị không chỉ là đường lối, chính sách của Đảng, còn là bản lĩnh chính trị, phẩm chất đạo đức, tinh thần, ý chí, nghị lực, quyết tâm chiến đấu hy sinh của cán bộ, đảng viên. Quan điểm này của Hồ Chí Minh không chỉ đúng với học thuyết Mác - Lênin về xây dựng quân đội của giai cấp vô sản, mà còn kế thừa những giá trị truyền thống đặc sắc về xây dựng quân đội của ông cha ta, như “hun đúc bằng những điều nhân nghĩa” cho quân đội. Hơn cả, là sự phù hợp với thực tiễn cuộc đấu tranh giải phóng dân tộc, bảo vệ Tổ quốc của nước ta trong điều kiện còn hạn chế về vũ khí trang bị, phương tiện chiến tranh. Thời gian tới, tình hình thế giới, khu vực và trong nước tiếp tục có những diễn biến phức tạp, khó lường; xu thế quốc tế hóa và hội nhập quốc tế, sự bùng nổ của công nghệ thông tin, sự gắn kết chặt chẽ hai nhiệm vụ chiến lược xây dựng và bảo vệ Tổ quốc hay tác động từ mặt trái của nền kinh tế thị trường; đáng chú ý là các thế lực thù địch tiếp tục đẩy mạnh chiến lược diễn biến hòa bình chống phá cách mạng nước ta, cổ xúy cho cái gọi là: “quân đội phi chính trị”, “quân đội phi đảng phái”, đòi hỏi Quân đội nhân dân Việt Nam càng phải thấm nhuần hơn lời dạy của Người về xây dựng quân đội vững mạnh về chính trị; quan tâm lãnh đạo, chỉ đạo chặt chẽ công tác xây dựng quân đội về chính trị; tăng cường bản chất giai cấp công nhân, nâng cao giác ngộ mục tiêu, lý tưởng chiến đấu vì độc lập, tự do, vì chủ nghĩa xã hội; chăm lo xây dựng đội ngũ cán bộ quân đội vững mạnh; phát huy bản chất, truyền thống vẻ vang của quân đội, tăng cường mối quan hệ gắn bó mật thiết giữa quân đội và nhân dân; giữ vững và tăng cường sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng Cộng sản Việt Nam đối với Quân đội nhân dân Việt Nam… để dù trong bất cứ điều kiện, hoàn cảnh nào, quân đội ta vẫn luôn giữ vững, phát huy bản chất giai cấp công nhân, tính nhân dân và tính dân tộc; thực sự là công cụ bạo lực sắc bén của Đảng và Nhà nước`,
-  },
-  {
-    date: "Ngày 26/10/1950",
-    title: `“các cán bộ các cấp phải lãnh đạo và phải làm kiểu mẫu trong việc kiểm thảo và tự  phê bình.
-làm như  thế thì chúng ta sẽ phát triển thêm ưu điểm, sửa chữa sạch khuyết điểm. đánh thắng khuyết điểm của ta tức là đã một lần đánh thắng quân địch ” `,
-    content: `  Đây là lời huấn thị của Chủ tịch Hồ Chí Minh trong “Lời kêu gọi và khuyên nhủ các chiến sĩ”, báo Cứu quốc, số 1676, ngày 26 tháng 10 năm 1950.
-Sau thắng lợi của các trận Đông Khê, Thất Khê, Cao Bằng mở ra một thời kỳ mới trong cuộc kháng chiến trường kỳ chống thực dân Pháp xâm lược - thời kỳ thế chủ động trên chiến trường hoàn toàn nằm trong tay quân đội cách mạng Việt Nam. 
-Chiến dịch này có ý nghĩa bản lề quan trọng, là bước ngoặt của cuộc chiến tranh. Để khắc phục sự chủ quan, tự mãn có thể sẽ xuất hiện trong cán bộ, chiến sĩ, Chủ tịch Hồ Chí Minh đã kịp thời viết thư để tri ân các liệt sĩ, thăm hỏi thương binh, động viên bộ đội và huấn thị cán bộ phải làm tốt công tác lãnh đạo việc phê bình và tự phê bình. Bởi theo Bác, muốn phát huy tốt tác dụng của phê bình, phải tự phê bình mình trước, phê bình từ trong cấp ủy, trong chi bộ đến đơn vị. Tự phê bình không phải là tự hạ thấp mình, tự “nhún nhường” mà là thể hiện trình độ nhận thức, lòng dũng cảm, sự trung thực, ngay thẳng trước tổ chức, đồng chí, đồng đội và rộng hơn là trước Đảng, trước nhân dân; là thể hiện tinh thần cầu thị, ý chí vươn lên của bản thân.`,
-  },
-  {
-    date: "Ngày 27/10/1950",
-    title: `“ mệnh lệnh cấp trên đưa xuống thì phải tuyệt đối phục tùng và triệt để thi hành ”`,
-    content: `  Là lời huấn thị của Chủ tịch Hồ Chí Minh được trích trong bài nói tại Hội nghị tổng kết chiến dịch Lê Hồng Phong II, họp từ ngày 23 đến ngày 28 tháng 10 năm 1950 tại Lam Sơm, tỉnh Cao Bằng.
-Kỷ luật là một trong những yếu tố cơ bản tạo nên sức mạnh chiến đấu của quân đội nhân dân Việt Nam. Chấp hành kỷ luật là một nguyên tắc trong xây dựng quân đội cách mạng, chính quy, tinh nhuệ, từng bước hiện đại, là điều kiện bảo đảm cho quân đội luôn có sự tập trung thống nhất cao về ý chí và hành động, vượt qua khó khăn, thử thách, hoàn thành thắng lợi mọi nhiệm vụ được giao. Hồ Chí Minh đã khẳng định:“quân đội mạnh là nhờ giáo dục khéo, nhờ chính sách đúng và nhờ kỷ luật nghiêm”. Tuyệt đối phục tùng và chấp hành nghiêm mệnh lệnh, chỉ thị của cấp trên là biểu hiện tập trung cao nhất của việc chấp hành nghiêm kỷ luật. Do vậy, Người luôn yêu cầu mọi cán bộ, chiến sĩ trong toàn quân phải chấp hành kỷ luật một cách tự giác và nghiêm minh; đối với mệnh lệnh cấp trên ban xuống thì phải tuyệt đối phục tùng và triệt để thi hành; báo cáo từ dưới lên trên phải thật thà, nhanh chóng và thiết thực; là cá nhân phải tuyệt đối phục tùng tổ chức; số ít phải phục tùng đa số; địa phương phục tùng Trung ương… 
-Lịch sử hơn 70 năm xây dựng, chiến đấu, trưởng thành của Quân đội ta cho thấy, lời huấn thị: “Mệnh lệnh cấp trên đưa xuống thì phải tuyệt đối phục tùng và triệt để thi hành” của Bác thực sự là một di sản tư tưởng, lý luận quý báu; một nguyên tắc đặc biệt quan trọng, trở thành lời thề danh dự của mỗi quân nhân đã góp phần xây dựng Quân đội ta, từ một đội quân du kích lúc ban đầu trở thành một quân đội có ý thức tổ chức kỷ luật cao, luôn kiên định trước mọi khó khăn, thử thách; cách mạng, chính quy, tinh nhuệ, bản lĩnh, sẵn sàng đánh bại mọi kẻ thù xâm lược, bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa.`,
-  },
-  {
-    date: "Ngày 28/10/1950",
-    title: `“ cán bộ phải thương yêu động viên. đối với anh em ốm yếu, thương tật, cán bộ phải trông nom, thăm hỏi ”`,
-    content: `  Là lời huấn thị của Chủ tịch Hồ Chí Minh được trích trong bài nói tại Hội nghị tổng kết chiến dịch Lê Hồng Phong II, họp từ ngày 23 đến ngày 28 tháng 10 năm 1950 tại Lam Sơm, tỉnh Cao Bằng.
-Tình đồng chí, đồng đội là sợi chỉ đỏ xuyên suốt, vừa là thuộc tính bản chất của quân đội cách mạng, vừa là cơ sở tạo nên sức mạnh của quân đội, trong đó quan hệ giữa cán bộ với chiến sĩ là mối quan hệ đặc trưng bản chất. Mối quan hệ giữa cán bộ với chiến sĩ trong Quân đội nhân dân Việt Nam được hình thành, phát triển trong quá trình xây dựng, chiến đấu, trưởng thành, chiến thắng của quân đội, đặt dưới sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng Cộng sản Việt Nam. Một mặt, nó dựa trên cơ sở chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, quan điểm, đường lối của Đảng, chính sách và pháp luật của Nhà nước, chức năng, nhiệm vụ, điều lệnh, điều lệ, chế độ quy định của quân đội; mặt khác, nó dựa trên tình thương yêu giai cấp, tình đồng chí, đồng đội sâu sắc, đoàn kết gắn bó chặt chẽ keo sơn với nhau như ruột thịt “lúc thường cũng như lúc ra trận” giữa những con người cùng chung lý tưởng, mục tiêu, cùng thực hiện nhiệm vụ cao cả của người quân nhân cách mạng. Đó là nguồn sức mạnh vô tận để bộ đội ta vượt qua mọi khó khăn thử thách, hoàn thành xuất sắc mọi nhiệm vụ. Chính vì vậy, đòi hỏi cán bộ phải luôn luôn là tấm gương sáng cho chiến sĩ học tập, noi theo; chiến sỹ phải “tuyệt đối phục tùng mệnh lệnh cấp trên, khi nhận bất cứ nhiệm vụ gì đều tận tâm, tận lực thi hành nhanh chóng và chính xác”. Tình thương yêu đồng chí, đồng đội được tôi luyện, thiết lập vững chắc trong Quân đội ta qua hai cuộc kháng chiến trường kỳ chống thực dân Pháp và đế quốc Mỹ xâm lược, và trở thành nét đẹp truyền thống, thành bản chất không thể phai mờ của nhiều thế hệ cán bộ, chiến sỹ, là một trong những nhân tố gốc cấu thành chủ nghĩa anh hùng cách mạng, truyền thống “Quyết chiến, quyết thắng” của Quân đội ta.`,
-  },
-  {
-    date: "Ngày 29/10/1945",
-    title: `“không quân đội nào, không khí giới nào có thể đánh ngã được tinh thần hy sinh của toàn thể một dân tộc ”`,
-    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong “Lời kêu gọi đồng bào Nam Bộ”, đăng trên Báo Cứu quốc, số 77, ngày 29 tháng 10 năm 1945. 
-Ngày 23 tháng 9 năm 1945, núp bóng quân Anh, thực dân Pháp nổ súng gây hấn ở Sài Gòn, rồi đánh chiếm rộng ra cả Nam Bộ, Nam Trung Bộ và phần lớn Cam-pu-chia; khống chế vùng nông thôn rộng lớn ở Lào,... từng bước thực hiện dã tâm xâm lược Đông Dương lần thứ hai. Nền độc lập mà dân tộc ta mới giành lại được phải đương đầu với nhiều kẻ thù, bị uy hiếp từ nhiều phía. Chủ tịch Hồ Chí Minh đã viết thư kêu gọi đồng bào Nam Bộ giữ vững tinh thần chiến đấu, quyết tâm bảo vệ nền độc lập của dân tộc; trong đó Người tiếp tục khẳng định tinh thần chiến đấu anh dũng hy sinh của dân tộc ta là sức mạnh vô địch để chiến thắng mọi kẻ thù xâm lược.
-Chủ nghĩa yêu nước, tinh thần “Quyết tử, để Tổ quốc quyết sinh” là nhân tố bao trùm, tạo nên bản lĩnh, trí tuệ và tinh thần quả cảm của dân tộc Việt Nam, được hun đúc trong lịch sử và tỏa sáng trong các cuộc kháng chiến giải phóng dân tộc. Những giá trị văn hóa ấy, không chỉ có sức mạnh tập hợp, đoàn kết trong suốt hai cuộc trường kỳ kháng chiến đầy gian khổ, hy sinh mà còn lan xa, thấm đậm trong lòng bạn bè quốc tế, thức tỉnh lương tri nhân loại trên thế giới ủng hộ Việt Nam đánh bại mọi đế quốc, thực dân xâm lược và bè lũ tay sai, giành độc lập, tự do cho Tổ quốc và gặt hái được những thành tựu bước đầu có ý nghĩa lịch sử trong công cuộc đổi mới, công nghiệp hóa - hiện đại hóa đất nước dưới sự lãnh đạo của Đảng.`,
-  },
-  {
-    date: "Ngày 30/10/1968",
-    title: `“dân quân du kích ta có truyền thống rất vẻ vang: già trẻ, gái trai, đều anh dũng đánh giặc, cứu nước cứu nhà; tài giỏi mưu trí, lấy ít thắng nhiều ”`,
-    content: `  Đây là lời khen ngợi của Chủ tịch Hồ Chí Minh dành cho dân quân du kích Việt Nam trong “thư gửi các chiến sĩ dân quân du kích”, Người viết ngày 30 tháng 10 năm 1968. 
-Kế thừa truyền thống “trăm họ là binh”, “cả nước chung sức đánh giặc” của dân tộc, Đảng ta và Hồ Chí Minh đã sớm nhận thấy được sức mạnh của cách mạng bắt nguồn từ quần chúng và đã đề ra chủ trương “vũ trang công nông”. Dưới sự lãnh đạo của Đảng và Chủ tịch Hồ Chí Minh, được nhân dân hết lòng nuôi dưỡng và đùm bọc, lực lượng dân quân tự vệ và du kích đã không ngừng phát huy bản chất cách mạng tốt đẹp, từng bước xây dựng, chiến đấu và trưởng thành, góp phần to lớn trong hai cuộc kháng chiến chống thực dân Pháp và đế quốc Mỹ xâm lược, cùng toàn dân tộc giành độc lập dân tộc, thống nhất nước nhà; tham gia xây dựng và bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa xứng đáng với lời khen của Chủ tịch Hồ Chí Minh: “Dân quân tự vệ và du kích là lực lượng của toàn dân tộc, là một lực lượng vô địch, là bức tường sắt của Tổ quốc. Vô luận địch nhân hung bạo thế nào, hễ đụng vào lực lượng đó, bức tường đó, thì địch nào cũng phải tan rã”.
-Vinh dự, tự hào với lời khen tặng của Bác kính yêu, được sự quan tâm của Đảng, Nhà nước, Quân đội, của cấp ủy, chính quyền các cấp, lực lượng dân quân tự vệ Việt Nam được xây dựng “vững mạnh, rộng khắp”, thực sự là lực lượng nòng cốt bảo vệ Đảng, chính quyền, nhân dân ở cơ sở và góp phần thực hiện thắng lợi sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa vì mục tiêu “dân giàu, nước mạnh, dân chủ, công bằng, văn minh”.`,
-  },
-  {
-    date: "Ngày 31/10/1963",
-    title: `“chi bộ là gốc rễ của đảng ở trong quần chúng. chi bộ tốt thì mọi chính sách của đảng đều được thi hành tốt, mọi công việc đều tiến bộ không ngừng ”
-`,
-    content: `  Là lời của Chủ tịch Hồ Chí Minh trong bài viết “Những chi bộ tốt và chi bộ chưa tốt”, bút danh “T.L”, đăng Báo Nhân dân, số 3503, ngày 31 tháng 10 năm 1963. 
-Đây là sự đánh giá, khẳng định của Bác về bản chất, nguồn gốc sức mạnh của Đảng, vai trò, mối liên hệ mật thiết giữa chi bộ với quần chúng.
-Quán triệt và thực hiện lời Bác dạy, từ khi thành lập đến nay, Đảng ta luôn nhận thức sâu sắc vị trí, vai trò của chi bộ, coi chi bộ là tế bào, là cơ sở của Đảng, là hạt nhân chính trị, lãnh đạo thực hiện nhiệm vụ ở cơ sở; đảng viên là những người có trách nhiệm góp phần xây dựng đường lối, chủ trương, chính sách của Đảng; đồng thời có trách nhiệm tổ chức thực hiện đường lối, chủ trương, chính sách đó với tư cách vừa là người lãnh đạo, vừa là người đầy tớ của nhân dân. Do vậy, xây dựng chi bộ tốt, đội ngũ đảng viên tốt là nhiệm vụ thường xuyên, trọng yếu trong công tác xây dựng Đảng; làm cơ sở, nền tảng xây dựng Đảng ta xứng đáng với trọng trách là Đảng duy nhất cầm quyền, lãnh đạo toàn dân tộc thực hiện thắng lợi sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa trong thời kỳ mới.
-Thực hiện lời Bác Hồ dạy, công tác xây dựng Đảng trong Quân đội luôn được Quân ủy Trung ương, cấp ủy, tổ chức đảng các cấp trong toàn quân quan tâm lãnh đạo, chỉ đạo và triển khai thực hiện nghiêm túc. Chất lượng sinh hoạt, năng lực lãnh đạo, sức chiến đấu của chi bộ không ngừng được nâng lên. Đội ngũ đảng viên trong quân đội phát triển cả số lượng và chất lượng, luôn nêu cao tính tiền phong gương mẫu, có phẩm chất đạo đức cách mạng, có ý thức tổ chức kỷ luật và năng lực hoàn thành các nhiệm vụ được giao.
-`,
-  },
-  {
-    date: "Ngày 01/11/1967",
-    title: `“ …chỉ có sự lãnh đạo của một đảng biết vận dụng một cách sáng tạo chủ nghĩa mác-lênin vào điều kiện cụ thể của nước mình thì mới có thể đưa cách mạng giải phóng dân tộc lên thắng lợi và cách mạng xã hội chủ nghĩa đến thành công ”`,
-    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài “Cách mạng Tháng Mười vĩ đại mở ra con đường giải phóng cho các dân tộc”, gửi cho báo Pravđa (Liên Xô); Báo Nhân dân, đăng số 4952, ngày 01 tháng 11 năm 1967. 
-Trong suốt cuộc đời hoạt động cách mạng của mình, Hồ Chí Minh xem chủ nghĩa Mác - Lênin như kim chỉ nam cho sự nghiệp cứu nước, giải phóng dân tộc và Người luôn nhấn mạnh sự cần thiết phải vận dụng sáng tạo “cẩm nang thần kỳ” đó vào thực tiễn cách mạng. Sự khẳng định trên của Bác có ý nghĩa đặc biệt quan trọng đối với sự lãnh đạo của Đảng Cộng sản Việt Nam, khẳng định và đánh giá cao bài học kinh nghiệm về lý luận và thực tiễn trong lãnh đạo, chỉ đạo cách mạng của Đảng, đó là một trong những bài học có tính nguyên tắc và phổ biến, đảm bảo cho sự nghiệp giải phóng triệt để của giai cấp công nhân và các dân tộc bị áp bức. Thực tiễn chứng minh, dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, dựa trên nền tảng chủ nghĩa Mác - Lênin vào hoàn cảnh cụ thể ở nước ta đã đưa cách mạng Việt Nam đi từ thắng lợi này đến thắng lợi khác, giành lại độc lập dân tộc, thống nhất đất nước, tiếp tục giành những thắng lợi trong công cuộc xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.
-`,
-  },
-  {
-    date: "Ngày 02/11/1959",
-    title: `“…chớ nên cái gì tốt thì dành cho mình, xấu để cho người khác  ” `,
-    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài nói tại hội nghị rút kinh nghiệm công tác quản lý hợp tác xã nông nghiệp toàn miền Bắc, đăng trên Báo Nhân dân, số 2056, ngày 02 tháng 11 năm 1959. 
-Đây là thời điểm miền Bắc nước ta đang trên con đường xây dựng chủ nghĩa xã hội, các ngành, các cấp ra sức thi đua thực hiện thắng lợi đường lối của Đảng và Chính phủ về xây dựng hợp tác xã sản xuất nông nghiệp, xóa bỏ tư hữu cá nhân về ruộng đất để phục vụ xây dựng chủ nghĩa xã hội và chi viện sức người, sức của cho chiến trường miền Nam, đấu tranh giải phóng dân tộc, thống nhất đất nước. 
-Lời dạy của Bác có ý nghĩa rất sâu sắc trong bối cảnh toàn miền Bắc đang thực hiện hợp tác xã nông nghiệp, việc xây dựng cũng như quản lý hợp tác xã còn gặp nhiều khó khăn, chưa có kinh nghiệm. Mặt khác, ở một bộ phận cán bộ quản lý vẫn còn tư tưởng bảo thủ, lạc hậu, cá nhân chủ nghĩa, chỉ muốn nhận cái tốt về mình và đẩy cái xấu, cái chưa tốt cho người khác, làm ảnh hưởng đến công cuộc xây dựng hợp tác xã nông nghiệp của Đảng và Nhà nước ta. Lời dạy của Bác trong thời điểm này, không những chỉ ra những hạn chế, biện pháp khắc phục mà còn là lời căn dặn, nhắc nhở đối với toàn thể cán bộ làm công tác quản lý nhà nước ta nói chung và quản lý hợp tác xã nông nghiệp nói riêng, kịp thời chấn chỉnh những nhận thức, quan điểm lệch lạc của một số tổ chức và cá nhân trong phương thức làm ăn mới, góp phần vào xây dựng tính tập thể, tình đoàn kết toàn dân thành một khối đại đoàn kết dân tộc, tạo cơ sở cho nông nghiệp miền Bắc phát triển và đi lên chủ nghĩa xã hội; đồng thời, để cho mỗi cá nhân trong tập thể “tự soi, tự sửa”, xây dựng ý thức và hành động của bản thân, mình vì mọi người, tất cả vì miền Nam ruột thịt, góp phần vào thắng lợi của cách mạng miền Nam. 
-`,
-  },
-  {
-    date: "Ngày 03/11/1968",
-    title: `“ …hễ còn một tên xâm lược trên đất nước ta, thì ta còn phải tiếp tục chiến đấu, quyét sạch nó đi… ”`,
-    content: `  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong “Lời kêu gọi cả nước tiến lên đánh thắng giặc Mỹ xâm lược”, đăng Báo Nhân dân, số 5317, ngày 03 tháng 11 năm 1968.
-Lời kêu gọi thể hiện sâu sắc ý chí mạnh mẽ và quyết tâm sắt đá của toàn Đảng, toàn quân và toàn dân ta kiên quyết bảo vệ nền độc lập, tự do của dân tộc, phản ánh niềm tin vững chắc vào sức mạnh của dân tộc Việt Nam, dù phải chịu nhiều hy sinh gian khổ nhưng không thể lay chuyển ý chí, quyết tâm của toàn thể dân tộc Việt Nam về một nước Việt Nam hoà bình, độc lập, thống nhất và toàn vẹn lãnh thổ. Lời kêu gọi của Người tựa như lời “hịch” đanh thép thúc giục cả dân tộc đồng tâm, nhất trí, vượt qua mọi khó khăn, thử thách, quyết tâm chiến đấu đến thắng lợi hoàn toàn. Lời kêu gọi còn là một cuộc vận động lớn để toàn Đảng, toàn quân và toàn dân tộc đoàn kết, thống nhất ý chí và hành động, củng cố niềm tin, xiết chặt đội ngũ để đi vào giai đoạn quyết liệt nhất của cuộc kháng chiến chống Mỹ, cứu nước vĩ đại không chỉ của dân tộc Việt Nam mà của cả nhân loại tiến bộ trong thế kỷ XX. Đó là tinh thần kiên quyết tiến công của Chủ tịch Hồ Chí Minh, của Đảng ta, của toàn quân và toàn dân ta trong suốt quá trình đấu tranh cách mạng và chiến tranh cách mạng. Tinh thần tiến công đó tiếp tục soi sáng sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa vì mục tiêu dân giàu, nước mạnh, dân chủ, công bằng, văn minh. 
-Trong những năm tới, tình hình thế giới, khu vực sẽ còn nhiều diễn biến phức tạp, tiềm ẩn nhiều nhân tố gây mất ổn định, bất trắc, khó lường; tranh chấp lãnh thổ, chủ quyền biên giới, biển, đảo, đặc biệt là trên Biển Đông tiếp tục diễn ra gay gắt, phức tạp. Trong nước, bên cạnh những thuận lợi cơ bản, bốn nguy cơ mà Đảng ta đã chỉ ra vẫn còn tồn tại. Các thế lực thù địch đẩy mạnh “diễn biến hòa bình”, bạo loạn lật đổ, thúc đẩy “tự diễn biến”, “tự chuyển hóa” trong nội bộ ta nhằm xóa bỏ vai trò lãnh đạo của Đảng và âm mưu “phi chính trị hóa” quân đội. Để thực hiện trọn vẹn lời kêu gọi của Chủ tịch Hồ Chí Minh, chúng ta phải thường xuyên chăm lo xây dựng lực lượng vũ trang nhân dân Việt Nam vững mạnh về chính trị, tư tưởng, tổ chức và đạo đức, lấy xây dựng về chính trị làm cơ sở. Nâng cao bản chất giai cấp công nhân, tính nhân dân, tính dân tộc, đảm bảo lực lượng vũ trang nhân dân luôn là lực lượng chính trị, lực lượng chiến đấu trung thành, tin cậy của Đảng, Nhà nước và nhân dân.`,
+    date: "",
+    title: ``,
+    content: `  `,
   },
   {
     date: "",
@@ -2254,13 +2176,54 @@ Trong những năm tới, tình hình thế giới, khu vực sẽ còn nhiều 
     content: `  `,
   },
   {
-    date: "Ngày 01/12",
-    title: `“Để làm tròn nhiệm vụ cao quý của mình, văn nghệ sĩ cần phải rèn luyện đạo đức cách mạng, nâng cao tinh thần phục vụ nhân dân, giữ gìn thái độ khiêm tốn; phải thật sự hòa mình với quần chúng, cố gắng học tập chính trị, trau dồi nghề nghiệp; phải hết lòng giúp đỡ thanh niên, làm cho văn nghệ nước nhà ngày càng thêm trẻ thêm xuân” .`,
-    content: `  Đây là lời căn dặn của Chủ tịch Hồ Chí Minh được trích trong bài nói tại Đại hội Văn nghệ toàn quốc lần thứ III, ngày 01 tháng 12 năm 1962, đăng trên Báo Nhân dân, số 3173, ra ngày 02 tháng 12 năm 1962. 
-Là người đặt nền móng cho nền văn học nghệ thuật cách mạng, Chủ tịch Hồ Chí Minh kính yêu đã có công xây dựng một nền văn nghệ mới, thường xuyên sâu sát và có những lời chỉ bảo tận tình, cần thiết cho đội ngũ những người làm công tác văn hóa văn nghệ, đặc biệt là các anh chị em nghệ sĩ. Lời căn dặn của Bác rõ ràng, dễ hiểu nhưng là bài học sâu sắc, tinh tế có giá trị định hướng cụ thể về nhận thức, tư tưởng và hành động nhằm nâng cao tinh thần cảnh giác, mài sắc ý chí chiến đấu cho những người cầm bút.
-Thực hiện lời Bác dạy, trong suốt cuộc kháng chiến chống Mỹ, cứu nước, hàng chục ngàn văn nghệ sĩ đã “xẻ dọc Trường Sơn đi cứu nước” đến với tiền tuyến lớn, lăn lộn trên các chiến trường đầy khói lửa và có những đóng góp quan trọng cho sự nghiệp thống nhất nước nhà. Sau ngày đất nước thống nhất, đặc biệt là trong công cuộc đổi mới đất nước, đội ngũ văn nghệ sĩ nước nhà tiếp tục phát huy tài năng sáng tạo của mình, thật sự hòa mình vào cuộc sống lao động sản xuất, bảo vệ Tổ quốc trong thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa và hội nhập quốc tế, phấn đấu có nhiều tác phẩm xuất sắc, xứng đáng với tầm vóc của cách mạng, với dân tộc Việt Nam.   
-Hiện nay, lời căn dặn của Bác vẫn giữ nguyên giá trị, có ý nghĩa to lớn nhằm động viên văn nghệ sĩ cả nước bồi dưỡng cái tâm và cái tài, khám phá, sáng tạo nên nhiều tác phẩm hay và tốt phục vụ Tổ quốc, phục vụ nhân dân. Thực hiện lời dạy của Bác, Đảng và Nhà nước ta rất quan tâm đến đội ngũ văn nghệ sĩ - những người chiến sĩ tiên phong trên mặt tư tưởng, văn hóa của Đảng và đã xác định rõ trách nhiệm của lực lượng này là cần phải nêu cao trách nhiệm trước nhân dân, thấm nhuần sâu sắc tinh thần nhân văn, dân chủ, có tác dụng giáo dục, xây dựng con người; tích cực cổ vũ cái đúng, cái tốt, cái đẹp trong quan hệ giữa con người với con người, giữa con người với xã hội, với thiên nhiên, đồng thời phê phán những thói hư tật xấu, lên án cái ác, cái thấp hèn…  Thấm nhuần lời dạy của Bác, mỗi văn nghệ sĩ trong Quân đội cần ra sức học tập nâng cao trình độ, chuyên môn nghiệp vụ, tích cực tu dưỡng, rèn luyện phẩm chất đạo đức, lối sống nhằm không ngừng tự hoàn thiện bản thân; đi sâu bám sát mọi hoạt động của bộ đội, phấn đấu sáng tạo nên nhiều tác phẩm nghệ thuật có giá trị đáp ứng kịp thời nhu cầu thẩm mỹ của bộ đội, góp phần tô thắm thêm phẩm chất cao đẹp “Bộ đội Cụ Hồ” trong thời kỳ mới.
-`,
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
+  },
+  {
+    date: "",
+    title: ``,
+    content: `  `,
   },
   {
     date: "Ngày 02/12/1949",
