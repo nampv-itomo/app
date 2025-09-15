@@ -2254,9 +2254,13 @@ Trong những năm tới, tình hình thế giới, khu vực sẽ còn nhiều 
     content: `  `,
   },
   {
-    date: "",
-    title: ``,
-    content: `  `,
+    date: "Ngày 01/12",
+    title: `“Để làm tròn nhiệm vụ cao quý của mình, văn nghệ sĩ cần phải rèn luyện đạo đức cách mạng, nâng cao tinh thần phục vụ nhân dân, giữ gìn thái độ khiêm tốn; phải thật sự hòa mình với quần chúng, cố gắng học tập chính trị, trau dồi nghề nghiệp; phải hết lòng giúp đỡ thanh niên, làm cho văn nghệ nước nhà ngày càng thêm trẻ thêm xuân” .`,
+    content: `  Đây là lời căn dặn của Chủ tịch Hồ Chí Minh được trích trong bài nói tại Đại hội Văn nghệ toàn quốc lần thứ III, ngày 01 tháng 12 năm 1962, đăng trên Báo Nhân dân, số 3173, ra ngày 02 tháng 12 năm 1962. 
+Là người đặt nền móng cho nền văn học nghệ thuật cách mạng, Chủ tịch Hồ Chí Minh kính yêu đã có công xây dựng một nền văn nghệ mới, thường xuyên sâu sát và có những lời chỉ bảo tận tình, cần thiết cho đội ngũ những người làm công tác văn hóa văn nghệ, đặc biệt là các anh chị em nghệ sĩ. Lời căn dặn của Bác rõ ràng, dễ hiểu nhưng là bài học sâu sắc, tinh tế có giá trị định hướng cụ thể về nhận thức, tư tưởng và hành động nhằm nâng cao tinh thần cảnh giác, mài sắc ý chí chiến đấu cho những người cầm bút.
+Thực hiện lời Bác dạy, trong suốt cuộc kháng chiến chống Mỹ, cứu nước, hàng chục ngàn văn nghệ sĩ đã “xẻ dọc Trường Sơn đi cứu nước” đến với tiền tuyến lớn, lăn lộn trên các chiến trường đầy khói lửa và có những đóng góp quan trọng cho sự nghiệp thống nhất nước nhà. Sau ngày đất nước thống nhất, đặc biệt là trong công cuộc đổi mới đất nước, đội ngũ văn nghệ sĩ nước nhà tiếp tục phát huy tài năng sáng tạo của mình, thật sự hòa mình vào cuộc sống lao động sản xuất, bảo vệ Tổ quốc trong thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa và hội nhập quốc tế, phấn đấu có nhiều tác phẩm xuất sắc, xứng đáng với tầm vóc của cách mạng, với dân tộc Việt Nam.   
+Hiện nay, lời căn dặn của Bác vẫn giữ nguyên giá trị, có ý nghĩa to lớn nhằm động viên văn nghệ sĩ cả nước bồi dưỡng cái tâm và cái tài, khám phá, sáng tạo nên nhiều tác phẩm hay và tốt phục vụ Tổ quốc, phục vụ nhân dân. Thực hiện lời dạy của Bác, Đảng và Nhà nước ta rất quan tâm đến đội ngũ văn nghệ sĩ - những người chiến sĩ tiên phong trên mặt tư tưởng, văn hóa của Đảng và đã xác định rõ trách nhiệm của lực lượng này là cần phải nêu cao trách nhiệm trước nhân dân, thấm nhuần sâu sắc tinh thần nhân văn, dân chủ, có tác dụng giáo dục, xây dựng con người; tích cực cổ vũ cái đúng, cái tốt, cái đẹp trong quan hệ giữa con người với con người, giữa con người với xã hội, với thiên nhiên, đồng thời phê phán những thói hư tật xấu, lên án cái ác, cái thấp hèn…  Thấm nhuần lời dạy của Bác, mỗi văn nghệ sĩ trong Quân đội cần ra sức học tập nâng cao trình độ, chuyên môn nghiệp vụ, tích cực tu dưỡng, rèn luyện phẩm chất đạo đức, lối sống nhằm không ngừng tự hoàn thiện bản thân; đi sâu bám sát mọi hoạt động của bộ đội, phấn đấu sáng tạo nên nhiều tác phẩm nghệ thuật có giá trị đáp ứng kịp thời nhu cầu thẩm mỹ của bộ đội, góp phần tô thắm thêm phẩm chất cao đẹp “Bộ đội Cụ Hồ” trong thời kỳ mới.
+`,
   },
   {
     date: "Ngày 02/12/1949",
